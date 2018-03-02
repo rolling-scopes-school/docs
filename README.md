@@ -11,5 +11,5 @@
 - [Требования к коммитам и PR](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md)
 - Требования к верстке
    - http://habrahabr.ru/company/htmlacademy/blog/254171/
-   - http://html-academy.ru/codeguide/
+   - http://codeguide.academy/html-css.html
    
