@@ -9,4 +9,7 @@
 ### Для студентов
 - [Второй этап. Как и куда отправлять Д/З](https://gist.github.com/R1ZZU/ff1b5a3b045fc8ce945a)
 - [Требования к коммитам и PR](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md)
-- [Требования к верстке](http://habrahabr.ru/company/htmlacademy/blog/254171/)
+- Требования к верстке
+   - http://habrahabr.ru/company/htmlacademy/blog/254171/
+   - http://html-academy.ru/codeguide/
+   
