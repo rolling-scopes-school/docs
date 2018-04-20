@@ -26,3 +26,22 @@ http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=fals
 - Срыв занятия, мешать тренеру проводить лекцию/воркшоп
 - Иные (например: brexit, мировой финансовый кризис и т.д.)
 
+### Что делать, если нет профильного технического образования или не хватает знаний
+Подумать, сможете ли вы уделить как минимум полгода, а может и год на подготовку.
+Если ДА, то:  
+1. Пойти на курсы английского языка до получение уровня Pre-Intermediate (Минимум).  
+2. Параллельно заниматься самостоятельно.  
+
+Можно начать тут: 
+- https://www.codecademy.com/  (совсем базовые знания)
+- http://www.codewars.com/dashboard (тут можно тренироваться)
+- http://learn.javascript.ru/ (хорошая книжка на русском языке)
+
+Пройти следующие бесплатные онлайн курсы:
+- Основы
+   - https://www.edx.org/cs50 или его перевод на русском языке https://javarush.ru/quests/QUEST_HARVARD_CS50
+   - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
+- Базовые алгоритмы
+   - https://www.coursera.org/course/algs4partI
+
+
