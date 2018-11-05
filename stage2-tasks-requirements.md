@@ -10,13 +10,13 @@
   - GitHub автоматически присылает вам инвайт для доступа в репозиторий. Инвайт приходит на почту указаную вами при регистрации на GitHub (а не на почту указаную вами в Padawans).
  
 ## Как работать с приватным репозиторием? 
-* Склонировать его себе 'git clone https://github.com/rolling-scopes-school/<your private repo>.git'
+* Склонировать его себе `git clone https://github.com/rolling-scopes-school/<your private repo>.git`
 * Проставить в конфиге ваши актульные данные 
    * `git config user.name "Name Surname"`
    * `git config user.email "your@email"` (емэйл должен совпадать с емэйлом указаным в github-e)
 * Создать бранч по имени задания `git checkout -b <task name>`
 * Создать папку `mkdir <task name>` Все файлы относящиеся к заданию должны храниться в ней
-* Решить задания, коммитая по ходу решения (смотрите секцию - требования к коммитам)
+* Выполнить задание, коммитая по ходу решения (смотрите секцию - требования к коммитам)
 * Залить в remote branch `git push origin <task name>`
 * Создать Pull Request из бранча <task name> в ветку master.
  
