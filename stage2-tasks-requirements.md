@@ -10,25 +10,15 @@
   - GitHub автоматически присылает вам инвайт для доступа в репозиторий. Инвайт приходит на почту указаную вами при регистрации на GitHub (а не на почту указаную вами в Padawans).
  
 ## Как работать с приватным репозиторием? 
-* создаем новую папку
-* переходим в нее
-* открываем git bash
-* `git init`
-* `git remote add origin <your repo url>`
-* `git config user.name "Name Surname"`
-* `git config user.email "your@email"` (емэйл должен совпадать с емэйлом указаным в github-e)
-* создаем в папке текстовый файл README.md
-* `git add README.md`
-* `git commit -m "initial commit"`
-* смотрим как нужно называть папку с таском и также называем бранч в котором будем работать
-* `git checkout -b <task folder name>`
-* добавляем папку с соответствующим именем
-* копируем все нужные файлы в эту папку
-* добавляем файлы при помощи `git add`
-* коммитаем
-* `git push origin master`
-* `git push origin <task folder name>`
-* Создаем Pull Request из бранча <task folder name> в ветку master.
+* Склонировать его себе 'git clone https://github.com/rolling-scopes-school/<your private repo>.git'
+* Проставить в конфиге ваши актульные данные 
+   * `git config user.name "Name Surname"`
+   * `git config user.email "your@email"` (емэйл должен совпадать с емэйлом указаным в github-e)
+* Создать бранч по имени задания `git checkout -b <task name>`
+* Создать папку `mkdir <task name>` Все файлы относящиеся к заданию должны храниться в ней
+* Решить задания, коммитая по ходу решения (смотрите секцию - требования к коммитам)
+* Залить в remote branch `git push origin <task name>`
+* Создать Pull Request из бранча <task name> в ветку master.
  
 ## Требования к коммитам
 - Названия коммитов должны быть согласно гайдлайна - https://www.conventionalcommits.org/en/v1.0.0-beta.2/ 
@@ -36,10 +26,10 @@
 ```
   * Allowed Types:
     * docs: - *documentation only changes*
-    * feat: - *a new feature*
-    * fix: - *a bug fix*
-    * perf: - *a code change that improves performance*
-    * refactor: - *a code change that neither fixes a bug nor adds a feature*
+    * feat: - *a new feature* - это реализованная новая функциональность из тех задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
+    * fix: - *a bug fix* - исправил ошибку в ранее реализованной функциональности
+    * perf: - *a code change that improves performance* - сделал чтобы ранее реализованная функциональность работала побыстрее
+    * refactor: - *a code change that neither fixes a bug nor adds a feature* - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
     * style: - *сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)*
     * ...
   * Use the present tense ("add feature" not "added feature")
@@ -47,6 +37,8 @@
   * Limit the first line to 72 characters or less
   * Reference issues and pull requests liberally after the first line
 ```
+Пример оформления коммитов в приложении школы The Rolling Scopes: 
+https://github.com/rolling-scopes/rsschool-ui/commits/master 
  
 ## Требования к Pull Request (PR)
 ### Описание Pull Request должно содержать следующую информацию
