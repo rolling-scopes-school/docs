@@ -1,4 +1,4 @@
-# Описание stage#1 [RS School](https://rs.school/js/index.html) 2019Q1
+# Описание [RS School 2019Q1](https://rs.school/js/index.html) stage#1
 
 ## Цели stage#1: 
 - изучение основ HTML/CSS
@@ -33,9 +33,7 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
      
 ### HTML & CSS
  * [Codeacademy](/tasks/Codecademy_HTML_CSS_Course.md)
- 
-   * [Welcome Aboard!](/tasks/welcome-aboard.md)
-   
+    
 ### Git 
 - https://www.pluralsight.com/courses/how-git-works
 - https://www.pluralsight.com/courses/code-school-git-real 
