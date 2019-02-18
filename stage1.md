@@ -1,10 +1,18 @@
-# Описание stage#1 RS School 2019Q1
+# Описание stage#1 [RS School](https://rs.school/js/index.html) 2019Q1
 
-### Цели первого этапа: 
+## Цели stage#1: 
 - изучение основ HTML/CSS
 - изучение основ Git
 - изучение основ JS
 - [подготовка к интервью с ментором](https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/technical-screening.md)
+
+## Расписание занятий и вебинаров, дедлайны заданий
+https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1761135621
+
+### Задания stage#1
+- Присоединиться к чату - https://discord.gg/pJN2M5Y
+- Заполнить профайл на https://epa.ms/padawans 
+- Решить как можно больше задач (максимум 7) https://epa.ms/padawans до 20 марта 2019
 
 ### Английский язык
 - [К моменту окончания третьего этапа обучения ваш уровень английского должен быть уровня A2 (pre-intermediate) или выше.](https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/english.md)
@@ -22,10 +30,18 @@
 - Отличные книги по JS на английском:
      * http://speakingjs.com/es5/index.html
      * http://exploringjs.com/es6/index.html
+     
+### HTML & CSS
+ * [Codeacademy](/tasks/Codecademy_HTML_CSS_Course.md)
+ 
+   * [Welcome Aboard!](/tasks/welcome-aboard.md)
+   
+### Git 
+- https://www.pluralsight.com/courses/how-git-works
+- https://www.pluralsight.com/courses/code-school-git-real 
+- https://git-scm.com/book/en/v2
+- https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
-
-### 
-1) Зарегистрироваться и заполнить профайл на https://epa.ms/padawans 
 
 
  ## Week #1
