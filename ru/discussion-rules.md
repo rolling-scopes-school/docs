@@ -25,9 +25,9 @@
 
 ### Категория `Help или Assist или TaskHelp или Tasks или еще как-то.`
 В данной категории названия каналов соответствуют названиям заданий. Исключение -  канал по проблемам использования git.
+Канал создается перед выдачей задания и удаляется через месяц после дедлайна. 
 - **#git**
-- **#padawans**
-- **#programming-task**
+- **#padawans-programming-task** - обсуждение заданий из https://epa.ms/padawans
 - **#mentor-dashboard**
 - **#final-game**
 - **#codejam-5-dreamteam**
