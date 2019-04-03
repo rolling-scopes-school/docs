@@ -9,6 +9,10 @@
 
 ## Настройка OBS
 
+0. video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tys-IYIcYu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. установить под свою систему https://obsproject.com/
 
 ![установка](./images/obs_init.png)
