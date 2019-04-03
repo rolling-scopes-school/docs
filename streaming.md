@@ -11,7 +11,10 @@
 
 0. video 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tys-IYIcYu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![видео инструкция](https://img.youtube.com/vi/tys-IYIcYu8/0.jpg)](https://www.youtube.com/watch?v=tys-IYIcYu8)
+
+
 
 1. установить под свою систему https://obsproject.com/
 
