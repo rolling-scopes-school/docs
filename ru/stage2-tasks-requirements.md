@@ -3,7 +3,7 @@
 ## Репозиторий
  Начиная с stage#2, по умолчанию все таски необходимо сохранять в приватный репозиторий на GitHub.  
  Приватный репозиторий будет выдан вам в начале stage#2.  
- Дата выдачи будет оглашена дополнительно в чате https://gitter.im/rolling-scopes-school/announcements  
+ Дата выдачи будет оглашена дополнительно в чате discord канал announcements - https://discord.gg/WkYCfV2  
  Выдача репозиториев происходит следующим образом:
   - мы создаем вам приватный репозиторий
   - добавляем вас в контрибьютеры
@@ -25,13 +25,12 @@
 Основные требования:
 ```
   * Allowed Types:
+    * init: - start task#1 - используется для начала проекта
     * docs: - *documentation only changes*
     * feat: - *a new feature* - это реализованная новая функциональность из тех задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
     * fix: - *a bug fix* - исправил ошибку в ранее реализованной функциональности
-    * perf: - *a code change that improves performance* - сделал чтобы ранее реализованная функциональность работала побыстрее
     * refactor: - *a code change that neither fixes a bug nor adds a feature* - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
     * style: - *сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)*
-    * ...
   * Use the present tense ("add feature" not "added feature")
   * Use the imperative mood ("move cursor to..." not "moves cursor to...")
   * Limit the first line to 72 characters or less
@@ -39,6 +38,52 @@
 ```
 Пример оформления коммитов в приложении школы The Rolling Scopes: 
 https://github.com/rolling-scopes/rsschool-ui/commits/master 
+
+### Примеры комит месседжей
+
+```
+// init
+init: start youtube-task
+init: start mentor-dashboard task
+
+// feat for youtube task https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md
+feat: add basic page layout
+feat: implement search box 
+feat: implement request to youtube API
+feat: implement swipe for horizontal list
+feat: add additional navigation button
+
+// feat for neutron mail https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-d2-NeutronMail-en.md
+feat: add basic layout
+feat: add header 
+feat: add banner
+feat: add social links
+feat: add physical security section
+feat: add real social icons
+
+// fix
+fix: implement correct loading data from youtube
+fix: change layout for video items to fix bugs
+fix: relayout header for firefox
+fix: adjust social links for mobile
+
+// refactor
+refactor: change structure of the project
+refactor: rename vars for better readability
+refactor: apply eslint
+refactor: apply prettier
+
+// docs
+docs: update readme with additional information
+
+// style should be used to separate styles changes from logical / bussines changes
+style: update site logo
+style: fix main banner position
+style: change color to more beatiful
+style: apply fixes from code review
+
+```
+
  
 ## Требования к Pull Request (PR)
 ### Описание Pull Request должно содержать следующую информацию
