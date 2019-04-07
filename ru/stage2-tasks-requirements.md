@@ -22,22 +22,16 @@
  
 ## Требования к коммитам
 - Названия коммитов должны быть согласно гайдлайна - https://www.conventionalcommits.org/en/v1.0.0-beta.2/ 
-Основные требования:
-```
-  * Allowed Types:
-    * init: - start task#1 - используется для начала проекта
-    * docs: - *documentation only changes*
-    * feat: - *a new feature* - это реализованная новая функциональность из тех задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
-    * fix: - *a bug fix* - исправил ошибку в ранее реализованной функциональности
-    * refactor: - *a code change that neither fixes a bug nor adds a feature* - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
-    * style: - *сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)*
-  * Use the present tense ("add feature" not "added feature")
-  * Use the imperative mood ("move cursor to..." not "moves cursor to...")
-  * Limit the first line to 72 characters or less
-  * Reference issues and pull requests liberally after the first line
-```
-Пример оформления коммитов в приложении школы The Rolling Scopes: 
-https://github.com/rolling-scopes/rsschool-ui/commits/master 
+- Должен использоваться present tense ("add feature" not "added feature")
+- Должен использоваться imperative mood ("move cursor to..." not "moves cursor to...")
+
+### Типы коммитов
+- init: - start task#1 - используется для начала проекта/таска
+- docs: - *documentation only changes*
+- feat: - *a new feature* - это реализованная новая функциональность из тех задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
+- fix: - *a bug fix* - исправил ошибку в ранее реализованной функциональности
+- refactor: - *a code change that neither fixes a bug nor adds a feature* - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
+- style: - *сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)*
 
 ### Примеры комит месседжей
 
