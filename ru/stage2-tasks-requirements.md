@@ -26,12 +26,12 @@
 - Должен использоваться imperative mood ("move cursor to..." not "moves cursor to...")
 
 ### Типы коммитов
-- init: - start task#1 - используется для начала проекта/таска
-- docs: - *documentation only changes*
-- feat: - *a new feature* - это реализованная новая функциональность из тех задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
-- fix: - *a bug fix* - исправил ошибку в ранее реализованной функциональности
-- refactor: - *a code change that neither fixes a bug nor adds a feature* - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
-- style: - *сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)*
+- `init:` - используется для начала проекта/таска
+- `docs:` - используется при работе с документацией/readme проекта
+- `feat:` - это реализованная новая функциональность из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
+- `fix:` - исправил ошибку в ранее реализованной функциональности
+- `refactor:` - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
+- `style:` - сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 
 ### Примеры комит месседжей
 
