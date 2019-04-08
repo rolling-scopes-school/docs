@@ -20,11 +20,11 @@ Discord чат используется для анонса трансляции
 ### Шаги
 #### 1. Установить [Open Broadcast Studio (OBS)](https://obsproject.com/)
 #### 2. Настроить параметры стрима
-![установка](./images/obs_init.png)
+![установка](../images/obs_init.png)
 #### 3. Настроить параметры выходного потока (чтобы сделать запись локально)
-![установка](./images/obs_settings_video.png)
+![установка](../images/obs_settings_video.png)
 #### 4. Настроить сцену - добавить захват экрана, добавить веб камеру, если нужно
-![добавить захват экрана](./images/obs_scene_add_display_capture.png)
+![добавить захват экрана](../images/obs_scene_add_display_capture.png)
 #### 5. Проверить параметры видео и звука, начав запись локально
 
 ### Полная видео инструкция
@@ -33,12 +33,12 @@ Discord чат используется для анонса трансляции
 ## Настройка параметров трансляции на YouTube
 ### Шаги
 #### 1. Открыть дашборд live трансляции
-![дашборд стрима](./images/live_dashboard.png)
+![дашборд стрима](../images/live_dashboard.png)
 #### 2. Выставить в stream options параметры задержки
-![настройки стрима](./images/stream_settings.png)
+![настройки стрима](../images/stream_settings.png)
 #### 3. Выставить название стрима, описание и превью
-![превью](./images/add_thumbnail.png)
+![превью](../images/add_thumbnail.png)
 #### 4. Скопировать ключ трансляции из дашборда стрима
-![превью](./images/stream_key.png)
+![превью](../images/stream_key.png)
 
-![превью](./images/obs_stream_settings.png)
+![превью](../images/obs_stream_settings.png)
