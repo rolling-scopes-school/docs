@@ -4,7 +4,7 @@
 ## Rules  
 * Official Languages: EN, BE, RU.  
 * Your Discord username must include your GitHub username. For example, like this: “Paval Miatlitski (@pavalEscoba)”
-* Each channel is intended to discuss only the subject specified in its name, for example, **#live-coding** must be used __only__. for the discussions concerning live streams Off-top messages will be deleted. Particular channels to be used during the course are further detailed below. 
+* Each channel is intended to discuss only the subject specified in its name, for example, **#live-coding** must be used __only__ for the discussions concerning live streams. Off-top messages will be deleted. Particular channels to be used during the course are further detailed below. 
 * Make active use of search and pinned messages.  
 * When answering any questions/messages, it is recommended to mention relevant users (@nicknamehere) by typing out their name, having a selection menu pop up or right click the user and select "Mention".  
 * Be polite, don’t troll, and everything will be OK.  
