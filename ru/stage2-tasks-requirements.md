@@ -26,59 +26,42 @@
 - Должен использоваться imperative mood ("move cursor to..." not "moves cursor to...")
 
 ### Типы коммитов
-- `init:` - используется для начала проекта/таска
-- `docs:` - используется при работе с документацией/readme проекта
-- `feat:` - это реализованная новая функциональность из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта)
-- `fix:` - исправил ошибку в ранее реализованной функциональности
-- `refactor:` - ничего нового не добавлял / поведения не менял - файлы в другие места положил, удалил, добавил
-- `style:` - сhanges that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-
-### Примеры комит месседжей
-
+- `init:` - используется для начала проекта/таска. Примеры:
 ```
-// init
 init: start youtube-task
 init: start mentor-dashboard task
-
-// feat for youtube task https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md
+```
+- `feat:` - это реализованная новая функциональность из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта). Примеры:
+```
 feat: add basic page layout
 feat: implement search box 
 feat: implement request to youtube API
 feat: implement swipe for horizontal list
 feat: add additional navigation button
-
-// feat for neutron mail https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-d2-NeutronMail-en.md
-feat: add basic layout
-feat: add header 
 feat: add banner
 feat: add social links
 feat: add physical security section
 feat: add real social icons
-
-// fix
+```
+- `fix:` - исправил ошибку в ранее реализованной функциональности. Примеры:
+```
 fix: implement correct loading data from youtube
 fix: change layout for video items to fix bugs
 fix: relayout header for firefox
 fix: adjust social links for mobile
-
-// refactor
+```
+- `refactor:` - новой функциональности не добавлял / поведения не менял. Файлы в другие места положил, удалил, добавил. Изменил форматирование кода (white-space, formatting, missing semi-colons, etc). Улучшил алгоритм, без изменения функциональности. Примеры:
+```
 refactor: change structure of the project
 refactor: rename vars for better readability
 refactor: apply eslint
 refactor: apply prettier
-
-// docs
-docs: update readme with additional information
-
-// style should be used to separate styles changes from logical / bussines changes
-style: update site logo
-style: fix main banner position
-style: change color to more beatiful
-style: apply fixes from code review
-
 ```
-
- 
+- `docs:` - используется при работе с документацией/readme проекта. Примеры:
+```
+docs: update readme with additional information
+docs: update description of run() method
+``` 
 ## Требования к Pull Request (PR)
 ### Описание Pull Request должно содержать следующую информацию
 1. ссылка на задание
