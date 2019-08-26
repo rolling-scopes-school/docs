@@ -5,13 +5,37 @@ Informal:
 - Minsk
 - Mogilev 
 
-- Russia General
-- Москва, Ижевск, Тверь, Самара, Тольятти, Саратов, Сергиев Посад, Рязань
+### Uzbekistan
 
-### RSSchool Uzbekistan 
-https://t.me/RSSchoolUzbekistan
+- Uzbekistan General https://t.me/RSSchoolUzbekistan
 
 ### Kazakhstan 
-- Алматы, Караганда, Нур-Султан
 
-### Ukraine General 
+- Kazakhstan General https://t.me/RSSchoolKazakhstan
+
+- Almaty https://t.me/RSSchoolAlmaty
+
+- Karaganda https://t.me/RSSchoolKaraganda
+
+- Nur-Sultan https://t.me/RSSchoolNurSultan
+
+### Ukraine 
+
+- Ukraine General https://t.me/RSSchoolUkraine
+
+### Russia
+
+- Russia General https://t.me/RSSchoolRussia
+
+- Moscow https://t.me/RSSchoolMoscow
+
+- Izhevsk https://t.me/RSSchoolIzhevsk
+
+- Ryazan https://t.me/RSSchoolRyazan
+
+- Samara https://t.me/RSSchoolSamara
+
+- Saratov
+- Sergiev Posad
+- Togliatti
+- Tver
