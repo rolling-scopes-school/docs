@@ -3,7 +3,8 @@ Informal:
 - https://t.me/RSSBands
 
 - Minsk
-- Mogilev 
+
+- Mogilev https://t.me/RSSchoolMogilev
 
 ### Uzbekistan
 
