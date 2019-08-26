@@ -35,7 +35,10 @@ Informal:
 
 - Samara https://t.me/RSSchoolSamara
 
-- Saratov
-- Sergiev Posad
-- Togliatti
-- Tver
+- Saratov https://t.me/RSSchoolSaratov
+
+- Sergiev Posad https://t.me/RSSchoolSergievPosad
+
+- Togliatti https://t.me/RSSchoolTogliatti
+
+- Tver https://t.me/RSSchoolTver
