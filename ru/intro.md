@@ -288,4 +288,15 @@ Offline Stream - это набор очных лекций. На которые 
  - Pay it forward
  - Доброжелательная атмосфера 
  
+ ## Официальные языки школы 
+ - Discord: русский, английский
+ - Telegram: зависит от страны, региона
+ 
+ ## Roadmap 
+ Общая:  https://roadmap.sh/frontend или https://github.com/kamranahmedse/developer-roadmap
+ RSSchool JS: TBD
+ Как выжить в таком массиве информации?
+
+
+ 
 
