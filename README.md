@@ -1,0 +1,1 @@
+http://docs.rs.school

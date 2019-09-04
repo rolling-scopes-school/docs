@@ -1,4 +1,4 @@
-Rolling scopes School believes our community should be open for everyone. 
+The Rolling Scopes School believes our community should be open for everyone. 
 
 We are expecting cooperation from all participants to help ensuring a friendly, safe, and welcoming environment for everybody, regardless of 
 
