@@ -1,2 +1,5 @@
 - [О сообществе The Rolling Scopes](rs-overview.md)
-- [О школе](rs-school-overview.md)
+- [RS School. Общая информация](rs-school-overview.md)
+- [RS School. Этапы обучения](rs-school-stages.md)
+- [RS School. Чаты](rs-school-chats.md)
+- [RS School. Роли](rs-school-roles.md)

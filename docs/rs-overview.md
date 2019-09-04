@@ -1,3 +1,5 @@
+
+## The Rolling Scopes
 [The Rolling Scopes](https://rollingscopes.com/) - независимое сообщество JavaScript/Front-end разработчиков, организованное в 2013 году в Минске. Сейчас многие разработчики по всему миру знают о нас и участвуют в наших проектах и мероприятиях:
 
 ## The Rolling Scopes митапы
