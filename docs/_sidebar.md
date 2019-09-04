@@ -5,3 +5,8 @@
 - [RS School. Роли](rs-school-roles.md)
 - [Нормы поведения](code-of-conduct.md)
 - [EPAM и трудоустройство](epam.md)
+- [Требования к выполнению заданий в Stage#2](stage2-tasks-requirements.md)
+- Информация для тренеров RSSchool
+  - [Общая информация](rs-school-trainer.md)
+  - [Streaming](streaming.md)
+- [FAQ](README.md)
