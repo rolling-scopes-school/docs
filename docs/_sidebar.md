@@ -4,3 +4,4 @@
 - [RS School. Чаты](rs-school-chats.md)
 - [RS School. Роли](rs-school-roles.md)
 - [Нормы поведения](code-of-conduct.md)
+- [EPAM и трудоустройство](epam.md)
