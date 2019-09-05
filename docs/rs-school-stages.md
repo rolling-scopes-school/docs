@@ -1,4 +1,8 @@
 ## Этап 1
+## Когда возможно трудоустройство?
+   * По рекомендации ментора на любом этапе обучения, если на проекте Ментора есть открытая вакансия, а у вас - необходимые навыки.
+   * Централизовано в компанию EPAM на 4м этапе обучения. Количество мест ограниченно.
+   * Самостоятельно, на любом этапе обучения. Наша цель - помочь вам сформировать необходимые знания и навыки. 
 
 ### Требования к абитуриентам
 - Задавать вопросы в общем чате, в чате подгруппы. Помогайте друг другу. 
@@ -30,6 +34,10 @@ http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=fals
   - [C точки зрения менторов](https://medium.com/rs-school/rs-school-myths-63940f3b9fcd)
   - [С точки зрения одного из студентов](https://medium.com/rs-school/the-rolling-scopes-school-глазами-бывшего-студента-e269d23dfe7a)
 
+## Репозитории школы
+- https://github.com/rolling-scopes-school/tasks
+- https://github.com/rolling-scopes-school/lectures
+- https://github.com/rolling-scopes-school/docs
 
 ### Что из себя представляет "Собеседование с ментором"?
 Описание - https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/technical-screening.md
@@ -79,3 +87,9 @@ http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=fals
   - Любая форма дискриминации по отношению к других участникам сообщества
   - Нарушение [code-of-conduct](https://github.com/rolling-scopes-school/docs/blob/master/en/code-of-conduct.md)
   - Иные (например: brexit, мировой финансовый кризис и т.д.)
+
+
+ ## Roadmap 
+ Общая:  https://roadmap.sh/frontend или https://github.com/kamranahmedse/developer-roadmap
+ RSSchool JS: TBD
+ Как выжить в таком массиве информации?

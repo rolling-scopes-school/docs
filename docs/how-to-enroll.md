@@ -1,5 +1,9 @@
 ## Как зарегистрироваться на курс?
 Вам необходимо создать заполнить профайл https://app.rs.school/registry/student
+
+## Где записаться на курс?
+    - На [epa.ms/padawans](epa.ms/padawans).
+    - На [training.by](training.by).
   
 ## До какого числа можно подключится к курсу?
 Подключиться к курсу можно до 28.09.2019
@@ -27,3 +31,5 @@
    - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
 - Базовые алгоритмы
    - https://www.coursera.org/course/algs4partI
+
+## Что делать до старта курса?

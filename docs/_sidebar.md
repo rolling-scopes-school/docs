@@ -15,5 +15,4 @@
   - [Streaming](streaming.md)
 - Трудоустройство
   - [EPAM и трудоустройство](epam.md)
-- [FAQ](README.md)
 - [Поддержать сообщество](fundraiser.md)
