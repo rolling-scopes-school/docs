@@ -1,3 +1,31 @@
+## Telegram
+### Belarus
+- Belarus General https://t.me/RSSBands
+- Mogilev https://t.me/RSSchoolMogilev
+
+### Uzbekistan
+- https://t.me/RSSchoolUzbekistan
+
+### Kazakhstan 
+- Kazakhstan General https://t.me/RSSchoolKazakhstan
+- Almaty https://t.me/RSSchoolAlmaty
+- Karaganda https://t.me/RSSchoolKaraganda
+- Nur-Sultan https://t.me/RSSchoolNurSultan
+
+### Ukraine 
+- Ukraine General https://t.me/RSSchoolUkraine
+
+### Russia
+- Russia General https://t.me/RSSchoolRussia
+- Moscow https://t.me/RSSchoolMoscow
+- Izhevsk https://t.me/RSSchoolIzhevsk
+- Ryazan https://t.me/RSSchoolRyazan
+- Samara https://t.me/RSSchoolSamara
+- Saratov https://t.me/RSSchoolSaratov
+- Sergiev Posad https://t.me/RSSchoolSergievPosad
+- Togliatti https://t.me/RSSchoolTogliatti
+- Tver https://t.me/RSSchoolTver
+
 ## Discord
 * Главный чат - [Discord](https://discord.gg/bek4WMb)
 * Официальные языки: EN, BE, RU.  
@@ -5,7 +33,7 @@
 * В канале обсуждается только указанная в его названии тематика, например, **#live-coding** предназначен __исключительно__ для обсуждений live-стримов. Нетематические посты будут удаляться. Назначение каналов указано ниже. 
 * Используйте поиск и pinned messages.  
 * Отвечать человеку желательно через mention (@nicknamehere).  
-* Будьте вежливы, не перегибайте с троллингом, и все будет хорошо.  
+* Будьте вежливы, не перегибайте с троллингом, и все будет хорошо. 
 
 ### Категории в Discord
 1. Каналы чата сгруппированы по категориям.
@@ -50,33 +78,16 @@
 - **#rs-padawans-developing**:lock:
 - **#rs-activist**:lock:
 
-## Telegram
-### Belarus
-Informal:
-- https://t.me/RSSBands
-- Minsk
+## FAQ
+### Что нужно сделать перед тем как задать вопрос в чате?
+- Попробовать загуглить вопрос
+- Прочитать предыдущие сообщения в чате, может быть этот вопрос задавали и на него уже есть ответ.
 
-- Mogilev https://t.me/RSSchoolMogilev
+### Что делать, если вы всё делаете правильно, но у вас что-то не получается?
+- Cделать минимальный пример на jsfiddle / codepen, привести список уже проверенных вариантов и попросить помочь в канале вопросов
 
-### Uzbekistan
-- Uzbekistan General https://t.me/RSSchoolUzbekistan
+### Как должен выглядеть ник в Discord-чате школы?
+- В формате: discord-nickname (@GitHub-username).
 
-### Kazakhstan 
-- Kazakhstan General https://t.me/RSSchoolKazakhstan
-- Almaty https://t.me/RSSchoolAlmaty
-- Karaganda https://t.me/RSSchoolKaraganda
-- Nur-Sultan https://t.me/RSSchoolNurSultan
-
-### Ukraine 
-- Ukraine General https://t.me/RSSchoolUkraine
-
-### Russia
-- Russia General https://t.me/RSSchoolRussia
-- Moscow https://t.me/RSSchoolMoscow
-- Izhevsk https://t.me/RSSchoolIzhevsk
-- Ryazan https://t.me/RSSchoolRyazan
-- Samara https://t.me/RSSchoolSamara
-- Saratov https://t.me/RSSchoolSaratov
-- Sergiev Posad https://t.me/RSSchoolSergievPosad
-- Togliatti https://t.me/RSSchoolTogliatti
-- Tver https://t.me/RSSchoolTver
+### Как поменять ник в Discord-чате школы?
+- Вызвать меню нажатием ПКМ на иконке чата и выбрать опцию "Изменить никнейм".
