@@ -1,4 +1,4 @@
-- [О сообществе The Rolling Scopes](rs-overview.md)
+- [О сообществе The Rolling Scopes](README.md)
 - [RS School. Общая информация](rs-school-overview.md)
 - [Как записаться на курс](how-to-enroll.md)
 - Процесс обучения
