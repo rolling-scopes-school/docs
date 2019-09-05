@@ -1,9 +1,8 @@
 ## Как зарегистрироваться на курс?
-Вам необходимо создать заполнить профайл https://app.rs.school/registry/student
+Вам необходимо создать и заполнить студенческий профайл https://app.rs.school/registry/student
 
-## Где записаться на курс?
-    - На [epa.ms/padawans](epa.ms/padawans).
-    - На [training.by](training.by).
+## Для чего необходима запись на training.by или training.ru?
+Регистрация в этих системах упращает работу HR специалистов компании EPAM.
   
 ## До какого числа можно подключится к курсу?
 Подключиться к курсу можно до 28.09.2019
@@ -14,22 +13,28 @@
 ## Необходим ли ноутбук в процессе обучения?
 Наличие желательно, но и обычно стационарного компьютера будет достаточно. 
    
+## Что делать до старта курса?
+1. Пойти на курсы английского языка до получение уровня Pre-Intermediate (Минимум A2).  
+2. Прочитать хороший учебник Javascript на русском языке http://learn.javascript.ru/
+3. Использовать платформу [Codewars](http://www.codewars.com/dashboard) для решения практических задач. Можно начинать с более простых.
+4. Пройти следующие бесплатные онлайн курсы:
+   - Основы работы с командной строкой https://www.codecademy.com/learn/learn-the-command-line
+   - Основы Git https://www.codecademy.com/learn/learn-git
+   
 ## Что делать, если нет профильного технического образования или не хватает знаний?
 Подумать, сможете ли вы уделить как минимум полгода, а может и год на подготовку.
 Если ДА, то:  
-1. Пойти на курсы английского языка до получение уровня Pre-Intermediate (Минимум).  
-2. Параллельно заниматься самостоятельно.  
+1. Пойти на курсы английского языка до получение уровня Pre-Intermediate (Минимум A2).  
+2. Прочитать хороший учебник Javascript на русском языке http://learn.javascript.ru/
+3. Использовать платформу [Codewars](http://www.codewars.com/dashboard) для решения практических задач. Можно начинать с более простых.
+4. Пройти следующие бесплатные онлайн курсы:
+   - Основы
+     - https://www.edx.org/cs50 или его перевод на русском языке https://javarush.ru/quests/QUEST_HARVARD_CS50
+     - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
+   - Базовые алгоритмы
+     - https://www.coursera.org/course/algs4partI
+   - Основы работы с командной строкой https://www.codecademy.com/learn/learn-the-command-line
+   - Основы Git https://www.codecademy.com/learn/learn-git
+5. Верить в свои силы!
 
-Можно начать тут: 
-- https://www.codecademy.com/  (совсем базовые знания)
-- http://www.codewars.com/dashboard (тут можно тренироваться)
-- http://learn.javascript.ru/ (хорошая книжка на русском языке)
 
-Пройти следующие бесплатные онлайн курсы:
-- Основы
-   - https://www.edx.org/cs50 или его перевод на русском языке https://javarush.ru/quests/QUEST_HARVARD_CS50
-   - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
-- Базовые алгоритмы
-   - https://www.coursera.org/course/algs4partI
-
-## Что делать до старта курса?
