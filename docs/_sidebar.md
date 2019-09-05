@@ -1,13 +1,17 @@
 - [О сообществе The Rolling Scopes](rs-overview.md)
 - [RS School. Общая информация](rs-school-overview.md)
-- [RS School. Этапы обучения](rs-school-stages.md)
-- [RS School. Чаты](rs-school-chats.md)
-- [RS School. Роли](rs-school-roles.md)
-- [Нормы поведения](code-of-conduct.md)
-- [EPAM и трудоустройство](epam.md)
-- [Требования к выполнению заданий в Stage#2](stage2-tasks-requirements.md)
+- [Как записаться на курс](how-to-enroll.md)
+- Процесс обучения
+  - [Этапы обучения](rs-school-stages.md)
+  - [Чаты](rs-school-chats.md)
+  - [Роли](rs-school-roles.md)
+  - [Нормы поведения](code-of-conduct.md)
+  - [Требования к выполнению заданий в Stage#2](stage2-tasks-requirements.md)
+  - [Сертификат](rs-school-certificate.md)
 - Информация для тренеров RSSchool
   - [Общая информация](rs-school-trainer.md)
   - [Streaming](streaming.md)
+- Трудоустройство
+  - [EPAM и трудоустройство](epam.md)
 - [FAQ](README.md)
 - [Поддержать сообщество](fundraiser.md)
