@@ -10,3 +10,4 @@
   - [Общая информация](rs-school-trainer.md)
   - [Streaming](streaming.md)
 - [FAQ](README.md)
+- [Поддержать сообщество](fundraiser.md)
