@@ -1,13 +1,13 @@
-
-# Информация по учебному процессу 
-
-
-# stage #1
 ## Основные модули:
 - Знакомство с The Rolling Scopes и RSSchool
 - Основы Git
 - Основы HTML/CSS
 - Основы JS
+
+## Правила хорошего тона
+- Пользуетесь каким-либо проектом на GitHub - поставьте Star, автору/контрибьютерам будет приятно.
+- Если вам помогли, не забудьте написать спасибо. Так же можно использовать канал #gratitude или функцию gratitude в RSSchool APP
+- Есть вам помогли с каким-то вопросом и вы видите, что у других студентов возникли подобные сложности, то очень желательно, не проходить мимо и помочь в свою очередь.
 
 ### Как проходят дополнительные оффлайн лекции?
 https://community-z.com/communities/the-rolling-scopes/events
@@ -42,13 +42,11 @@ https://github.com/rolling-scopes-school/lectures
 ### Где будет ссылка на "Тест по основам HTML/CSS" и "Тест по основам Git"? 
 В канале #announcements Discord-чата школы, как и вся важная информация.
 
-
 ## Можно ли будет пересдать задание в RS Padawans?
     - Можно, но до дедлайна.
 
 ## Как из RS Padawans убрать решенное задание и добавить новое решение?
     - Закоммитить новое решение, сделать git push и нажать кнопку submit.
-
    
 ## Кто проверяет задания в stage#1?
 - Таски из https://epa.ms/padawans проверяют юнит-тесты, оценка появляется в системе Padawans.
@@ -57,7 +55,6 @@ https://github.com/rolling-scopes-school/lectures
 - Markup 'Hexal' проверяется ментором в stage#2 или во время интервью в stage#2
 - Code Jam "CSS Quick Draw" проверяется автоматически, оценка появляется в системе Padawans.
 - Таски Git & Markdown, GIt & HTML & CSS проверяется ментором во время интервью в stage#2
-
 
 ## Что такое CodeJam?
 Это короткий таск описание которого заранее не известно, а на выполнение выделяется ограниченное время (от 60 минут до 48 часов).
@@ -105,10 +102,32 @@ Offline Stream - это набор очных лекций. На которые 
 - https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 
-
 ## Что делать если не получается попасть на CodeJam или Test?
 - Пропустить и стараться выполнить остальные задания на максимальный балл.
 
 
+## Требования к коммитам и PR
+https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
 
-- [Требования к коммитам и PR](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md)
+
+## Репозитории школы
+- https://github.com/rolling-scopes-school/tasks
+- https://github.com/rolling-scopes-school/lectures
+- https://github.com/rolling-scopes-school/docs
+
+
+## Возможные причины отчисления (во втором и последующих этапах обучения)
+  - Невыполнение более трех домашних задания или пропуск "codejam" заданий.
+  - Списывание из интернет источников и у других участников курсов.
+  - Низкая успеваемость.
+  - Уровень английского ниже A2 (Pre-intermediate). 
+  - По результатам технического собеседования или собеседований.
+  - Срыв занятия, мешать тренеру проводить лекцию/воркшоп
+  - Любая форма дискриминации по отношению к других участникам сообщества
+  - Нарушение [code-of-conduct](code-of-conduct.md)
+  - Иные (например: brexit, мировой финансовый кризис и т.д.)
+
+## Roadmap 
+Общая:  https://roadmap.sh/frontend или https://github.com/kamranahmedse/developer-roadmap
+RSSchool JS: TBD
+Как выжить в таком массиве информации?
