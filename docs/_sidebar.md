@@ -2,7 +2,7 @@
 - [RS School. Общая информация](rs-school-overview.md)
 - [Как записаться на курс](how-to-enroll.md)
 - Процесс обучения
-  - [Чаты](rs-school-chats.md)
+  - [Каналы связи](rs-school-chats.md)
   - Роли
     - [Ментор](rs-school-mentor.md)
     - [Активист](rs-school-activist.md)
