@@ -2,6 +2,7 @@
 - [RS School. Общая информация](rs-school-overview.md)
 - [Как записаться на курс](how-to-enroll.md)
 - Процесс обучения
+  - [Этапы обучения](stages.md)
   - [Каналы связи](rs-school-chats.md)
   - Роли
     - [Ментор](rs-school-mentor.md)
@@ -10,6 +11,7 @@
   - [Stage#1](stage1.md)
   - [Собеседование с ментором](technical-screening.md)
   - [Stage#2](stage2.md)
+  - [Stage#3](stage3.md)
   - [Сертификат](rs-school-certificate.md)
 - Информация для тренеров RSSchool
   - [Общая информация](rs-school-trainer.md)

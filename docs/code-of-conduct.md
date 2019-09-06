@@ -1,3 +1,9 @@
+## Правила хорошего тона
+- Пользуетесь каким-либо проектом на GitHub - поставьте Star, автору/контрибьютерам будет приятно.
+- Если вам помогли, не забудьте написать спасибо. Так же можно использовать канал #gratitude или функцию gratitude в RSSchool APP
+- Есть вам помогли с каким-то вопросом и вы видите, что у других студентов возникли подобные сложности, то очень желательно, не проходить мимо и помочь в свою очередь.
+
+## Доброжелательная атмосфера
 The Rolling Scopes School believes our community should be open for everyone. 
 
 We are expecting cooperation from all participants to help ensuring a friendly, safe, and welcoming environment for everybody, regardless of 
@@ -42,3 +48,14 @@ Any student who violates the Code of Conduct will be dismissed from Rolling Scop
 Last updated August 14, 2019
 
 Based and inspired by https://www.flatironschool.com/code-of-conduct/ and https://rsconf.by/code-of-conduct.html
+
+## Возможные причины отчисления (во втором и последующих этапах обучения)
+  - Невыполнение более трех домашних задания или пропуск "codejam" заданий.
+  - Списывание из интернет источников и у других участников курсов.
+  - Низкая успеваемость.
+  - Уровень английского ниже A2 (Pre-intermediate). 
+  - По результатам технического собеседования или собеседований.
+  - Срыв занятия, мешать тренеру проводить лекцию/воркшоп
+  - Любая форма дискриминации по отношению к других участникам сообщества
+  - Нарушение [code-of-conduct](code-of-conduct.md)
+  - Иные (например: brexit, мировой финансовый кризис и т.д.)
