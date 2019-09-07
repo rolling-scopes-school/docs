@@ -15,9 +15,21 @@
       loadSidebar: true,
       subMaxLevel: 2,
       name: '',
-      repo: ''
+      repo: '',     
+      search: {
+        maxAge: 46400000, 
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        // To avoid search index collision
+        // between multiple websites under the same domain
+        namespace: 'website-1'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+ <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
