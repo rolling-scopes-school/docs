@@ -17,5 +17,5 @@
   - [Общая информация](rs-school-trainer.md)
   - [Streaming](streaming.md)
 - Трудоустройство
-  - [EPAM и трудоустройство](epam.md)
+  - [EPAM и трудоустройство](employment.md)
 - [Поддержать сообщество](fundraiser.md)
