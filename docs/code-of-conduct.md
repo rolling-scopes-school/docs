@@ -41,7 +41,7 @@ Harassment includes:
 The toxic behavour includes:
 * unreasonable repetitive critic of the school, its program, mentors and students
 * rude language outside of random channel 
-* unreasonable conspiracy theory speaded on school channels
+* unreasonable conspiracy theory spreaded on school channels
 
 Any student who violates the Code of Conduct will be dismissed from Rolling Scopes school.
 
