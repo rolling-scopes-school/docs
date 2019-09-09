@@ -24,7 +24,7 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 https://github.com/rolling-scopes-school/lectures
 
 
-## EPAM ShortTrack
+## ShortTrack
 Short Track - отдельная учебная программа The Rolling Scopes, 
 заменяющая собой обучение в #stage2 и #stage3 RSSchool основного набора.
     
