@@ -18,4 +18,5 @@
   - [Streaming](streaming.md)
 - Трудоустройство
   - [EPAM и трудоустройство](employment.md)
+- [Первое домашнее задание](first-home-task.md)
 - [Поддержать сообщество](fundraiser.md)

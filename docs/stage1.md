@@ -41,7 +41,7 @@ Offline Stream - это набор очных лекций. На которые 
 Например, в понедельник в 21:00 все получают ссылку с заданием, на выполнение которого отводится 180 минут.
 
 ### Алгоритмические задания
-Например - 
+Например - https://github.com/SIARHEI-SMANTSAR/love-triangle
 
 ## Требования к коммитам и Pull Request
 https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
