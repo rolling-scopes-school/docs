@@ -74,7 +74,7 @@
 - https://t.me/RSSchoolUzbekistan
 
 ### Kyrgyzstan
-- Bishkek https://t.me/rsbishkek
+- Bishkek https://t.me/RSSchoolBishkek
 
 ### Kazakhstan 
 - Kazakhstan General https://t.me/RSSchoolKazakhstan
