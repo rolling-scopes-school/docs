@@ -41,6 +41,7 @@ Offline Stream - это набор очных лекций. На которые 
 Например, в понедельник в 21:00 все получают ссылку с заданием, на выполнение которого отводится 180 минут.
 
 ### Алгоритмические задания
+Например - 
 
 ## Требования к коммитам и Pull Request
 https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
@@ -56,16 +57,16 @@ https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
 
 ## FAQ
 ### Что делать если не получается попасть на CodeJam или пройти Тест?
-    - Пропустить и стараться выполнить остальные задания на максимальный балл.
+- Пропустить и стараться выполнить остальные задания на максимальный балл.
 
 ### Когда будут проверяться таски по верстке?
-    - После первого этапа.
+- После первого этапа.
 
 ### Где будет ссылка на "Тест по основам HTML/CSS" и "Тест по основам Git"? 
 В канале #announcements Discord-чата школы, как и вся важная информация.
 
 ## Можно ли будет пересдать алгоритмические задания
-    - Можно, но до дедлайна.
+- Можно, но до дедлайна.
    
 ## Дополнительные материалы для изучения
 ### JavaScript
@@ -81,8 +82,20 @@ https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
      * http://exploringjs.com/es6/index.html
     
 ### Git 
+- http://learn.javascript.ru/screencast/git
+    - основы
+    - ветки
+    - слияние
+
+#### Codeacademy (Free 7-day trial)
+- Основы работы с командной строкой https://www.codecademy.com/learn/learn-the-command-line
+- Основы Git https://www.codecademy.com/learn/learn-git
+
+#### Pluralsight (Free 10-day trial)
 - https://www.pluralsight.com/courses/how-git-works
 - https://www.pluralsight.com/courses/code-school-git-real 
+
+
 - https://git-scm.com/book/en/v2
 - https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
