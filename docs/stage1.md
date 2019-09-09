@@ -95,7 +95,7 @@ https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
 - https://www.pluralsight.com/courses/how-git-works
 - https://www.pluralsight.com/courses/code-school-git-real 
 
-
+#### Other
 - https://git-scm.com/book/en/v2
 - https://www.udacity.com/course/how-to-use-git-and-github--ud775
 

@@ -24,7 +24,7 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 https://github.com/rolling-scopes-school/lectures
 
 
-## ShortTrack
+## Short Track
 Short Track - отдельная учебная программа The Rolling Scopes, 
 заменяющая собой обучение в #stage2 и #stage3 RSSchool основного набора.
     
@@ -36,6 +36,7 @@ Short Track - отдельная учебная программа The Rolling S
   - английский  A2 и выше
   - желание и возможность работать full-time 
   - уверенные навыки кодирование на любом из языков программирования 
+  - знание базовых алгоритмов и структур данных
   - желательно знание javascript
   
 Оставить заявку на обучение можно тут - https://docs.google.com/forms/d/e/1FAIpQLScBDdG844Y68TT7l-Gp-oovMbTZ8J2iK7PYnTPLWod6GlLepw/viewform 
@@ -58,4 +59,3 @@ Short Track - отдельная учебная программа The Rolling S
 
 ## (В Разработке) Roadmap (В Разработке)
 Общая:  https://roadmap.sh/frontend или https://github.com/kamranahmedse/developer-roadmap
-RSSchool JS: TBD
