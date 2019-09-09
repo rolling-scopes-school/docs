@@ -73,6 +73,9 @@
 ### Uzbekistan
 - https://t.me/RSSchoolUzbekistan
 
+### Kyrgyzstan
+- Bishkek https://t.me/rsbishkek
+
 ### Kazakhstan 
 - Kazakhstan General https://t.me/RSSchoolKazakhstan
 - Almaty https://t.me/RSSchoolAlmaty
