@@ -71,13 +71,13 @@ https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md
 ## Дополнительные материалы для изучения
 ### JavaScript
 - Отличная книга по JS на русском - http://learn.javascript.ru/.   
-Главы которые, желательно прочитать на протяжении первого этапа:
+Главы, которые желательно прочитать на протяжении первого этапа:
    - http://learn.javascript.ru/first-steps
-   - http://learn.javascript.ru/writing-js
-   - http://learn.javascript.ru/data-structures
+   - http://learn.javascript.ru/object-basics
+   - http://learn.javascript.ru/data-types
    - http://learn.javascript.ru/document
-   - http://learn.javascript.ru/events-and-interfaces
-- Альтерантива на английском:
+   - http://learn.javascript.ru/events
+- Альтернатива на английском:
      * http://speakingjs.com/es5/index.html
      * http://exploringjs.com/es6/index.html
     
