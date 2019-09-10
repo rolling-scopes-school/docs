@@ -57,7 +57,9 @@
 
 ### Belarus
 - Belarus General https://t.me/RSSBands
+- Minsk https://t.me/RSSchoolMinsk
 - Mogilev https://t.me/RSSchoolMogilev
+- Vitebsk https://t.me/RSSchoolVitebsk
 
 ### Russia
 - Russia General https://t.me/RSSchoolRussia
