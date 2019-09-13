@@ -61,6 +61,8 @@
 - Minsk https://t.me/RSSchoolMinsk
 - Mogilev https://t.me/RSSchoolMogilev
 - Vitebsk https://t.me/RSSchoolVitebsk
+- Homel https://t.me/rsschool_homel
+
 
 ### Russia
 - Russia General https://t.me/RSSchoolRussia
