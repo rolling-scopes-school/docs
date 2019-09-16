@@ -45,7 +45,7 @@
 - **#random** - главный канал "про всё".
 - **#moderation** - канал о модерации.
 - **#fun** - мемы, шутеечки.
-- **#gratitude** - канал для благодарностей студентам/лекторам. Менторы его читают). 
+- **#gratitude** - канал для благодарностей студентам/лекторам. Менторы его читают). Сюда дублируются благодарности отправленные через приложение RS APP. 
 - **#english** - use this in case you want to discuss some task in English. There’s a separate [server](https://discord.gg/mZdYun6) for general English practice where we chat about everything. 
 - **#proposals** - предложения студентов по улучшению The Rolling Scopes School. Лучше всего дублировать текст предложения в [форму фидбека](https://docs.google.com/forms/d/e/1FAIpQLSeN-OYDhazcs7WhZi_oae-u8bCLuVcsksCeZkYcfRMMwj3eJA/viewform)
 - **#rs-padawans-developing**:lock:
@@ -117,6 +117,7 @@
 
 ### В каком канале лучше поблагодарить за помощь? 
 - В #gratitude.
+- Благодарность можно отправить через приложение RS APP. В таком случае оно останется в профиле получателя и будет продублировано в #gratitude
 
 ### Можно ли давать ссылки на торренты в чате?
 - Нет.
