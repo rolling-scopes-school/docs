@@ -62,7 +62,7 @@
 - Mogilev https://t.me/RSSchoolMogilev
 - Vitebsk https://t.me/RSSchoolVitebsk
 - Homel https://t.me/rsschool_homel
-
+- Brest https://t.me/RSSchool_Brest
 
 ### Russia
 - Russia General https://t.me/RSSchoolRussia
