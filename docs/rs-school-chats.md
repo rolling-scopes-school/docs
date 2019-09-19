@@ -74,6 +74,7 @@
 - Sergiev Posad https://t.me/RSSchoolSergievPosad
 - Togliatti https://t.me/RSSchoolTogliatti
 - Tver https://t.me/RSSchoolTver
+- St.Petersburg https://t.me/RSSchoolSaintp
 
 ### Uzbekistan
 - https://t.me/RSSchoolUzbekistan
