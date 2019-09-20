@@ -19,4 +19,5 @@
 - Трудоустройство
   - [EPAM и трудоустройство](employment.md)
 - [Первое домашнее задание](first-home-task.md)
+- [Как внести свой вклад](how-to-contribute.md)
 - [Поддержать сообщество](fundraiser.md)
