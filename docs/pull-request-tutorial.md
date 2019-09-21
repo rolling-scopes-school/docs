@@ -40,7 +40,7 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 <details><summary>Скриншот</summary>
 
-![image](https://s8.hostingkartinok.com/uploads/images/2019/09/03ad2f0b223da73611d0156995d7e522.png)
+![image](https://s8.hostingkartinok.com/uploads/images/2019/09/04e8c861e038cda1dc5803870b875c3b.png)
 </details>
 
 ## 4. Создаём собственную ветку разработки
@@ -51,7 +51,7 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 ```git checkout -b pr-tutopial```  
 
-Вот, теперь творите добро (и пусть оно будет выражаться в коммитах).  
+В этой точке мы уже можем править код и делать коммиты.
 
 ## 5. Добавляем изменения в собственную копию репозитория
 
@@ -72,3 +72,18 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 ![image](https://s8.hostingkartinok.com/uploads/images/2019/09/eb90a6c70262ed07ce3b22f0fc2fabae.png)
 </details>
+
+Добавляете название и описание ваших изменений и нажимаете на кнопку "Create pull request"
+
+<details><summary>Скриншот</summary>
+
+![image](https://s8.hostingkartinok.com/uploads/images/2019/09/d90f3537d2d85f0c429b98c0d7d6239b.png)
+</details>
+
+Что дальше?
+
+Следите за вашим пулл-реквестом. Что прокомментируют люди, что скажет мэйнтэйнер, примет или нет ваш пулл реквест.
+
+Творите добро (и пусть оно будет выражаться в коммитах).  
+
+[Источник](https://habr.com/ru/post/125999/)
