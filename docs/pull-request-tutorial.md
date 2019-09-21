@@ -2,8 +2,8 @@
 
 Если вы заметили неточность или опечатку в документации о курсе https://docs.rs.school/#/, или условии задания, их желательно исправить.  
 При необходимости обсудить изменения, это можно сделать в issue: 
-https://github.com/rolling-scopes-school/docs/issues/33
-Но если содержание исправлений для вас очевидно, лучше создать **Pull Request**.  
+https://github.com/rolling-scopes-school/docs/issues/33  
+Но, если содержание исправлений для вас очевидно, лучше создать **Pull Request**.  
 
 Отправляя Pull Request, вы говорите автору репозитория (и всем заинтересованным лицам): "Смотрите, что я сделал, не хотите ли принять мои изменения и влить их в проект?". Если изменения разумны и целесообразны, ваш Pull Request будет принят.  
 
@@ -13,12 +13,14 @@ https://github.com/rolling-scopes-school/docs/issues/33
 Для этого нажимаем кнопку "Fork" на странице репозитория.  
 
 <details><summary>Скриншот</summary>
+
 ![image](https://s8.hostingkartinok.com/uploads/images/2019/09/d597969969fcb575af350ce928b8da14.png)
 </details>
 
 В результате копия репозиторий появляется в вашем аккаунте
 
 <details><summary>Скриншот</summary>
+
 ![image](https://s8.hostingkartinok.com/uploads/images/2019/09/fe171ed94181058cfb26479c147bb177.png)
 </details>
 
@@ -37,6 +39,7 @@ https://github.com/rolling-scopes-school/docs/issues/33
 ```git fetch upstream```
 
 <details><summary>Скриншот</summary>
+
 ![image](https://s8.hostingkartinok.com/uploads/images/2019/09/03ad2f0b223da73611d0156995d7e522.png)
 </details>
 
@@ -65,4 +68,7 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 Заходите на страницу вашей копии репозитория на GitHub, выбираете ветвь pr-tutopial и нажимаете кнопку Pull Request.
 
+<details><summary>Скриншот</summary>
+
 ![image](https://s8.hostingkartinok.com/uploads/images/2019/09/eb90a6c70262ed07ce3b22f0fc2fabae.png)
+</details>
