@@ -17,7 +17,7 @@ https://github.com/rolling-scopes-school/docs/issues/33
 ![image](https://s8.hostingkartinok.com/uploads/images/2019/09/d597969969fcb575af350ce928b8da14.png)
 </details>
 
-В результате копия репозиторий появляется в вашем аккаунте
+В результате копия репозитория появляется в вашем аккаунте
 
 <details><summary>Скриншот</summary>
 
@@ -25,8 +25,8 @@ https://github.com/rolling-scopes-school/docs/issues/33
 </details>
 
 Адрес вашей копии репозитория содержит имя вашего аккаунта на гитхабе.   
-Оригинальный репозиторий https://github.com/rolling-scopes-school/docs   
-Созданная копия https://github.com/irinainina/docs    
++ Оригинальный репозиторий https://github.com/rolling-scopes-school/docs   
++ Созданная копия https://github.com/irinainina/docs    
 
 ## 2. Клонируем собственную копию репозитория себе на компьютер
 
@@ -51,7 +51,7 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 ```git checkout -b pr-tutopial```  
 
-В этой точке мы уже можем править код и делать коммиты.
+В этой точке мы уже можем править код и добавлять в него необходимые изменения.
 
 ## 5. Добавляем изменения в собственную копию репозитория
 
@@ -64,9 +64,9 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 ## 6. Возвращаем изменения: Pull request
 
-Итак, всё сделано. Вы написали код, он у вас в ветви pr-tutopial как у вас на компьютере, так и на GitHub'е. Осталось только отправить его в оригинальный репозиторий.
+Итак, всё сделано. Вы написали код, он у вас в ветке pr-tutopial как у вас на компьютере, так и на GitHub'е. Осталось только отправить его в оригинальный репозиторий.
 
-Заходите на страницу вашей копии репозитория на GitHub, выбираете ветвь pr-tutopial и нажимаете кнопку Pull Request.
+Заходите на страницу вашей копии репозитория на GitHub, выбираете ветку pr-tutopial и нажимаете кнопку Pull Request.
 
 <details><summary>Скриншот</summary>
 
