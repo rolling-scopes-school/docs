@@ -15,19 +15,12 @@ https://github.com/rolling-scopes-school/docs/issues/33
 Покажу как это сделать на примере репозитория https://github.com/rolling-scopes-school/docs 
 
 ### 1. Делаем собственную копию репозитория.
-Для этого нажимаем кнопку "Fork" на странице репозитория.  
-
-<details><summary>Скриншот</summary>
+Для этого нажимаем кнопку "Fork" на странице репозитория. 
 
 ![image](images/fix-typo1.png)
-</details>
 
 В результате копия репозитория появляется в вашем аккаунте
-
-<details><summary>Скриншот</summary>
-
 ![image](images/fix-typo2.png)
-</details>
 
 Адрес вашей копии репозитория содержит имя вашего аккаунта на гитхабе.   
 * Оригинальный репозиторий https://github.com/rolling-scopes-school/docs   
@@ -42,19 +35,15 @@ https://github.com/rolling-scopes-school/docs/issues/33
 
 ```git remote add upstream https://github.com/rolling-scopes-school/docs```  
 ```git fetch upstream```
-
-<details><summary>Скриншот</summary>
-
 ![image](images/fix-typo3.png)
-</details>
 
 ### 4. Создаём собственную ветку разработки
 
 Имя ветки, как правило, указывает на содержание правок.  
-Предположим, что наша ветка будет называться "pr-tutopial".     
-Создаёт новую ветку  "pr-tutopial" и делает её активной команда  
+Предположим, что наша ветка будет называться "fix-typo".     
+Создаёт новую ветку  "fix-typo" и делает её активной команда  
 
-```git checkout -b pr-tutopial```  
+```git checkout -b fix-typo```  
 
 В этой точке мы уже можем править код и добавлять в него необходимые изменения.
 
@@ -64,28 +53,20 @@ https://github.com/rolling-scopes-school/docs/issues/33
 Для этого выполните команды:
 
 ```git add .```    
-```git commit -m "feat: add  pr-tutopial"```    
-```git push origin pr-tutopial```    
+```git commit -m "feat: add  fix-typo"```    
+```git push origin fix-typo```    
 
 ### 6. Возвращаем изменения: Pull request
 
-Итак, всё сделано. Вы написали код, он у вас в ветке pr-tutopial как у вас на компьютере, так и на GitHub. Осталось только отправить его в оригинальный репозиторий.
+Итак, всё сделано. Вы написали код, он у вас в ветке fix-typo как у вас на компьютере, так и на GitHub. Осталось только отправить его в оригинальный репозиторий.
 
-Заходите на страницу вашей копии репозитория на GitHub, выбираете ветку pr-tutopial и нажимаете кнопку Pull Request.
-
-<details><summary>Скриншот</summary>
-
+Заходите на страницу вашей копии репозитория на GitHub, выбираете ветку fix-typo и нажимаете кнопку Pull Request.
 ![image](images/fix-typo4.png)
-</details>
 
 Добавляете название и описание ваших изменений и нажимаете на кнопку "Create pull request"
-
-<details><summary>Скриншот</summary>
-
 ![image](images/fix-typo5.png)
-</details>
 
-Что дальше?
+### Что дальше?
 
 Следите за вашим Pull Request. Что прокомментируют люди, что скажет мэйнтэйнер, примет или нет предложенные вами правки.
 
