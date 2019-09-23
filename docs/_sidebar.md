@@ -20,4 +20,5 @@
   - [EPAM и трудоустройство](employment.md)
 - [Первое домашнее задание](first-home-task.md)
 - [Как внести свой вклад](how-to-contribute.md)
+  - [Как исправить ошибку в документации](fix-typo.md) 
 - [Поддержать сообщество](fundraiser.md)
