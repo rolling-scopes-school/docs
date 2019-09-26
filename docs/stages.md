@@ -1,9 +1,12 @@
 ## Основные этапы обучения
 ### Этап 1. HTML/CSS/JS Basics
-- Время обучения: 4 недели.
+- Время обучения: 6 недель.
 - Формат: вебинары, самообучение.
 - Зачисляются все желающие.
 - Необходимо выполнять различные задания.
+
+### Собеседование с ментором
+[Описание](technical-screening.md)
 
 ### Этап 2. CoreJS
 - Время обучения: 15 недель.
@@ -22,7 +25,6 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 
 ### Архив учебной программы
 https://github.com/rolling-scopes-school/lectures
-
 
 ## Short Track
 Short Track - отдельная учебная программа The Rolling Scopes, 

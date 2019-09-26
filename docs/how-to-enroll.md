@@ -53,3 +53,5 @@ http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=fals
    - Основы Git https://www.codecademy.com/learn/learn-git
 5. Верить в свои силы!
 
+## Вопросы можно задать в Discord чате
+[Описание чатов школы](rs-school-chats.md) 
