@@ -26,7 +26,6 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 ### Архив учебной программы
 https://github.com/rolling-scopes-school/lectures
 
-
 ## Short Track
 Short Track - отдельная учебная программа The Rolling Scopes, 
 заменяющая собой обучение в #stage2 и #stage3 RSSchool основного набора.
