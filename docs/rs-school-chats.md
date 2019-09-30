@@ -1,5 +1,5 @@
 ## Discord
-* Регистрация в Discord - https://discord.gg/bek4WMb
+* Регистрация в Discord - https://discord.gg/PRADsJB
 * Официальные языки: RU, EN, BE.  
 * Ваш ник в Discord должен содержать название вашего GitHub аккаунта. Например, вот так - Paval Miatlitski (@pavalEscoba). Инструкция по добавлению аккаунта GitHub в Discord:   
 ![github](../images/github_acc.png)
