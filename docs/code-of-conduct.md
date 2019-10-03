@@ -105,3 +105,8 @@ Based and inspired by https://www.flatironschool.com/code-of-conduct/ and https:
   - Любая форма дискриминации по отношению к других участникам сообщества
   - Нарушение [code-of-conduct](code-of-conduct.md)
   - Иные (например: brexit, мировой финансовый кризис и т.д.)
+  
+## Уникальная возможность улучшить свою карму прямо сейчас
+1) Открыть репозиторий https://github.com/rolling-scopes/rsschool-app
+2) Нажать ":star:  Star"
+3) Поздравляю, ваша RS School карма улучшилась :innocent:
