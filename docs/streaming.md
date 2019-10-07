@@ -5,12 +5,17 @@
 - Интернет на скорости 3G или выше
 - [Discord чат](https://discordapp.com/)
 - [Open Broadcast Studio (OBS)](https://obsproject.com/)
-- Права на трансляцию в YouTube канал сообщества https://www.youtube.com/user/therollingscopes
+- Права на трансляцию в YouTube канал сообщества https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug
+  * выдача прав может занять до 48 часов (запросить права транслировать + 24 часа ждать)
+  * гайд как выдать права - https://support.google.com/youtube/answer/4628007?hl=en
+  * сейчас права могут выдать Rolling Scopes (Maxim Shastel, Dzmity Varabei), Anton Bely, Dzianis Sheka, Pavel Razuvalov, Sergey Shalyapin
+  * для трансляции нужен только код трансляции, который может передать человек, администрующий канал.
+  * желательно перед трансляцией сделать тестовый прогон, можно через канал https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ
 
 ## Discord
 Discord чат используется для анонса трансляции и общения с участниками вебинара:
 - В канал #announcements необходимо разместить анонс вебинара, а перед его началом добавить ссылку на трансляцию 
-- Для общения со студентами во время трансляции используется канал #live-coding 
+- Для общения со студентами во время трансляции используется канал #live-streaming 
 
 [Подробнее о стуруктуре Discord](/ru/discussion-rules.md)
 
