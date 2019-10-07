@@ -3,7 +3,7 @@
 - Должен использоваться present tense ("add feature" not "added feature")
 - Должен использоваться imperative mood ("move cursor to..." not "moves cursor to...")
 
-### Примеры 
+### Примеры названий коммитов
 - `init:` - используется для начала проекта/таска. Примеры:
 ```
 init: start youtube-task
