@@ -20,6 +20,9 @@
 * Залить в remote branch `git push origin <task name>`
 * Создать Pull Request из бранча <task name> в ветку master.
  
+## Требования к коммитам
+[Требования](git-convention.md)
+
 ## Требования к Pull Request (PR)
 ### Описание Pull Request должно содержать следующую информацию
 1. ссылка на задание

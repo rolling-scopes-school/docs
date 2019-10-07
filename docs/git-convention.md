@@ -1,9 +1,9 @@
-## Требования к коммитам
+## Требования к именам коммитов
 - Названия коммитов должны быть согласно гайдлайна - https://www.conventionalcommits.org/en/v1.0.0-beta.2/ 
 - Должен использоваться present tense ("add feature" not "added feature")
 - Должен использоваться imperative mood ("move cursor to..." not "moves cursor to...")
 
-### Примеры названий коммитов
+### Примеры имен коммитов
 - `init:` - используется для начала проекта/таска. Примеры:
 ```
 init: start youtube-task
