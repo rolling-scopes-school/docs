@@ -40,3 +40,7 @@ refactor: apply prettier
 docs: update readme with additional information
 docs: update description of run() method
 ``` 
+
+## FAQ
+### Можно ли ревертнуть отправленный (запушенный) в репозиторий коммит без снижения оценки?
+Да, можно
