@@ -43,6 +43,9 @@ Discord чат используется для анонса трансляции
 ![настройки стрима](../images/stream_settings.png)
 #### 3. Выставить название стрима, описание и превью
 ![превью](../images/add_thumbnail.png)
+
+* preview можно сделать из, например, такого шаблона в фигме  - https://www.figma.com/file/40sDhGHQgU0DmBLuu0Qim8/youtube_thumbnails?node-id=0%3A6
+
 #### 4. Скопировать ключ трансляции из дашборда стрима в OBS
 ![превью](../images/stream_key.png)
 ![превью](../images/obs_stream_settings.png)
