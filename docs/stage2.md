@@ -34,7 +34,7 @@
 ```
 1. задание - https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md
 2. скриншот - https://imgur.com/a/vB30e5R
-3. 2018-11-03 / 04.11.2018
+3. дата сдачи: 2018-11-03 / дата дедлайна: 04.11.2018
 4. Total
 Task ( 8.5 / 12 )
 Header. (2 / 3)
