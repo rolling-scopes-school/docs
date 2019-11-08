@@ -1,8 +1,9 @@
-## Основные темы первого этапа:
-- Знакомство с The Rolling Scopes и RSSchool
-- Основы Git
-- Основы HTML/CSS
-- Основы JS
+## Цели первого этапа обучения
+- Знакомство студентов с The Rolling Scopes и RSSchool
+- Получение студентами знаний и опыта работы с git, GitHub, оформлению commit и pull request.
+- Получение студентами знаний и опыта верстки, HTML/CSS.
+- Получение студентами базовых знаний по JS Basics
+- Подготовка студентов к прохождению [собеседования с ментором](technical-screening.md)
 
 ## Расписание занятий и список заданий
 https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0
