@@ -3,10 +3,13 @@
 - [Как записаться на курс](how-to-enroll.md)
 - Процесс обучения
   - [Этапы обучения](stages.md)
-  - [Каналы связи](rs-school-chats.md)
+  - [Общение. Каналы связи](rs-school-chats.md)
   - Роли
-    - [Ментор](rs-school-mentor.md)
     - [Активист](rs-school-activist.md)
+    - [Ментор](rs-school-mentor.md)
+    - Тренер
+      - [Общая информация](rs-school-trainer.md)
+      - [Streaming](streaming.md)
   - [Нормы поведения](code-of-conduct.md)
   - [Stage#1](stage1.md)
   - [Требования к коммитам](git-convention.md)
@@ -14,9 +17,6 @@
   - [Stage#2](stage2.md)
   - [Stage#3](stage3.md)
   - [Сертификат](rs-school-certificate.md)
-- Информация для тренеров RSSchool
-  - [Общая информация](rs-school-trainer.md)
-  - [Streaming](streaming.md)
 - Трудоустройство
   - [EPAM и трудоустройство](employment.md)
 - [Первое домашнее задание](first-home-task.md)
