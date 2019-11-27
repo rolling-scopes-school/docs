@@ -26,7 +26,10 @@
 * Создать Pull Request из бранча <task name> в ветку master.
  
 ## Требования к коммитам
-[Требования](git-convention.md)
+[Conventional Commits](git-convention.md)
+
+## Требования к стилю написания кода
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ## Как происходит проверка тасков?
 ## Автопроверяемые задания
