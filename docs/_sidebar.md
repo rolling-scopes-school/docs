@@ -16,6 +16,7 @@
   - [Собеседование с ментором](technical-screening.md)
   - [Stage#2](stage2.md)
   - [Stage#3](stage3.md)
+  - [Отчисление](dismission.md)
   - [Сертификат](rs-school-certificate.md)
 - Трудоустройство
   - [EPAM и трудоустройство](employment.md)
