@@ -11,6 +11,7 @@
     - [Собеседование с ментором](technical-screening.md)
     - [Cross check](cross-check-flow.md)
     - [Stage#2](stage2.md)
+    - [Курсовой проект](final-task.md)
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
   - Роли
