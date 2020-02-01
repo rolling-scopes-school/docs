@@ -96,6 +96,6 @@ Last updated August 14, 2019
 Based and inspired by https://www.flatironschool.com/code-of-conduct/ and https://rsconf.by/code-of-conduct.html
   
 ## Уникальная возможность улучшить свою карму прямо сейчас
-1) Открыть репозиторий https://github.com/rolling-scopes/rsschool-app
-2) Нажать ":star:  Star"
-3) Поздравляю, ваша RS School карма улучшилась :innocent:
+1. Открыть репозиторий https://github.com/rolling-scopes/rsschool-app
+2. Нажать ":star:  Star"
+3. Поздравляю, ваша RS School карма улучшилась :innocent:
