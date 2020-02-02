@@ -64,6 +64,7 @@
 ### Russia
 - Russia General https://t.me/RSSchoolRussia
 - Moscow https://t.me/RSSchoolMoscow
+- Nyzhny Novgorod https://t.me/RSSchoolNNov
 - Izhevsk https://t.me/RSSchoolIzhevsk
 - Ryazan https://t.me/RSSchoolRyazan
 - Samara https://t.me/RSSchoolSamara
