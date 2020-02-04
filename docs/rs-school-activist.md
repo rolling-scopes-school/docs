@@ -9,7 +9,7 @@
   - В виде статьи https://gist.github.com/uniorunr/112975fb69ccd2b1a8731a5f5daaced0
 4. Разбор своего решения таска, если ментор поставил за него максимально возможный балл - https://www.youtube.com/watch?v=1_phuaJ5ZNM&feature=youtu.be
 5. Организация очных встреч студентов:
-  - Изучения английского (аля speaking club)
+  - Изучения английского (а-ля speaking club)
   - Обсуждение тасков
   - Выпить пива и познакомиться
 6. Подготовка онлайн тестов по материалам прошедших лекций. Пример - https://github.com/rolling-scopes-school/tasks/issues/50
