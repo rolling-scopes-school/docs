@@ -1,6 +1,6 @@
 - [RS School. Общая информация](README.md)
 - JavaScript/Front-end Course
-  - [Общая информация о курсе](js-fe-course.md) 
+  - [Общая информация о курсе](js-fe-course.md)
   - [Как записаться на курс](how-to-enroll.md)
   - Процесс обучения
     - [Этапы обучения](stages.md)
@@ -23,7 +23,9 @@
   - Трудоустройство
    - [EPAM и трудоустройство](employment.md)
   - [Первое домашнее задание](first-home-task.md)
+- NodeJS Course
+  - [Общая информация о курсе](nodejs-course.md)
 - [Как внести свой вклад](how-to-contribute.md)
-  - [Как исправить ошибку в документации](fix-typo.md) 
+  - [Как исправить ошибку в документации](fix-typo.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
 - [Поддержать сообщество](fundraiser.md)
