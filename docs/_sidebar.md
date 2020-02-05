@@ -14,17 +14,18 @@
     - [Курсовой проект](final-task.md)
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
-  - Роли
-    - [Активист](rs-school-activist.md)
-    - [Ментор](rs-school-mentor.md)
-    - Тренер
-      - [Общая информация](rs-school-trainer.md)
-      - [Streaming](streaming.md)
+    - [Первое домашнее задание](first-home-task.md)
   - Трудоустройство
    - [EPAM и трудоустройство](employment.md)
-  - [Первое домашнее задание](first-home-task.md)
 - NodeJS Course
   - [Общая информация о курсе](nodejs-course.md)
+- React Course
+  - [Общая информация о курсе](react-course.md)
+- Роли
+    - [Активист](rs-school-activist.md)
+    - [Ментор](rs-school-mentor.md)
+    - [Тренер](rs-school-trainer.md)
+      - [Streaming](streaming.md)
 - [Как внести свой вклад](how-to-contribute.md)
   - [Как исправить ошибку в документации](fix-typo.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
