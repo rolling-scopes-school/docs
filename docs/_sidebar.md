@@ -21,6 +21,8 @@
   - [Общая информация о курсе](nodejs-course.md)
 - React Course
   - [Общая информация о курсе](react-course.md)
+- Angular Course
+  - [Общая информация о курсе](angular-course.md)
 - Роли
     - [Активист](rs-school-activist.md)
     - [Ментор](rs-school-mentor.md)
