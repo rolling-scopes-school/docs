@@ -28,6 +28,7 @@
     - [Ментор](rs-school-mentor.md)
     - [Тренер](rs-school-trainer.md)
       - [Streaming](streaming.md)
+- [RS APP](rs-app.md)
 - [Как внести свой вклад](how-to-contribute.md)
   - [Как исправить ошибку в документации](fix-typo.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
