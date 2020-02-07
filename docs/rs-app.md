@@ -15,7 +15,7 @@ Rolling Scopes School Application, или RS APP, — это open-source пла�
 
 1. Нет доступа к курсу, ошибка **"No access"**
 
-    ![No Access. Probably you do not participate in the course. Please register or choose another course.](../images/../docs/images/no-access.png)
+    ![No Access. Probably you do not participate in the course. Please register or choose another course.](images/no-access.png)
 
     **Решение:** зарегистрируйтесь на нужный курс, используя ссылку [https://app.rs.school/registry/student](https://app.rs.school/registry/student)
 
@@ -23,7 +23,7 @@ Rolling Scopes School Application, или RS APP, — это open-source пла�
 
     **Решение:** зайдите на [https://app.rs.school/](https://app.rs.school/) и перейдите в раздел **Auto-test**, и в выпадающем списке выберите интересующее задание. Детали проверки будут отображаться в столбце **Details** таблицы **Verification Results**:
 
-    ![Результаты проверки задания с Auto-test](../images/../docs/images/autotest-details.jpg)
+    ![Результаты проверки задания с Auto-test](images/autotest-details.jpg)
 
 3. Я сдал задание и получил баллы, но в **score** изменений нет.
 
