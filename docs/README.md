@@ -48,7 +48,7 @@
 - Telegram: зависит от страны, региона
 
 ## Статьи о школе:
-- [С точни зрения организаторов](https://medium.com/@dzmitry.varabei/draft-%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B0-the-rolling-scopes-school-32298109e3a3)
+- [С точки зрения организаторов](https://medium.com/@dzmitry.varabei/draft-%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B0-the-rolling-scopes-school-32298109e3a3)
 - [C точки зрения менторов](https://medium.com/rs-school/rs-school-myths-63940f3b9fcd)
 - [С точки зрения одного из студентов](https://medium.com/rs-school/the-rolling-scopes-school-глазами-бывшего-студента-e269d23dfe7a)
 - [HABR: Хорошее не бывает дешёвым. Но бывает бесплатным](https://habr.com/ru/post/465463/)
