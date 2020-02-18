@@ -73,6 +73,7 @@
 - Tver https://t.me/RSSchoolTver
 - St.Petersburg https://t.me/RSSchoolSaintp
 - Nizhny Novgorod https://t.me/RSSchoolNN
+- Volgograd https://t.me/RSSchoolVolgograd
 
 ### Uzbekistan
 - https://t.me/RSSchoolUzbekistan
