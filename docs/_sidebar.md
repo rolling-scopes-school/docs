@@ -27,6 +27,7 @@
     - [Активист](rs-school-activist.md)
     - [Ментор](rs-school-mentor.md)
     - [Тренер](rs-school-trainer.md)
+      - [Подготовка заданий](create-task.md)
       - [Streaming](streaming.md)
 - [RS APP](rs-app.md)
 - [Как внести свой вклад](how-to-contribute.md)
