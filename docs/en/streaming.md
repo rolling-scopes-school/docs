@@ -1,6 +1,7 @@
-Streaming
+## Streaming
 Giving lectures via YouTube Live
-You will need
+
+## You will need
 • A сomputer with a web camera
 • Internet 3G or higher speeds
 • Discord chat
@@ -13,14 +14,15 @@ o Rolling Scopes (Maxim Shastel, Dzmity Varabei), Anton Bely, Dzianis Sheka, Pav
 o For broadcasting you need only the broadcast code, which can be given by the person administering the channel.
 o it is advisable to make a test run before broadcasting, use the channel https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ
 
-Discord
+## Discord
 Discord chat is used to announce the broadcast and communicate with the participants of the webinar:
 • The announcement of the webinar must be posted in the #announcements channel, and before the start, add a link to the broadcast
 • To get the rights to post to #announcements, write to any admin
 • The channel # live-streaming is used to communicate with students during the broadcast
 
 Read more about Discord's structure
-OBS Configuration
+
+## OBS Configuration
 The application Open Broadcast Studio (OBS) is necessary in order to stream the image from the screen and web camera, the sound from the microphone.
 Steps
 1. Install Open Broadcast Studio (OBS)
@@ -29,7 +31,8 @@ Steps
 4. Customize the scene - add a screen capture, add a web camera, if necessary
 5. Check the video and sound parameters by starting recording locally
 Full video instruction
-YouTube Broadcast Settings Configuration
+
+## YouTube Broadcast Settings Configuration
 Steps
 1. Open the dashboard live broadcast
 2. Set the delay options in stream options
