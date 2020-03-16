@@ -1,16 +1,16 @@
-## Course project
+##Course project
 
 ## FAQ
-### Question: Who makes assessment of the course project?
-Answer: Our mentor does verification at the intermediate steps. The final assessment makes another randomly chosen mentor.
+### Question: Who checks the course project?
+Answer: Your mentor checks your project at preliminary stages. Final work  is checked by a randomly chosen mentor.
 
-### Question: Does the course project assessment being made as a review of regular task?
-Answer: Yes, in a dialogue format. Mentor who makes review leaves comments and can ask to fix something or explain.
+### Question: Does the course project assessment resemble the review process of a regular task?
+Answer: Yes, in a dialogue format. Mentor who reviews the project leaves comments and can ask to fix something or to clarify something.
 
-### Question: Is there any additional requirements for commits?
+### Question: Are there any additional requirements for commits?
 Answer: The final solution of the project should keep the history of commits being made during intermediate steps.
 
-### Question: what to do if I can't get the course project done on the deadline/ going to overdue it for a couple days?
-Answer: You should notify the mentor who have been designated to the task review. Algorithm is simple:
-1. Create Pull Request in any case
-2. Describe in detail your situation in Pull Request text (it's preferably at start and highlight it visually). If necessary leave your contacts.
+### Question: what to do if I can't get the course project done on time/ planning to overdue it for a couple days?
+Answer: You should notify a mentor who has been assigned for the final task review. Algorithm is simple:
+1. Create a Pull Request in any case
+2. Describe in detail your situation in Pull Request text (it's preferable to include it at the beginning and to visually highlight it). Leave your contacts if it is necessary.
