@@ -12,14 +12,14 @@ The course duration is 5 weeks. For self study you'll need from 8 hrs per week.
 
 ## Course content
 
-During the course progress you'll need to create a CLI application for NodeJS and also a REST server.
+During the course you'll need to create a CLI application for NodeJS and a REST server.
 
-In the course will be covered next topics:
+The next topics will be covered in the course:
 
-- NodeJS basics, its architechture,environment variables, specifics of working with asynchronious code, interaction with the file system, working with Streams.
+- NodeJS basics, its architecture, environment variables, specifics of working with asynchronous code, interaction with the file system, working with streams.
 - Building REST API based on Express framework.
-- Architectural patterns being used during application design process.
+- Architectural patterns used during application design process.
 - Working with databases.
-- Configuration, logging and errors handling.
+- Configuration, logging and error handling.
 - Authentication, JWT, CORS.
 - Testing.
