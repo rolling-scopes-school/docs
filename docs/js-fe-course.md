@@ -1,53 +1,54 @@
 ## RS School JavaScript/Front-end course
-Это бесплатный курс по Front-end/ JavaScript проводимый сообществом с 2013 года.
-Новый набор студентов стартует каждые полгода и насчитывает около 2000 человек. Для продуктивного обучения студентам помогают 250+ менторов. 
 
-## Задачи курса
-1. Получение знаний и опыта, достаточного для позиции Junior Software Engineer в области Front-end / JavaScript.
-2. Развитие навыка прохождения собеседований. В процессе обучения у вас будет возможность пройти как минимум 3 собеседования
-3. Формирование вашего портфолио 
-  - два сверстанных лендинга
-  - большой курсовой проект и много задач поменьше
-  - профиль на codewars
+It is a FREE Front-end/ JavaScript course conducted by RollingScopes Community since 2013.
+Every half a year we start a new course for nearly 2000 students. There are more then 250 mentors helping students to increase thier productivity while learning.
 
-## Продолжительность обучения
-5 месяцев. Для успешного прохождения программы вам потребуется 20-40 часов в неделю.
+## Course aims
 
-## Статистика курса за 2019 год
-- 770 студентов полностью прошли обучение
-- 329 менторов приняли участие в обучении
-- только в минский офис компании EPAM трудоустроилось 130 студентов 
+1. Gaining enough knowledge and experience for getting Junior Software Engineer position at Front-end/JavaScript field.
+2. Developing nessesary skills for passing job interviews. You will have a possibility to pass at least 3 interviews during your studies.
+3. Creating your portfolio:
 
+- 2 landing pages
+- one large course project and much more smaller tasks
+- codewars profile
 
-## Что желательно делать до старта курса?
-1. Пойти на курсы английского языка до получения уровня Pre-Intermediate (Минимум A2).  
-2. Прочитать хороший учебник Javascript на русском языке http://learn.javascript.ru/
-3. Использовать платформу [Codewars](http://www.codewars.com/dashboard) для решения практических задач. Можно начинать с более простых.
-4. Изучить:
-   - Основы работы с командной строкой https://www.google.com/search?q=command+line+basics
-   - Основы Git https://www.google.com/search?q=git+basics
+## Course duration
 
-## Требования к абитуриентам для перехода на второй этап обучения (менторинг)
- - Знания:
-    - Основы ООП. [Примеры вопросов](https://habr.com/en/post/345658/)
-    - Базовые структуры данных и их организация (массив, список, стек, очередь, дерево, хэш таблица и т.д.). 
-    - Уметь реализовать достаточно простой алгоритм на JavaScript. [Примеры заданий](  
-http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false) 
-    - Базовые алгоритмы сортировки и поиска
-    - Графики основных математических функций, факториал, понятие логарифма
-    - Английский A2 (Pre-intermediate). (для желающих трудоустроиться в EPAM)  
-- Возможность и желание работать full time (для желающих трудоустроиться)
+5 month. You will need 20-40 hours a week for successful course completion.
 
-## Что делать, если нет профильного технического образования или не хватает знаний?
-Подумать, сможете ли вы уделить как минимум полгода, а может и год на подготовку.
-Если ДА, то:  
-1. Пойти на курсы английского языка до получения уровня Pre-Intermediate (минимум A2).  
-2. Прочитать хороший учебник Javascript на русском языке http://learn.javascript.ru/
-3. Использовать платформу [Codewars](http://www.codewars.com/dashboard) для решения практических задач. Можно начинать с более простых.
-4. Пройти следующие бесплатные онлайн курсы:
-   - Основы
-     - https://www.edx.org/cs50 или его перевод на русском языке https://javarush.ru/quests/QUEST_HARVARD_CS50
-     - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
-   - Базовые алгоритмы
+## Course statistics for 2019
+
+- 770 students completed the course
+- 329 mentors took part in the learning process
+- 130 students were hired to EPAM Minsk
+
+## What should you do before starting this course?
+
+1. Attend English courses for getting Pre-Intermediate level (A2 at least).
+2. Read a good Javascript coursebook in English https://javascript.info/
+3. Use [Codewars](http://www.codewars.com/dashboard) platform for solving practical tasks. You can start from easiest ones.
+4. Study:
+   - Command line basics https://www.google.com/search?q=command+line+basics
+   - Git basics https://www.google.com/search?q=git+basics
+
+## Requirements for moving to the second stage of learning process(mentoring)
+
+- Knowledge of: - OOP basics. [Example of questions](https://habr.com/en/post/345658/) - Basic data structures and their organization (array, list, stack, queue, tree, hash-tables etc.). - You should be able to implement simple algorithm in JavaScript. [Tasks examples](http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false) - Basic sorting and searching algorithms - Graphics of basic math functions, factorial, the concept of logarithm - English A2 (Pre-intermediate). (for those who wants to be hired by EPAM)
+- The ability and willingness to work full time (for those who wants to be hired)
+
+## What should you do, if you do not have technical education or you have a lack of knowledge?
+
+Can you spend at least half of a year, or even a year, for preparation?
+If YES, then:
+
+1. Attend English courses for getting Pre-Intermediate level (A2 at least).
+2. Read a good Javascript coursebook in English https://javascript.info/
+3. Use [Codewars](http://www.codewars.com/dashboard) platform for solving practical tasks. You can start from easiest ones.
+4. Finish these FREE courses:
+   - Basics
+     - https://www.edx.org/cs50
+     - https://www.udacity.com/course/cs101 (Click button Access course materials (not start free trial) on the course page)
+   - Basic algorithms
      - https://www.coursera.org/course/algs4partI
-5. Верить в свои силы!
+5. Believe in youself!
