@@ -28,7 +28,7 @@ Link of your copy of the repository contains the name of your github account.
 
 ### 2. Clone your own copy of the repository on your computer
 
-`` `git clone https: // github.com / irinainina / docs```
+```git clone https: // github.com / irinainina / docs```
 
 ## 3. Bind a local copy to the original repository
 To do this, go to the folder of the cloned repository and execute two commands
@@ -43,7 +43,7 @@ The branch name, as a rule, indicates the content of the fix.
 Suppose our branch is called fix-typo.
 To create a new "fix-typo" branch is possibile by executing command:
 
-`` `git checkout -b fix-typo```
+```git checkout -b fix-typo```
 
 At this point, we can already edit the code and add the necessary changes to it.
 
