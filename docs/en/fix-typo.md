@@ -17,10 +17,10 @@ I will show how to do this using the example of the repository https://github.co
 ### 1. Make your own copy of the repository.
 To do this, click the "Fork" button on the repository page.
 
-! [image] (images / fix-typo1.png)
+! [image] (../ images / fix-typo1.png)
 
 As a result, a copy of the repository will appear on your account
-! [image] (images / fix-typo2.png)
+! [image] (../ images / fix-typo2.png)
 
 Link of your copy of the repository contains the name of your github account.
 * Original repository https://github.com/rolling-scopes-school/docs
@@ -35,7 +35,7 @@ To do this, go to the folder of the cloned repository and execute two commands
 
 `` `git remote add upstream https: // github.com / rolling-scopes-school / docs```
 `` `git fetch upstream```
-! [image] (images / fix-typo3.png)
+! [image] (../ images / fix-typo3.png)
 
 ### 4. Create your own development branch
 
@@ -61,10 +61,10 @@ To do this, run the commands:
 So, everything is done. You have written the code, you have it in the fix-typo branch both on your computer and on GitHub. Only thing that left is to send it to the original repository.
 
 Go to the page of your copy of the repository on GitHub, select the fix-typo branch and click the Pull Request button.
-! [image] (images / fix-typo4.png)
+! [image] (../ images / fix-typo4.png)
 
 Add a name and description of your changes and click on the "Create pull request" button
-! [image] (images / fix-typo5.png)
+! [image] (../ images / fix-typo5.png)
 
 ### What's next?
 
