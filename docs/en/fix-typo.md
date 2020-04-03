@@ -28,12 +28,12 @@ Link of your copy of the repository contains the name of your github account.
 
 ### 2. Clone your own copy of the repository on your computer
 
-```git clone https: // github.com / irinainina / docs```
+```git clone https://github.com/irinainina/docs``` 
 
 ## 3. Bind a local copy to the original repository
 To do this, go to the folder of the cloned repository and execute two commands
 
-```git remote add upstream https: // github.com / rolling-scopes-school / docs```
+```git remote add upstream https://github.com/rolling-scopes-school/docs```  
 ```git fetch upstream```
 ![image](../images/fix-typo3.png)
 
@@ -52,9 +52,9 @@ At this point, we can already edit the code and add the necessary changes to it.
 Once you have done the work (or part of it), send it to your own copy of the repository on GitHub.
 To do this, run the commands:
 
-```git add .```
-```git commit -m" feat: add fix-typo "```
-```git push origin fix-typo```
+```git add .```    
+```git commit -m "feat: add  fix-typo"```    
+```git push origin fix-typo```  
 
 ### 6. Return changes: Pull request
 
