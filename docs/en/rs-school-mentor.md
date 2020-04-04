@@ -39,11 +39,11 @@ Mentors have the priority right to hire the students they teaching to their comp
 * Preparation and conduct of tasks / tests.
 * Application development and school utilities
 * Hiring mentor’s students to his company
-* Writing articles for the school blog https://medium.com/rs-school/
+* Writing articles for the school blog [https://medium.com/rs-school/](https://medium.com/rs-school/)
 * Mentoring students on their pet projects after the third stage of training
 * Other
 
-### Basic rules for the students and mentors interaction 
+### Basic rules for the students and mentors interaction
 
 * Communication is initiated by the student. The student should be motivated to study.
 * The mentor must check the students’ work within 1-2 weeks.
