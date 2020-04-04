@@ -1,4 +1,4 @@
-# RS Activist
+## RS Activist
 
 ### Who is RS Activist?
 RS Activist is a student in the current or previous school enrollment who actively helps other students to learn.  
