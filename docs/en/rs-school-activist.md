@@ -1,6 +1,6 @@
 # RS Activist
 
-## Who is RS Activist?
+### Who is RS Activist?
 RS Activist is a student in the current or previous school enrollment who actively helps other students to learn.  
 
 The examples of such help:
@@ -23,6 +23,5 @@ The examples of such help:
 7. Helping with registration of tasks, paperwork. For example - [https://github.com/rolling-scopes-school/tasks/pull/53](https://github.com/rolling-scopes-school/tasks/pull/53)
 8. There may be your example :)
 
-## How is the nomination?
-
+### How is the nomination?
 By decision of mentors or admins. Based on your feedback in #gratitude channel
