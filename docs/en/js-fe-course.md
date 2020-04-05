@@ -1,6 +1,6 @@
 ## RS School JavaScript/Front-end course
 
-It is a FREE Front-end/ JavaScript course conducted by RollingScopes Community since 2013.
+It is a FREE Front-end/ JavaScript course conducted by the Rolling Scopes Community since 2013.
 Every half a year we start a new course for nearly 2000 students. There are more then 250 mentors helping students to increase thier productivity while learning.
 
 ## Course aims
@@ -42,7 +42,7 @@ Every half a year we start a new course for nearly 2000 students. There are more
 Can you spend at least half of a year, or even a year, for preparation?
 If YES, then:
 
-1. Attend English courses for getting Pre-Intermediate level (A2 at least).
+1. Attend English courses for getting Pre-Intermediate level (B1 at least).
 2. Read a good Javascript coursebook in English https://javascript.info/
 3. Use [Codewars](http://www.codewars.com/dashboard) platform for solving practical tasks. You can start from easiest ones.
 4. Finish these FREE courses:
