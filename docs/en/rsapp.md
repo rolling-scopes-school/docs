@@ -1,9 +1,12 @@
 ## Rolling Scopes School Application
 
 Rolling Scopes School Application, or RS APP, is an open-source platform used in the learning process at RS School and developed by community activists.
+
 Links:
-• http://app.rs.school/
-• https://github.com/rolling-scopes/rsschool-app
+ 
+ http://app.rs.school/
+ 
+ https://github.com/rolling-scopes/rsschool-app
 
 ## What should I do if something does not work in RS APP?
 
@@ -16,17 +19,16 @@ Links:
 
 1. No access to the course, **"No access"** error
 
-![No Access. Probably you do not participate in the course. Please register or choose another course.](images/no-access.png)
 
 **Solution:** register for the desired course using the link [https://app.rs.school/registry/student](https://app.rs.school/registry/student)
 
 2. I do not know how to view my mistakes in a task with automatic check (**Auto-test**)
-   **Solution:** go to [https://app.rs.school/](https://app.rs.school/). Then go to the **Auto-test** section and select the task you need in the drop-down menu. Verification details will be displayed in the **Details** column of the **Verification Results** table:
-
-![Результаты проверки задания с Auto-test](images/autotest-details.jpg)
+  
+  **Solution:** go to [https://app.rs.school/](https://app.rs.school/). Then go to the **Auto-test** section and select the task you need in the drop-down menu. Verification details will be displayed in the **Details** column of the **Verification Results** table:
 
 3. I passed the task and got points, but there are no changes in my **score**.
-   **Solution:** wait. It takes a little time for the changes to be displayed - usually it takes 5 minutes.
+  
+  **Solution:** wait. It takes a little time for the changes to be displayed - usually it takes 5 minutes.
 
 ## A unique opportunity to improve your karma right now
 
