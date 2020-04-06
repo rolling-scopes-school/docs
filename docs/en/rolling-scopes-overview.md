@@ -1,6 +1,6 @@
 ## The Rolling Scopes
 
-The Rolling Scopes is an independent international community of developers (mainly JavaScript / Front-end / iOS / Android), founded in 2013 in Minsk. Today many developers around the world know about us and participate in our projects and events.
+The Rolling Scopes is an independent international community of developers (mainly JavaScript / Front-end / iOS / Android), founded in 2013 in Minsk. Many developers all over the world know about us and can participate in our projects and events.
 
 ## The Rolling Scopes meetups
 
