@@ -34,7 +34,7 @@ Every half a year we start a new course for nearly 2000 students. There are more
 
 ## Requirements for moving to the second stage of learning process(mentoring)
 
-- Knowledge of: - OOP basics. [Example of questions](https://habr.com/en/post/345658/) - Basic data structures and their organization (array, list, stack, queue, tree, hash-tables etc.). - You should be able to implement simple algorithm in JavaScript. [Tasks examples](http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false) - Basic sorting and searching algorithms - Graphics of basic math functions, factorial, the concept of logarithm - English A2 (Pre-intermediate). (for those who wants to be hired by EPAM)
+- Knowledge of: - OOP basics. [Example of questions](https://habr.com/en/post/345658/) - Basic data structures and their organization (array, list, stack, queue, tree, hash-tables etc.). - You should be able to implement simple algorithm in JavaScript. [Tasks examples](http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false) - Basic sorting and searching algorithms - Graphs of basic math functions, factorial, the concept of logarithm - English B1 (Intermediate). (for those who want to be hired by EPAM)
 - The ability and willingness to work full time (for those who wants to be hired)
 
 ## What should you do, if you do not have technical education or you have a lack of knowledge?
@@ -42,7 +42,7 @@ Every half a year we start a new course for nearly 2000 students. There are more
 Can you spend at least half of a year, or even a year, for preparation?
 If YES, then:
 
-1. Attend English courses for getting Pre-Intermediate level (B1 at least).
+1. Attend English courses for getting Intermediate level (B1 at least).
 2. Read a good Javascript coursebook in English https://javascript.info/
 3. Use [Codewars](http://www.codewars.com/dashboard) platform for solving practical tasks. You can start from easiest ones.
 4. Finish these FREE courses:
