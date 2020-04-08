@@ -68,7 +68,7 @@ Add a name and description of your changes and click on the "Create pull request
 
 ### What's next?
 
-Keep track of your pull request. What people will comment on, what the maintainer will say, whether or not the edits you proposed will accept.
+Keep track of your pull request. What people will comment on, what the maintainer will say, whether or not the edits you have proposed will be accepted.
 
 In the same way, you can fix errors in the repository with the course assignments https://github.com/rolling-scopes-school/tasks
 or even offer your own tasks.
@@ -76,7 +76,6 @@ or even offer your own tasks.
 Only the name of the repository will change, but the way of working with the repository itself remains unchanged. Because it is the base of collaboration on GitHub and the creation of open-source projects.
 
 [Source](https://habr.com/en/post/125999/)
-
 
 
 
