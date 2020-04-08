@@ -40,7 +40,7 @@ To do this, go to the folder of the cloned repository and execute two commands
 ### 4. Create your own development branch
 
 The branch name, as a rule, indicates the content of the fix.
-Suppose our branch is called fix-typo.
+Suppose our branch is called `fix-typo`.
 To create a new "fix-typo" branch is possibile by executing command:
 
 ```git checkout -b fix-typo```
@@ -76,7 +76,6 @@ or even offer your own tasks.
 Only the name of the repository will change, but the way of working with the repository itself remains unchanged. Because it is the base of collaboration on GitHub and the creation of open-source projects.
 
 [Source](https://habr.com/en/post/125999/)
-
 
 
 
