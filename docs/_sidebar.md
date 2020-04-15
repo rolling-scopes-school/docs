@@ -16,7 +16,7 @@
     - [Сертификат](rs-school-certificate.md)
     - [Первое домашнее задание](first-home-task.md)
   - Трудоустройство
-   - [EPAM и трудоустройство](employment.md)
+    - [EPAM и трудоустройство](employment.md)
 - NodeJS Course
   - [Общая информация о курсе](nodejs-course.md)
 - React Course
