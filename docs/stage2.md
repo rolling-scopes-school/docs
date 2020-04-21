@@ -17,17 +17,33 @@
 До момента выдачи приватного репозитория школы вы можете выполнять задания из Stage #2 в личном приватном репозитории.
 
 ## Как работать с приватным репозиторием?
-* Склонировать его себе `git clone git@github.com:rolling-scopes-school/<your private repo>.git`
-* Проставить в конфиге ваши актульные данные:
-   * `git config user.name "Name Surname"`
-   * `git config user.email "your@email"` (емэйл должен совпадать с емэйлом указаным в github-e)
-* Создать бранч по имени задания `git checkout -b <task name>`
-* Создать папку `mkdir <task name>` Все файлы, относящиеся к заданию должны храниться в ней
-* Выполнить задание, коммитая по ходу решения (смотрите секцию - требования к коммитам)
-* Залить в remote branch `git push origin <task name>`
-* Создать Pull Request из бранча <task name> в ветку master
+* Склонировать его себе:  
+  `git clone git@github.com:rolling-scopes-school/<your-school-repository>.git`
+* Укажите в конфиге ваши данные (email впишите привязанный [к аккаунту GitHub](https://github.com/settings/emails)):  
+   `git config user.name "Name Surname"`  
+   `git config user.email "your@email"`
+* Из ветки master создать бранч `gh-pages` для деплоя:  
+  `git checkout -b gh-pages`
+* Из ветки master создать бранч по имени задания:  
+  `git checkout -b <task-name>`
+* Создать папку по имени задания:  
+  `mkdir <task-name>`  
+  Все относящиеся к заданию файлы должны быть в ней.
+* Выполнить задание, в процессе коммитая решения (см. [требования к коммитам](https://docs.rs.school/#/stage2?id=%d0%a2%d1%80%d0%b5%d0%b1%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%ba%d0%be%d0%bc%d0%bc%d0%b8%d1%82%d0%b0%d0%bc)).
+* Залить ветку в remote branch:  
+  `git push origin <task-name>`
+* Создать Pull Request из бранча `<task-name>` в ветку master.
+* Чтобы задеплоить задание, переходим в ветку `gh-pages` и мержим в нее ветку задания:  
+  `git checkout gh-pages`  
+  `git merge <task-name>`
+* В ветке `gh-pages` добавляем в файл `README.md` ссылку на папку задеплоенного таска:  
+  `[Task name](./<task-name>)`
+* Деплой задания будет доступен по ссылке:  
+  `http://rolling-scopes-school.github.io/<your-school-repository>/<task-name>`
+* Чтобы увидеть ссылки на все сделанные вами задания, перейдите по ссылке:  
+  `http://rolling-scopes-school.github.io/<your-school-repository>`
 
-Если к моменту выдачи репозитория школы вы выполняли задания из Stage #2 в личном приватном репозитории, необходимо произвести перенос всей выполненной работы в выданный репозиторий
+Если к моменту выдачи репозитория школы вы выполняли задания из Stage #2 в личном приватном репозитории, необходимо произвести перенос всей выполненной работы в выданный репозиторий.
 
 ### Миграция кода из личного приватного репозитория в репозиторий школы
 * Выполняемое в личном приватном репозитории задание должно находиться в отдельной ветке и в отдельной папке
@@ -37,7 +53,7 @@
         * Находясь в другой ветке: `git branch -m <old-branch-name> <task-name>`
     * В ветке master по желанию можете отредактировать `README.MD`. В этой ветке ничего, кроме `README.MD` и `.gitignore`, не должно находиться
 * Находясь в директории личного репозитория, производим перезаписывание истории нового репозитория
-    * `git push --mirror git@github.com:rolling-scopes-school/<your private repo>.git`
+    * `git push --mirror git@github.com:rolling-scopes-school/<your-school-repository>.git`
 
 ## Требования к коммитам
 [Conventional Commits](git-convention.md)
@@ -70,22 +86,19 @@
 
 
 ## Требования к Pull Request (PR)
-### Описание Pull Request должно содержать следующую информацию
-1. ссылка на задание.
-2. скриншот вашего задания (достаточного одного), ссылка либо прямо вставленая в пул реквест.
-3. ссылка на демо (github pages, netlify\*, etc.).
-4. дата сдачи / дата дедлайна.
-5. ваша самопроверка с предварительной оценкой.
-
-\* Для демоверсий, размещённых на netlify.com, название сайта даётся по схеме:
-имя гитхаб аккаунта - название таска.
-Например: `https://chakapega-fancy-weather.netlify.com/`
+### Описание Pull Request должно содержать:
+1. Ссылка на задание.
+2. Скриншот вашего задания (достаточного одного), ссылка либо прямо вставленая в пул реквест.
+3. Ссылка на деплой задания (см. [инструкцию по деплою](https://docs.rs.school/#/stage2?id=%d0%9a%d0%b0%d0%ba-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d1%82%d1%8c-%d1%81-%d0%bf%d1%80%d0%b8%d0%b2%d0%b0%d1%82%d0%bd%d1%8b%d0%bc-%d1%80%d0%b5%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%be%d1%80%d0%b8%d0%b5%d0%bc)):  
+  `http://rolling-scopes-school.github.io/<your-school-repository>/<task-name>`
+4. Дата сдачи / дата дедлайна.
+5. Ваша самопроверка с предварительной оценкой.
 
 Пример оформления
 ```
 1. задание - https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md
 2. скриншот - https://imgur.com/a/vB30e5R
-3. демо - https://lmoroz.github.io/codejam-virtual-keyboard/
+3. деплой - https://lmoroz.github.io/codejam-virtual-keyboard/
 4. дата сдачи: 2018-11-03 / дата дедлайна: 04.11.2018
 5. Total
 Task ( 8.5 / 12 )
@@ -116,7 +129,7 @@ mark calculation:
 
 ### Pull Request не должен содержать:
 - Закоментированного кода
-- Лишних файлов, автогенеренный кода, node_modules и т.д.
+- Лишних файлов, автосгенерированного кода, node_modules и т.д.
 
 ### Этикет
 Pull Request - это место для обсуждения кода. Он не должен выглядеть как монолог студента или ментора. Будьте культурными, уважайте время и работу друг друга.
