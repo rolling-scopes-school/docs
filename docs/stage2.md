@@ -22,28 +22,34 @@
 * Укажите в конфиге ваши данные (email впишите привязанный [к аккаунту GitHub](https://github.com/settings/emails)):  
    `git config user.name "Name Surname"`  
    `git config user.email "your@email"`
-* Из ветки master создать бранч `gh-pages` для деплоя:  
-  `git checkout -b gh-pages`
-* Из ветки master создать бранч по имени задания:  
+* Из ветки `master` создать ветку по имени задания:  
   `git checkout -b <task-name>`
 * Создать папку по имени задания:  
   `mkdir <task-name>`  
   Все относящиеся к заданию файлы должны быть в ней.
 * Выполнить задание, в процессе коммитая решения (см. [требования к коммитам](https://docs.rs.school/#/stage2?id=%d0%a2%d1%80%d0%b5%d0%b1%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%ba%d0%be%d0%bc%d0%bc%d0%b8%d1%82%d0%b0%d0%bc)).
-* Залить ветку в remote branch:  
+* Залить ветку в remote branch на GitHub:  
   `git push origin <task-name>`
-* Создать Pull Request из бранча `<task-name>` в ветку master.
-* Чтобы задеплоить задание, переходим в ветку `gh-pages` и мержим в нее ветку задания:  
+* Создать Pull Request из бранча `<task-name>` в ветку `master`.
+
+## Как сделать деплой задания из приватного репозитория школы?
+* Переходим в ветку `gh-pages` и мержим в нее ветку задания:  
   `git checkout gh-pages`  
   `git merge <task-name>`
-* В ветке `gh-pages` добавляем в файл `README.md` ссылку на папку задеплоенного таска:  
+* Используя сборщик проекта (webpack, gulp), учитывайте, что сборка будет в подпапке `dist`. Или в той, какую настроите в конфиге сборщика. Убедитесь, что названия этой папки нет в файле `.gitignore` в корне репозитория. Перед отправкой ссылки в сабмит для кроссчека и добавлением в PR для ментора удостоверьтесь, что по этой ссылке открывается именно рабочая версия (деплой) проекта.
+* В ветке `gh-pages` в файл `README.md` добавляем ссылку на папку задеплоенного таска:  
   `[Task name](./<task-name>)`
+  используя сборщик проекта, добавьте папку со сборкой, например:  
+  `[Task name](./<task-name>/dist)`
 * Деплой задания будет доступен по ссылке:  
-  `http://rolling-scopes-school.github.io/<your-school-repository>/<task-name>`
-* Чтобы увидеть ссылки на все сделанные вами задания, перейдите по ссылке:  
+  `http://rolling-scopes-school.github.io/<your-school-repository>/<task-name>`  
+  используя сборщик проекта, добавьте папку со сборкой, например:  
+  `http://rolling-scopes-school.github.io/<your-school-repository>/<task-name>/dist`
+* Здесь можно увидеть ссылки на все сделанные вами задания:  
   `http://rolling-scopes-school.github.io/<your-school-repository>`
+* Публикация на GitHub Pages может занять какое-то время.
 
-Если к моменту выдачи репозитория школы вы выполняли задания из Stage #2 в личном приватном репозитории, необходимо произвести перенос всей выполненной работы в выданный репозиторий.
+Если часть заданий Stage #2 вы делали в личном репозитории, перенесите их в выданный вам приватный репозиторий школы.
 
 ### Миграция кода из личного приватного репозитория в репозиторий школы
 * Выполняемое в личном приватном репозитории задание должно находиться в отдельной ветке и в отдельной папке
@@ -94,37 +100,60 @@
 4. Дата сдачи / дата дедлайна.
 5. Ваша самопроверка с предварительной оценкой.
 
-Пример оформления
+### Пример оформления
 ```
-1. задание - https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md
-2. скриншот - https://imgur.com/a/vB30e5R
-3. деплой - https://lmoroz.github.io/codejam-virtual-keyboard/
-4. дата сдачи: 2018-11-03 / дата дедлайна: 04.11.2018
-5. Total
-Task ( 8.5 / 12 )
-Header. (2 / 3)
-+ Interactive nav
-+ Think of where h1 should be used
-- Interactive login/register
-Main. ( 4.5 / 7)
-- Interactive domain input with dropdown of first domains (.com, .net, .org).
-+ Table should strictly be the same as design, and the cells number should be as much, as visible cells are.
-+ The circle elements should be made using CSS, transformations.
-+ The itmes should be intractive on hover.
-+ links in "about us" should be interactive.
-+ / - The feddback items should be interactive. (слайдер делать функциональным не обязательно, но желательно)
-- Services items should be links.
-Footer (2 / 2)
-+ Menus should be intractive
-+ Phone and mail interactions should correspond correctly. (например, при нажатии на телефон должно предложить звонок)
-
-mark calculation:
-100 - 10.5 - 30 = 59.5
-(0) За сдачу не в срок ментор может вычесть до 40 баллов из общего результата!
-(-10.5) За невыполнение какого-либо из пунктов ТЗ ментор может вычесть от 3 до 10 баллов.
-(-0 - проверял на валидаторе) За неправильное оформление кода или некорректный синтаксис ментор может вычесть до 20 баллов.
-(-0 - сверял 2 раза) За несоблюдение дизайна, кроме нюансов со шрифтами, ментор может вычесть до 40 баллов.
-(-30 - не успел выполнить) Если при масштабировании верстка сильно плывет (не responsive), выпадают элементы, скрывается часть контента, то ментор может вычесть до 30 баллов.
+1. Task:
+   https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md
+2. App screenshot:
+   https://i.imgur.com/9N60IHl.png
+3. Deploy:  
+   https://rolling-scopes-school.github.io/hallovarvara-RS2020Q1/english-for-kids/dist/
+4. Done 19.04.20 (deadline 19.04.20)
+5. Score: 200 / 200
+- [x] UI, markup, design of main page (+10) and category page (+10)
+	- [x] both mobile and desktop versions have all described elements
+	- [x] fulfilled all task requirements to app design
+- [x] UI, markup, design of menu (+10)
+	- [x] both mobile and desktop versions have all described elements
+	- [x] fulfilled all task requirements to app design
+	- [x] menu links work
+	- [x] current page link differ from others
+	- [x] all pages have sliding menu
+	- [x] menu closes with smooth animation by clicking on crest or any other app element including menu link
+- [x] Training mode (+20)
+	- [x] english words sound while clicking on card
+	- [x] all cards has button for flipping. there's word translation at the back side. card flip back after mouse cursor goes out from card area.
+- [x] Code quality (+30)
+	- [x] code dublicating minimized (+10)
+	- [x] modular JS (+10)
+	- [x] webpack, eslint, eslint-config-airbnb-base, babel connected and are used (+10)
+- [x] Game mode (+80):
+	- [x] click on mode switcher Train/Play turns on game mode. Here're no flipping button and text on card. Card image takes up all card area (if it's ok with app design). „Start game” button appears. (+10)
+	- [x] clicking on „Start game” button activate english word pronouncing. Word should be one of presented on page and it should be chosen randomly. For each page and every new game words should generating randomly from scratch (+10)
+	- [x] a click on „Start game” button change text on it with „Repeat” icon and view of button. Clicking on „Repeat” button repeats current word pronouncing (+10)
+	- [x] if user've clicked on wrong card, „error” sound sounds (+10)
+	- [x] if user've clicked on correct card, „correct” sound sounds and new random english word from this page is pronouncing. One word can't participate twice in one game. (+10)
+	- [x] card with guessed word become inactive and changes view. Clicking on inactive card doesn't call sound effects and doesn't affect on game score. (+10)
+	- [x] when game's started, every click on active card is right or wrong answer. They're shown up like stars or other symbols of different colors on rating panel. Rating panel shows up in game mode. If rating panel fulls of stars, first stars hide, new continues to show. (+10)
+	- [x] when all words've guessed: (+10)
+		- if all of them are rightly guessed, „success” sound sounds, cards hide, happy smile shows (or another appropriate image),
+		- else „failure” sound sounds, cards hide, sad smile shows (or another appropriate image) and mistakes quantity,
+		- app automatically redirects to main page with categories' list.
+- [x] Statistics page (+40):
+	- [x] here're all categories, all words of each category, every word's translation. Page must be shown correctly minimum on 320 px. (+10)
+	- [x] close to each word are shown and saved in statistics after page reload: (+10)
+		- number of clicks on it's card in training mode,
+		- times word was guessed,
+		- number of mistaken word in game mode,
+		- mistakes density of word.
+	- [x] feature to sort data. Strings sort alphabetically, number by number. Sort can be ascending and descending and must cover all data. (+10)
+	- [x] here're buttons „Repeat difficult words” и „Reset”: (+10)
+		- „Reset” resets statistics,
+		- „Repeat difficult words” open category-like page with words with the highest mistakes density. There can be 0–8 words according in how many words user guessed wrong in game mode. After clicking on „Reset” button, on „Repeat difficult words” page should be no words.
+- [x] Penalties (0):
+	- [x] In app less than 8 categories and less than 8 words in each category (-10)
+	- [x] Errors while app's working. (-10 for each, but no more than the total number of points for requirement implementation)
+	- [x] Not comply with the requirements for Pull Request, repository, commits names (-10) scores by mentor
 ```
 
 ### Pull Request не должен содержать:
