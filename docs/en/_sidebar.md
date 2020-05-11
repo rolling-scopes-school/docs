@@ -1,16 +1,17 @@
 - [RS School Overview](README.md)
 - JavaScript/Front-end Course
-  - [Course Overview (TBD)]()
-  - [How to enroll (TBD)]()
+  - [Course Overview](js-fe-course.md)
+  - [How to enroll](https://rs.school/poland/)
   - Education process
-    - [Communication](rs-school-chats.md)
-    - [Code-of-conduct](code-of-conduct.md)
+    - Communication
+    - Code-of-conduct
     - [Git convention](git-convention.md)
     - [First Interview](first-interview.md)
     - [Cross check](cross-check-flow.md)
     - [Dismission](dismission.md)
+    - [Course project](final-task.md)
     - [Certificate](rs-school-certificate.md)
-    - [Employment TBD]()
+    - Employment
 - Roles
     - [Activist](rs-school-activist.md)
     - [Mentor](rs-school-mentor.md)
