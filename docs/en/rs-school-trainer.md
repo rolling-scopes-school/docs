@@ -4,7 +4,7 @@ RS School Trainers are practicing developers from different companies and countr
 
 ## How can I become an RS School trainer?
 
-Any RS School mentor or activist of can try on the role of a coach. To begin with, it is a good practice to give a lecture within "Offline stream" or speak at the meetup. Preparation and giving out new assignments for students of the school is a good option, too, as it includes not only the preparation of the technical task but also the conduct of at least 2 webinars (assignment and answers to questions, summing up).
+Any RS School mentor or activist can try on the role of a coach. To begin with, it is a good practice to give an offline lecture or speak at a meetup. Development of new assignments for students of the school is a good option too, as it requires not only writing technical description of the task but also providing at least 2 webinars (task description, Q&A session and concluding remarks).
 
 # General information for trainers
 
@@ -21,22 +21,22 @@ Students usually start with the task, not a theory. And if they cannot solve the
 - Information on how to hand over the task (where and how to upload it, etc.).
 - If you specify any details of the task, please do not forget to add these details to the description, not just drop them into the general chat.
 
-### Theoretical tasks requirements
+### Requirements for theoretical lectures
 
-- No more than 2 hours of theory for each lesson. Theoretical knowledge should be covered by practice - task, test or other activity. Everything that is put into practice is quickly forgotten.
-- Offline time should include 1-2 breaks
+- No more than 2 hours of theory for each lesson. Theoretical knowledge should be covered by practice - task, test or other activity. Anything that is not practiced is quickly forgotten.
+- Offline lectures should include 1-2 breaks
 - Remove all unnecessary information from presentations. All the main links that can be  useful for further reading on the topic should be given at the end of the presentation
-- Before giving the presentation, omit all materials / slides that are out of date. For example, nobody is interested in layout features for IE6 or handling memory leaks in IE8
-- The turned on webcam at webinars makes the lecture more cordial
-- During offline classes, communicate with the entire audience, and not with the front rows
+- Before giving the presentation, remove all materials / slides that are out of date. For example, nobody is interested in layout features for IE6 or handling memory leaks in IE8
+- The turned on webcam during webinars makes the lecture more cordial
+- During offline classes, communicate with the entire audience, and not just with students from the front rows
 - It is recommended to use contrasting colors in the presentation, as all lectures are shown to the audience on the projector
 - For specific and rarely used things, it is better to leave a link to the material, do not describe them in detail
-- Make more simple slides rather than one huge
+- Split slides into smaller parts rather than having all information in one huge slide
 - To present an API analysis of any functionality, it is better to organize workshops, not just enumerate them
 
 ### Organizing offline classes
 
-We are constantly looking for those who want to conduct face-to-face lectures, student meetings, beerjs, office tours, etc. At the face-to-face event, you can give a lecture from the RS School curriculum - [https://github.com/rolling-scopes-school/lectures](https://github.com/rolling-scopes-school/lectures) or just talk about working on a project, passing interviews, etc.
+We are constantly looking for those who want to conduct face-to-face lectures, student meetups, beerjs, office tours, etc. During face-to-face event, you can give a lecture from the RS School curriculum - https://github.com/rolling-scopes-school/lectures or just talk about working on a project, passing interviews, etc.
 
 Venue: you can use any meeting room available for you by booking it yourself. If a list of listeners is required to access the meeting room, we will provide it.
 
