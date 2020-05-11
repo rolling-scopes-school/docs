@@ -1,4 +1,4 @@
-##Course project
+## Course project
 
 ## FAQ
 ### Question: Who checks the course project?

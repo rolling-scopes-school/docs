@@ -1,4 +1,4 @@
-### Mentor Job Description
+### RS School Mentor
 
 If you:
 
