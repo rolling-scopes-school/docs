@@ -1,1 +1,1 @@
-http://docs.rs.school
+https://docs.rs.school

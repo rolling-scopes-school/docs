@@ -1,25 +1,25 @@
 ## Чтение лекций через YouTube Live 
 
 ## Вам понадобится
-- Компьютер с веб камерой 
+- Компьютер с веб камерой
 - Интернет на скорости 3G или выше
 - [Discord чат](https://discordapp.com/)
-  * права на размешение постов в канал #announcements. 
+  * права на размешение постов в канал #announcements
 - [Open Broadcast Studio (OBS)](https://obsproject.com/)
-- Права на трансляцию в YouTube канал сообщества https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug
+- Права на трансляцию в [YouTube канал сообщества](https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug)
   * выдача прав может занять до 48 часов (запросить права транслировать + 24 часа ждать)
-  * гайд как выдать права - https://support.google.com/youtube/answer/4628007?hl=en
+  * [гайд как выдать права](https://support.google.com/youtube/answer/4628007?hl=en)
   * сейчас права могут выдать Rolling Scopes (Maxim Shastel, Dzmity Varabei), Anton Bely, Dzianis Sheka, Pavel Razuvalov, Sergey Shalyapin
-  * для трансляции нужен только код трансляции, который может передать человек, администрующий канал.
-  * желательно перед трансляцией сделать тестовый прогон, можно через канал https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ
+  * для трансляции нужен только код трансляции, который может передать человек, администрующий канал
+  * желательно перед трансляцией сделать тестовый прогон, можно через [YouTube канал](https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ)
 
 ## Discord
 Discord чат используется для анонса трансляции и общения с участниками вебинара:
-- В канал #announcements необходимо разместить анонс вебинара, а перед его началом добавить ссылку на трансляцию 
+- В канал #announcements необходимо разместить анонс вебинара, а перед его началом добавить ссылку на трансляцию
 - Для получения прав на размешения постов в #announcements, напишите любому admin
-- Для общения со студентами во время трансляции используется канал #live-streaming 
+- Для общения со студентами во время трансляции используется канал #live-streaming
 
-[Подробнее о стуруктуре Discord](/ru/discussion-rules.md)
+[Подробнее о стуруктуре Discord](rs-school-chats.md)
 
 ## Настройка OBS
 Приложение Open Broadcast Studio (OBS) необходимо для того, чтобы стримить изображение с экрана и веб камеры, звук с микрофона.
@@ -46,10 +46,10 @@ Discord чат используется для анонса трансляции
 #### 3. Выставить название стрима, описание и превью
 ![превью](../images/add_thumbnail.png)
 
-* preview можно сделать из, например, такого шаблона в фигме  - https://www.figma.com/file/40sDhGHQgU0DmBLuu0Qim8/youtube_thumbnails?node-id=0%3A6
+* preview можно сделать из, например, [такого шаблона в фигме](https://www.figma.com/file/40sDhGHQgU0DmBLuu0Qim8/youtube_thumbnails?node-id=0%3A6)
 
 #### 4. Скопировать ключ трансляции из дашборда стрима в OBS
 ![превью](../images/stream_key.png)
 ![превью](../images/obs_stream_settings.png)
 
-### Удачного стриминга! 
+### Удачного стриминга!
