@@ -51,15 +51,39 @@
 
 Если часть заданий Stage #2 вы делали в личном репозитории, перенесите их в выданный вам приватный репозиторий школы.
 
-### Миграция кода из личного приватного репозитория в репозиторий школы
-* Выполняемое в личном приватном репозитории задание должно находиться в отдельной ветке и в отдельной папке
-    * Если код находится в корне репозитория, необходимо отдельным коммитом переместить весь код в отдельную папку с названием, согласно описанию задания, оставив в корне только `README.MD` и `.gitignore`
-    * Ветку, в которой выполнялось задание, необходимо переименовать согласно описанию задания
-        * Находясь в ветке с заданием: `git branch -m <task-name>`
-        * Находясь в другой ветке: `git branch -m <old-branch-name> <task-name>`
-    * В ветке master по желанию можете отредактировать `README.MD`. В этой ветке ничего, кроме `README.MD` и `.gitignore`, не должно находиться
-* Находясь в директории личного репозитория, производим перезаписывание истории нового репозитория
-    * `git push --mirror git@github.com:rolling-scopes-school/<your-school-repository>.git`
+### Перенос кода задания из личного репозитория в выданный школой репозиторий
+
+Личный репозиторий существует на вашем аккаунте:  
+`https://github.com/your-username/...`
+
+Школьный репозиторий размещен на аккаунте школы:  
+`https://github.com/rolling-scopes-school/...`
+
+Если вы начали делать задания 2 этапа в личном репозитории, когда выдадут школьный, надо будет перенести их туда.
+
+Если сделано немного, проще всего в школьном репозитории от ветки `master` создать ветку задания, скопировать туда актуальные файлы и папки задания и коммитать с нуля. 
+
+Если важно сохранить историю коммитов, можно сделать зеркало вашего личного репозитория в школьном. Для этого:
+
+1. В личном репозитории закоммитайте и запушьте все необходимые для задания изменения, чтобы не потерять их.
+2. У вас должна быть ветка `master`, в ней те же файлы, что и в ветке `master` вашего школьного репозитория. Учитывайте, что если будете менять `master` после того, как создали ветку с заданием и что-то там изменили, при потенциальном слиянии могут быть конфликты. Поэтому никаких лишних файлов и папок в `master` быть не должно.
+3. В ветке, где делали задание, создайте отдельную папку, туда перенесите все относящиеся к заданию файлы и папки. Обычно в описании задания указано, как должна называться папка. Например, для задания „Fancy Weather“ папка называется `fancy-weather`. Ветка, в которой вы выполняли задание, должна быть одна и должна называться, как указано в задании. Переименовать ветку, находясь в ней, можно следующим образом:  
+`git branch -m task-branch-name`  
+из другой ветки репозитория:  
+`git branch -m old-branch-name task-branch-name`
+4. В ветке задания в корне репозитория (вне папки с заданием) должны остаться те же файлы, что и в ветке `master`.
+5. Больше никаких веток (промежуточная разработка фич, hotfixes и т. д.) в репозитории быть не должно, только `master` и ветка с заданием. Если у вас несколько веток для заданий, оставьте их и оформите согласно п. 3-4.
+6. Заходим в приватный репозиторий школы и копируем ссылку, которую используют для клонирования. В зависимости от предпочтительного метода работы с Git, она будет такой:  
+`git@github.com:rolling-scopes-school/your-username-RSYEARQn.git`  
+или такой:  
+`https://github.com/rolling-scopes-school/your-username-RSYEARQn.git`
+7. Делаем школьный репозиторий полной копией вашего текущего репозитория (внимание: все ветки школьного репозитория будут перезаписаны ветками нового!):  
+`git push --mirror link`  
+*вместо `link` вставьте ссылку, которую скопировали в п. 6*
+8. Далее через терминал переходим в папку, в которой предполагается склонировать ваш школьный репозиторий и пишем:  
+`git clone link`  
+*вместо `link` вставьте ссылку, которую скопировали в п. 6*
+9. Переходим в папку школьного репозитория и продолжаем разработку уже там.
 
 ## Требования к коммитам
 [Conventional Commits](git-convention.md)
@@ -128,7 +152,7 @@
 	- [x] code dublicating minimized (+10)
 	- [x] modular JS (+10)
 	- [x] webpack, eslint, eslint-config-airbnb-base, babel connected and are used (+10)
-- [x] Game mode (+80):
+- [x] Game mode (+80)
 	- [x] click on mode switcher Train/Play turns on game mode. Here're no flipping button and text on card. Card image takes up all card area (if it's ok with app design). „Start game” button appears. (+10)
 	- [x] clicking on „Start game” button activate english word pronouncing. Word should be one of presented on page and it should be chosen randomly. For each page and every new game words should generating randomly from scratch (+10)
 	- [x] a click on „Start game” button change text on it with „Repeat” icon and view of button. Clicking on „Repeat” button repeats current word pronouncing (+10)
@@ -140,7 +164,7 @@
 		- if all of them are rightly guessed, „success” sound sounds, cards hide, happy smile shows (or another appropriate image),
 		- else „failure” sound sounds, cards hide, sad smile shows (or another appropriate image) and mistakes quantity,
 		- app automatically redirects to main page with categories' list.
-- [x] Statistics page (+40):
+- [x] Statistics page (+40)
 	- [x] here're all categories, all words of each category, every word's translation. Page must be shown correctly minimum on 320 px. (+10)
 	- [x] close to each word are shown and saved in statistics after page reload: (+10)
 		- number of clicks on it's card in training mode,
@@ -151,7 +175,7 @@
 	- [x] here're buttons „Repeat difficult words” и „Reset”: (+10)
 		- „Reset” resets statistics,
 		- „Repeat difficult words” open category-like page with words with the highest mistakes density. There can be 0–8 words according in how many words user guessed wrong in game mode. After clicking on „Reset” button, on „Repeat difficult words” page should be no words.
-- [x] Penalties (0):
+- [x] Penalties (0)
 	- [x] In app less than 8 categories and less than 8 words in each category (-10)
 	- [x] Errors while app's working. (-10 for each, but no more than the total number of points for requirement implementation)
 	- [x] Not comply with the requirements for Pull Request, repository, commits names (-10) scores by mentor
