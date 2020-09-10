@@ -93,68 +93,30 @@
     - Если студент не исправил замечания ментора по качеству кода, ментор может дополнительно снизить оценку. Размер штрафа на усмотрение ментора, максимум -50 баллов.
 
 ## Требования к Pull Request (PR)
-### Описание Pull Request должно содержать:
+### Описание Pull Request должно содержать следующую информацию:
 1. Ссылка на задание.
-2. Скриншот вашего задания (достаточного одного), ссылка либо прямо вставленая в пул реквест.
-3. Ссылка на деплой задания (см. [инструкцию по деплою](https://docs.rs.school/#/stage2?id=%d0%9a%d0%b0%d0%ba-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d1%82%d1%8c-%d1%81-%d0%bf%d1%80%d0%b8%d0%b2%d0%b0%d1%82%d0%bd%d1%8b%d0%bc-%d1%80%d0%b5%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%be%d1%80%d0%b8%d0%b5%d0%bc)):  
-  `http://rolling-scopes-school.github.io/<your-school-repository>/<task-name>`
+2. Скриншот результата выполнения задания (страница созданного приложения или сайта). Скриншот добавляем в Pull Request в виде изображения. 
+3. Ссылка на задеплоенную версию вашего приложения или сайта. Для деплоя можно использовать [gh-pages](https://docs.rs.school/#/stage2?d=Как-сделать-деплой-задания-из-приватного-репозитория-школы), [netlify.com](https://app.netlify.com/drop), либо другой подобный хостинг.    
+Для демоверсий, размещённых на netlify, название сайта даётся по схеме: имя гитхаб аккаунта - название таска.  
 4. Дата сдачи / дата дедлайна.
 5. Ваша самопроверка с предварительной оценкой.
 
 ### Пример оформления
 ```
-1. Task:
-   https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md
-2. App screenshot:
-   https://i.imgur.com/9N60IHl.png
-3. Deploy:  
-   https://rolling-scopes-school.github.io/hallovarvara-RS2020Q1/english-for-kids/dist/
-4. Done 19.04.20 (deadline 19.04.20)
-5. Score: 200 / 200
-- [x] UI, markup, design of main page (+10) and category page (+10)
-	- [x] both mobile and desktop versions have all described elements
-	- [x] fulfilled all task requirements to app design
-- [x] UI, markup, design of menu (+10)
-	- [x] both mobile and desktop versions have all described elements
-	- [x] fulfilled all task requirements to app design
-	- [x] menu links work
-	- [x] current page link differ from others
-	- [x] all pages have sliding menu
-	- [x] menu closes with smooth animation by clicking on crest or any other app element including menu link
-- [x] Training mode (+20)
-	- [x] english words sound while clicking on card
-	- [x] all cards has button for flipping. there's word translation at the back side. card flip back after mouse cursor goes out from card area.
-- [x] Code quality (+30)
-	- [x] code dublicating minimized (+10)
-	- [x] modular JS (+10)
-	- [x] webpack, eslint, eslint-config-airbnb-base, babel connected and are used (+10)
-- [x] Game mode (+80):
-	- [x] click on mode switcher Train/Play turns on game mode. Here're no flipping button and text on card. Card image takes up all card area (if it's ok with app design). „Start game” button appears. (+10)
-	- [x] clicking on „Start game” button activate english word pronouncing. Word should be one of presented on page and it should be chosen randomly. For each page and every new game words should generating randomly from scratch (+10)
-	- [x] a click on „Start game” button change text on it with „Repeat” icon and view of button. Clicking on „Repeat” button repeats current word pronouncing (+10)
-	- [x] if user've clicked on wrong card, „error” sound sounds (+10)
-	- [x] if user've clicked on correct card, „correct” sound sounds and new random english word from this page is pronouncing. One word can't participate twice in one game. (+10)
-	- [x] card with guessed word become inactive and changes view. Clicking on inactive card doesn't call sound effects and doesn't affect on game score. (+10)
-	- [x] when game's started, every click on active card is right or wrong answer. They're shown up like stars or other symbols of different colors on rating panel. Rating panel shows up in game mode. If rating panel fulls of stars, first stars hide, new continues to show. (+10)
-	- [x] when all words've guessed: (+10)
-		- if all of them are rightly guessed, „success” sound sounds, cards hide, happy smile shows (or another appropriate image),
-		- else „failure” sound sounds, cards hide, sad smile shows (or another appropriate image) and mistakes quantity,
-		- app automatically redirects to main page with categories' list.
-- [x] Statistics page (+40):
-	- [x] here're all categories, all words of each category, every word's translation. Page must be shown correctly minimum on 320 px. (+10)
-	- [x] close to each word are shown and saved in statistics after page reload: (+10)
-		- number of clicks on it's card in training mode,
-		- times word was guessed,
-		- number of mistaken word in game mode,
-		- mistakes density of word.
-	- [x] feature to sort data. Strings sort alphabetically, number by number. Sort can be ascending and descending and must cover all data. (+10)
-	- [x] here're buttons „Repeat difficult words” и „Reset”: (+10)
-		- „Reset” resets statistics,
-		- „Repeat difficult words” open category-like page with words with the highest mistakes density. There can be 0–8 words according in how many words user guessed wrong in game mode. After clicking on „Reset” button, on „Repeat difficult words” page should be no words.
-- [x] Penalties (0):
-	- [x] In app less than 8 categories and less than 8 words in each category (-10)
-	- [x] Errors while app's working. (-10 for each, but no more than the total number of points for requirement implementation)
-	- [x] Not comply with the requirements for Pull Request, repository, commits names (-10) scores by mentor
+1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md
+2. Screenshot:
+   ![](https://i.imgur.com/9N60IHl.png)
+3. Deploy: https://chakapega-fancy-weather.netlify.com/
+4. Done 28.05.2020 (deadline 31.05.2020)
+5. Score: 220 / 300
+- вёрстка, дизайн, UI (20 / 30)
+- [x] минимальная ширина страницы, при которой она отображается корректно – 320 рх. Все указанные в задании элементы присутствуют как на десктопной, так и на мобильной версии (10) 
+- [ ] приложение корректно отображается для любого выбранного языка, единиц измерения температуры, указанного в поиске населённого пункта (0)
+- [±] внешний вид приложения внешне соответствует макету или является его улучшенной версией (5 / 10)
+- В блоке "Погода за сегодня" отображаются данные, относящиеся к текущему местоположению пользователя – (15 / 20)
+- [x] данные о погоде и местоположении пользователя (10)
+- [±] дата в указанном в описании задания формате, часы, обновляющие время каждую секунду (5 / 10) 
+ ...
 ```
 
 ### Pull Request не должен содержать:
