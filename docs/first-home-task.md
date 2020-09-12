@@ -9,4 +9,3 @@
     - https://github.com/rolling-scopes-school/tasks/blob/master/tasks/git-markdown.md
     - https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codejam-cv.md
 6. Алгоритмические задания будут выданы на второй неделе обучения.
-Для тренировки можно решить одно из заданий прошлого набора: https://github.com/siarhei-smantsar/love-triangle
