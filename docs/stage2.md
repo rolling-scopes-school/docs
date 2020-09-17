@@ -99,7 +99,7 @@
 ```
 1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md
 2. Screenshot:
-   ![](images/fancy-weather.png)
+   ![](https://docs.rs.school/images/fancy-weather.png)
 3. Deploy: https://chakapega-fancy-weather.netlify.com/
 4. Done 28.05.2020 / deadline 31.05.2020
 5. Score: 220 / 300
