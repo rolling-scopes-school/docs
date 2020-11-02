@@ -7,6 +7,7 @@
     - [Общение. Каналы связи](rs-school-chats.md)
     - [Нормы поведения](code-of-conduct.md)
     - [Stage#1](stage1.md)
+    - [Приватный репозиторий](private-repository.md)
     - [Требования к коммитам](git-convention.md)
     - [Собеседование с ментором](technical-screening.md)
     - [Cross check](cross-check-flow.md)
