@@ -29,7 +29,10 @@ The Rolling Scopes School постоянно ищет менторов из лю
 - У одного ментора может быть от 2 до 6 студентов (по его желанию)
 
 ### Дополнительные активности. Строго по собственному желанию ментора :)
-- [Чтение оффлайн лекций в вашем городе (offline streams)](rs-school-trainer.md)
+- Консультации ментии по:
+    - составлению резюме/самопрезентации и прохождению собеседований.
+    - выбору фреймворка - React/Angular/etc.
+    - по любым другим темам (scrum, паттерны, etc).
 - [Выступление на митапах](https://community-z.com/events/rs60-tashkent)
 - Чтение вебинаров, проведения [YouTube Live трансляций](https://www.youtube.com/watch?v=ouZnGUefneQ&list=PLzLiprpVuH8dEodh5dKfn4SJpITOvczr9)
 - [Разработка учебных заданий и тестов](https://github.com/rolling-scopes-school/tasks)
@@ -39,6 +42,7 @@ The Rolling Scopes School постоянно ищет менторов из лю
 - Менторинг студентов на своих pet проектах 
 - Помощь студентам в Discord'е школы
 - Разработка новых курсов
+- [Чтение оффлайн лекций в вашем городе (offline streams)](rs-school-trainer.md)
 - Ваши идеи
 
 ### Джентльменское соглашение
