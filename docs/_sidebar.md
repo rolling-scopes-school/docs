@@ -25,6 +25,8 @@
   - [Общая информация о курсе](react-course.md)
 - Angular Course
   - [Общая информация о курсе](angular-course.md)
+- ML Intro Course
+  - [ML Intro Course](ml-intro-course.md)
 - Роли
     - [Активист](rs-school-activist.md)
     - [Ментор](rs-school-mentor.md)
