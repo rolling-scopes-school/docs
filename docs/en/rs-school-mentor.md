@@ -25,23 +25,23 @@ Mentors have the priority right to hire their own students to their company / pr
 
 ### What does mentoring mean?
 
-* Weekly meetings of the mentor with their group of students (on Skype, Google Hangouts, Telegram, Slack, etc.)
-* Mentor answers students' questions, helps with tasks if possible
-* Mentor checks and evaluates students' work through a review of the corresponding students' Pull Requests (about 7 works during stage # 2). As a result, each student’s PR contains mentor’s comments on the code, recommendations and a final grade. Mentor grades the work based on the assessment criteria specified for each assignment. After checking, the mentor records the score in the Score form, on the basis of which the Public Score is generated
-* The mentor conducts training interviews (two for each student)
-* The mentor can give additional lectures if they wish
-* One mentor can teach from 2 to 6 students (if they wish)
+* Weekly meetings of the mentor with their group of students (on Skype, Google Hangouts, Telegram, Slack, etc.).
+* Mentor answers students' questions, helps with tasks if possible.
+* Mentor checks and evaluates students' work through a review of the corresponding students' Pull Requests (about 7 works during stage # 2). As a result, each student’s PR contains mentor’s comments on the code, recommendations and a final grade. Mentor grades the work based on the assessment criteria specified for each assignment. After checking, the mentor records the score in the Score form, on the basis of which the Public Score is generated.
+* The mentor conducts training interviews (two for each student).
+* The mentor can give additional lectures if they wish.
+* One mentor can teach from 2 to 6 students (if they wish).
   
 ### Possible additional activities for mentors. Only at the mentor’s wish :)
 
-* Offline lectures in your city (offline streams)
-* Conducting webinars, hosting YouTube Live events
-* Preparation and conduct of tasks / tests. 
-* Development of school applications and utilities
-* Hiring own students
-* Writing articles for the school blog [https://medium.com/rs-school/](https://medium.com/rs-school/)
-* Mentoring students on their pet projects after the third stage of training
-* Other
+* Offline lectures in your city (offline streams).
+* Conducting webinars, hosting YouTube Live events.
+* Preparation and conduct of tasks / tests.
+* Development of school applications and utilities.
+* Hiring own students.
+* Writing articles for the school blog [https://medium.com/rs-school/](https://medium.com/rs-school/).
+* Mentoring students on their pet projects after the third stage of training.
+* Other.
 
 ### Basic rules for the students and mentors interaction
 
