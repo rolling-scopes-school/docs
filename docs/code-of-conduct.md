@@ -25,10 +25,10 @@
 
 Мы ожидаем, что каждый участник:
 
-* Будет внимателен к собеседникам, будет вести себя уважительно и проявлять готовность помочь
-* Будет воздерживаться от сообщений и поведения, носящих дискриминационный, токсичный или оскорбительный характер
-* Будет стараться создавать вокруг себя положительный настрой
-* Будет искренне и активно принимать участие в мероприятиях школы
+* Будет внимателен к собеседникам, будет вести себя уважительно и проявлять готовность помочь.
+* Будет воздерживаться от сообщений и поведения, носящих дискриминационный, токсичный или оскорбительный характер.
+* Будет стараться создавать вокруг себя положительный настрой.
+* Будет искренне и активно принимать участие в мероприятиях школы.
 
 Вышеизложенное в более подробных формулировках: к недопустимому поведению относятся неуважительное, дискриминационное, агрессивное или оскорбительное поведение.
 
@@ -70,10 +70,10 @@ Let’s build a place where we can achieve more together than we could ever achi
 
 We expect everyone to:
 
-* Be considerate, respectful, and collaborative
-* Refrain from demeaning, discriminatory, toxic or harassing behavior and speech
-* Create a positive impact on everything around them
-* Participate in an authentic and active way
+* Be considerate, respectful, and collaborative.
+* Refrain from demeaning, discriminatory, toxic or harassing behavior and speech.
+* Create a positive impact on everything around them.
+* Participate in an authentic and active way.
 
 But if you need a more explicit list: Unacceptable behaviors include harassing, abusive, discriminatory, or derogatory conduct.
 
