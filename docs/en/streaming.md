@@ -2,23 +2,23 @@
 Giving lectures via YouTube Live
 
 ## You will need
-• A сomputer with a web camera
-• Internet 3G or higher speeds
-• Discord chat
-o rights to post to the #announcements channel.
-• Open Broadcast Studio (OBS)
-• YouTube Broadcast Rights Community Channel https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug
-o granting of rights can take up to 48 hours (request the rights to broadcast + 24 hours to wait)
-o how to grant rights - https://support.google.com/youtube/answer/4628007?hl=en
-o Rolling Scopes (Maxim Shastel, Dzmity Varabei), Anton Bely, Dzianis Sheka, Pavel Razuvalov, Sergey Shalyapin can grant rights
-o For broadcasting you need only the broadcast code, which can be given by the person administering the channel.
-o it is advisable to make a test run before broadcasting, use the channel https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ
+- A сomputer with a web camera
+- Internet 3G or higher speeds
+- Discord chat
+  - rights to post to the #announcements channel.
+- Open Broadcast Studio (OBS)
+- YouTube Broadcast Rights Community Channel https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug
+    - granting of rights can take up to 48 hours (request the rights to broadcast + 24 hours to wait)
+    - how to grant rights - https://support.google.com/youtube/answer/4628007?hl=en
+    - Rolling Scopes (Maxim Shastel, Dzmity Varabei), Anton Bely, Dzianis Sheka, Pavel Razuvalov, Sergey Shalyapin can grant rights
+    - For broadcasting you need only the broadcast code, which can be given by the person administering the channel.
+    - It is advisable to make a test run before broadcasting, use the channel https://www.youtube.com/channel/UC96625SDIZVxP-MRid1w8sQ
 
 ## Discord
 Discord chat is used to announce the broadcast and communicate with the participants of the webinar:
-• The announcement of the webinar must be posted in the #announcements channel, and before the start, add a link to the broadcast
-• To get the rights to post to #announcements, write to any admin
-• The channel # live-streaming is used to communicate with students during the broadcast
+- The announcement of the webinar must be posted in the #announcements channel, and before the start, add a link to the broadcast
+- To get the rights to post to #announcements, write to any admin
+- The channel # live-streaming is used to communicate with students during the broadcast
 
 Read more about Discord's structure
 

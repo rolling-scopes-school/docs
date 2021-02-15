@@ -34,7 +34,7 @@ Every half a year we start a new course for nearly 2000 students. There are more
 
 ## Requirements for moving to the second stage of learning process(mentoring)
 
-- Knowledge of: - OOP basics. [Example of questions](https://habr.com/en/post/345658/) - Basic data structures and their organization (array, list, stack, queue, tree, hash-tables etc.). - You should be able to implement simple algorithm in JavaScript. [Tasks examples](http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false) - Basic sorting and searching algorithms - Graphs of basic math functions, factorial, the concept of logarithm - English B1 (Intermediate). (for those who want to be hired by EPAM)
+- Knowledge of: - OOP basics. [Example of questions](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) - Basic data structures and their organization (array, list, stack, queue, tree, hash-tables etc.). - You should be able to implement simple algorithm in JavaScript. [Tasks examples](http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false) - Basic sorting and searching algorithms - Graphs of basic math functions, factorial, the concept of logarithm - English B1 (Intermediate). (for those who want to be hired by EPAM)
 - The ability and willingness to work full time (for those who wants to be hired)
 
 ## What should you do, if you do not have technical education or you have a lack of knowledge?
