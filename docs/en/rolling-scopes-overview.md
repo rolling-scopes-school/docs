@@ -27,7 +27,7 @@ These are free courses conducted by our community since 2013. Everyone can study
 
 ## YouTube
 
-On our channel you can find records of RS School webinars and speeches from our meetings and conferences - https://www.youtube.com/therollingscopes. All school records are posted on our second channel https://www.youtube.com/ channel / UC578nebW2Mn-mNgjEArGZug
+On our channel you can find records of RS School webinars and speeches from our meetings and conferences - https://www.youtube.com/therollingscopes. All school records are posted on our second channel https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug
 
 ## Telegram
 

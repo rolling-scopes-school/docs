@@ -25,7 +25,7 @@ At RS School the principle of "Pay it forward" works. We share our knowledge wit
 • Courses can be taken several times. In 2019, about 15% studied again.
 
 ## Certificate
-A certificate of successful completion of the courses is issued to students who have completed three stages of training and scored a set number of points for key tasks. The list of tasks and the bar for points is set for each stream separately. Example certificate requirements for 2019Q1 release: https://docs.rs.school/#/rs-school-certificate.
+A certificate of successful completion of the courses is issued to students who have completed three stages of training and scored a set number of points for key tasks. The list of tasks and the bar for points is set for each stream separately. Example certificate requirements for 2019Q1 release: https://docs.rs.school/#/en/rs-school-certificate.
 
 ## Employment
 ### When is employment possible?
