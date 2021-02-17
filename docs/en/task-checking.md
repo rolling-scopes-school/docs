@@ -1,43 +1,43 @@
-Task requirements in RSSchool stage # 2
+## Task requirements in RSSchool stage # 2
 
-Repository
+### Repository
 Starting with stage # 2, by default, all tasks must be stored in a private repository on GitHub.
 A private repository will be issued to you at the beginning of stage # 2 after the enrollment of students by mentors. The date of issue will be announced additionally in the discord chat channel announcements - https://discord.gg/WkYCfV2
 Repositories are issued as follows:
 
-•	we create a private repository for you
-•	add you to contributors
-•	GitHub automatically sends you an invite to access the repository. An invite comes to the mail you specified when registering on GitHub (and not to the mail you specified in RS APP).
-How to work with a private repository?
-•	Clone it yourself git clone https://github.com/rolling-scopes-school/<your private repo> .git
-•	Put your current data in the config
-•	git config user.name "Name Surname"
-•	git config user.email "your @ email" (the email must match the email specified in github-e)
-•	Create brunch by job name git checkout -b <task name>
-•	Create a folder mkdir <task name> All files related to the task should be stored in it
-•	Complete the task, committing as the solution progresses (see section - commit requirements)
-•	Pour into remote branch git push origin <task name>
-•	Create a pull request from the brunch to the master branch.
+-	we create a private repository for you
+-	add you to contributors
+-	GitHub automatically sends you an invite to access the repository. An invite comes to the mail you specified when registering on GitHub (and not to the mail you specified in RS APP).
+### How to work with a private repository?
+-	Clone it yourself git clone https://github.com/rolling-scopes-school/<your private repo> .git
+-	Put your current data in the config
+-	git config user.name "Name Surname"
+-	git config user.email "your @ email" (the email must match the email specified in github-e)
+-	Create brunch by job name git checkout -b <task name>
+-	Create a folder mkdir <task name> All files related to the task should be stored in it
+-	Complete the task, committing as the solution progresses (see section - commit requirements)
+-	Pour into remote branch git push origin <task name>
+-	Create a pull request from the brunch to the master branch.
 
 
-How does the task check happen?
-Auto-checked tasks
+### How does the task check happen?
+#### Auto-checked tasks
 Grades for tasks that are checked automatically (Codewars, Codecademy, etc.) are set and subsequently corrected if the student sent his correct data on time. Such data, as a rule, is the username of the corresponding services. The form for sending correct data opens after the deadline, a link to the form, as well as information about the date and time of its closure, is published in the announcements channel. After the closure of the claim form and the justification for an unexposed or incorrect assessment, are not accepted.
 
-Mentor Testing
+#### Mentor Testing
 1.	Student completing assignment in private repository
 2.	The student creates and executes the Pull Request.
-•	PR rules are listed below.
-•	The deadline penalties are listed below.
-•	When applying penalty factors, rounding is in favor of the student.
+-	PR rules are listed below.
+-	The deadline penalties are listed below.
+-	When applying penalty factors, rounding is in favor of the student.
 2.	Until the final assessment by the mentor, the student can continue to sell features after the deadline with a penalty of 50% of their value in points.
-•	The names of commits should clearly speak of a implemented feature.
-•	The student must leave a separate comment in the open Pull Request about the functionality that was implemented and its cost in points, taking into account a 50% penalty.
-•	When applying penalty factors, rounding is in favor of the student.
+-	The names of commits should clearly speak of a implemented feature.
+-	The student must leave a separate comment in the open Pull Request about the functionality that was implemented and its cost in points, taking into account a 50% penalty.
+-	When applying penalty factors, rounding is in favor of the student.
 3.	The mentor checks the PR, leaves his comments and recommendations on the quality of the code (copy-paste, magic numbers, project structure, etc.) and the implemented functionality. Indicates a preliminary rating in a comment.
-•	The assessment is set by the mentor based on the assessment criteria specified for each assignment.
-•	When scoring, all implemented functionality is taken into account. For example, a student fulfilled the minimum requirements not 100 percent, but fulfilled a part of the additional requirements - all requirements must be taken into account.
-•	The mentor can set a preliminary assessment in advance, taking into account the fact that the student will correct all the comments of the mentor.
+-	The assessment is set by the mentor based on the assessment criteria specified for each assignment.
+-	When scoring, all implemented functionality is taken into account. For example, a student fulfilled the minimum requirements not 100 percent, but fulfilled a part of the additional requirements - all requirements must be taken into account.
+-	The mentor can set a preliminary assessment in advance, taking into account the fact that the student will correct all the comments of the mentor.
 4.	The student corrects the comments of the mentor within 5 days.
 5.	Based on the results of the correction, the mentor puts the final mark in Score RS APP. The mentor decides to take points or not for editing after the deadline.
 Pull Request (PR) Requirements
@@ -47,17 +47,17 @@ The Pull Request description should contain the following information.
 8.	demo link (github pages, netlify, etc.)
 9.	date of delivery / deadline date
 10.	your self-assessment with a preliminary assessment
-Pull Request should not contain:
-•	Commented out code
-•	Superfluous files, autogenerated code, node_modules, etc.
-Deadlines
+#### Pull Request should not contain:
+-	Commented out code
+-	Superfluous files, autogenerated code, node_modules, etc.
+### Deadlines
 Deadlines of all tasks are indicated in the schedule. If you do not have time for the deadline:
 
-•	If the task belongs to the category "CodeJam" and does not imply checking the code with a mentor, you get 0. An example of such tasks is Lodash Quick Draw, Websocket Challenge, etc.
-•	If the fee implies automatic verification, see p. Autocontrolled tasks
-•	For other types of tasks:
-✴	-10 points for evaluation if you are late for up to 3 days inclusive
-✴	-30% percent of the assessment if you are late for up to 7 days inclusive
-✴	-70% percent of the assessment if you are late for more than a week
-✴	at the discretion of the mentor, if there is a good reason (hospital, army fees, etc.)
+-	If the task belongs to the category "CodeJam" and does not imply checking the code with a mentor, you get 0. An example of such tasks is Lodash Quick Draw, Websocket Challenge, etc.
+-	If the fee implies automatic verification, see p. Autocontrolled tasks
+-	For other types of tasks:
+        - 	-10 points for evaluation if you are late for up to 3 days inclusive
+        -	-30% percent of the assessment if you are late for up to 7 days inclusive
+        -	-70% percent of the assessment if you are late for more than a week
+        -	at the discretion of the mentor, if there is a good reason (hospital, army fees, etc.)
 

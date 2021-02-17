@@ -1,4 +1,4 @@
-##A student can be expelled due to:
+## A student can be expelled due to:
 - Lack of activity over a period of a month (failure to complete tasks)
 - Failure to complete more than three home assignments, tests, codejam tasks.
 - Cheating from online sources or other course participants.
