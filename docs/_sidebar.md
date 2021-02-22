@@ -11,6 +11,7 @@
     - [Требования к коммитам](git-convention.md)
     - [Собеседование с ментором](technical-screening.md)
     - [Cross check](cross-check-flow.md)
+    - [Распределение по командам](teams.md)
     - [Stage#2](stage2.md)
       - [Проверка задания ментором](pull-request-review-process.md) 
     - [Курсовой проект](final-task.md)
