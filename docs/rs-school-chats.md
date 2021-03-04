@@ -48,6 +48,15 @@
 - **#rs-padawans-developing**:lock:
 - **#rs-activist**:lock:
 
+## Список Discord серверов RS School
+- Курс «JavaScript/Front-end» https://discord.com/invite/QvEYg7EaQ4
+- Курс «React» https://discord.com/invite/zyRcphs3px
+- Курс «Angular» https://discord.com/invite/xwReXYqvs7
+- Курс «NodeJS» https://discord.com/invite/8BFb8va
+- Курс «NodeJS in AWS» https://discord.com/invite/8BFb8va
+- Курс «Введение в машинное обучение» https://discord.gg/EaqnbAAUps
+- Курс «JavaScript/Front-end in English» https://discord.com/invite/uW5cCHR
+
 ## Telegram
 Мы используем telegram каналы для:
 - Обсуждения мероприятий, относящихся к вашему городу. Например, офлайн лекции
