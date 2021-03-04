@@ -54,8 +54,11 @@
 - Курс «Angular» https://discord.com/invite/xwReXYqvs7
 - Курс «NodeJS» https://discord.com/invite/8BFb8va
 - Курс «NodeJS in AWS» https://discord.com/invite/8BFb8va
+- Курс «Разработка приложений для Android» https://discord.com/invite/AzKUfTZ
+- Курс «Разработка приложений для iOS» https://discord.com/invite/HCmpatx
 - Курс «Введение в машинное обучение» https://discord.gg/EaqnbAAUps
 - Курс «JavaScript/Front-end in English» https://discord.com/invite/uW5cCHR
+- Курс «Javascript/Front-end Mentoring Program in Lithuania» https://discord.com/invite/pm9Ch2NhvA
 
 ## Telegram
 Мы используем telegram каналы для:
