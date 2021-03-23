@@ -1,5 +1,3 @@
-## [Начальный уровень тут](stage1/tasks/clean-code/guildlines/html-and-css.md)
-
 # Продвинутый уровень:
 
 ## 1. HTML
