@@ -18,6 +18,11 @@
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
     - [Первое домашнее задание](first-home-task.md)
+  - Качество кода
+    - [Общие принципы](code-quality-guidelines/generic-principles.md)
+    - [Правила работы с GIT](code-quality-guidelines/commits.md)
+    - [HTML & CSS #1](code-quality-guidelines/html-and-css.md)
+    - [HTML & CSS #2](code-quality-guidelines/html-and-css-extended.md)
   - Трудоустройство
     - [EPAM и трудоустройство](employment.md)
 - NodeJS Course
