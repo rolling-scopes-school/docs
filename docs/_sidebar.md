@@ -8,22 +8,15 @@
     - [Нормы поведения](code-of-conduct.md)
     - [Приватный репозиторий](private-repository.md)
     - [Требования к коммитам](git-convention.md)
-    - [Cross check](cross-check-flow.md)
-    - [Stage#2](stage2.md)
-      - [Проверка задания ментором](pull-request-review-process.md) 
-    - [Курсовой проект](final-task.md)
+    - [Cross check](cross-check-flow.md) 
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
-    - [Первое домашнее задание](first-home-task.md)
-- Трудоустройство
-    - [EPAM и трудоустройство](employment.md)
-- React Course
-  - [Общая информация о курсе](react-course.md)
-- Angular Course
-  - [Общая информация о курсе](angular-course.md)
+    - [Первое домашнее задание](first-home-task.md) 
+- [EPAM и трудоустройство](employment.md)
 - Роли
     - [Активист](rs-school-activist.md)
     - [Ментор](rs-school-mentor.md)
+      - [Проверка задания ментором](pull-request-review-process.md) 
     - [Тренер](rs-school-trainer.md)
       - [Подготовка заданий](create-task.md)
       - [Streaming](streaming.md)
