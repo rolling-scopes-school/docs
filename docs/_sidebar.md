@@ -1,38 +1,26 @@
 - [RS School. Общая информация](README.md)
-- JavaScript/Front-end Course
-  - [Общая информация о курсе](js-fe-course.md)
-  - [Как записаться на курс](how-to-enroll.md)
-  - Процесс обучения
-    - [Этапы обучения](stages.md)
+- Курсы
+  - [JavaScript/Front-end Course](js-fe-course.md)
+  - [NodeJS Course](nodejs-course.md)
+  - [ML Intro Course](ml-intro-course.md)
+- Процесс обучения
     - [Общение. Каналы связи](rs-school-chats.md)
     - [Нормы поведения](code-of-conduct.md)
-    - [Stage#1](stage1.md)
     - [Приватный репозиторий](private-repository.md)
     - [Требования к коммитам](git-convention.md)
-    - [Собеседование с ментором](technical-screening.md)
     - [Cross check](cross-check-flow.md)
-    - [Распределение по командам](teams.md)
     - [Stage#2](stage2.md)
       - [Проверка задания ментором](pull-request-review-process.md) 
     - [Курсовой проект](final-task.md)
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
     - [Первое домашнее задание](first-home-task.md)
-  - Качество кода
-    - [Общие принципы](code-quality-guidelines/generic-principles.md)
-    - [Правила работы с GIT](code-quality-guidelines/commits.md)
-    - [HTML & CSS #1](code-quality-guidelines/html-and-css.md)
-    - [HTML & CSS #2](code-quality-guidelines/html-and-css-extended.md)
-  - Трудоустройство
+- Трудоустройство
     - [EPAM и трудоустройство](employment.md)
-- NodeJS Course
-  - [Общая информация о курсе](nodejs-course.md)
 - React Course
   - [Общая информация о курсе](react-course.md)
 - Angular Course
   - [Общая информация о курсе](angular-course.md)
-- ML Intro Course
-  - [ML Intro Course](ml-intro-course.md)
 - Роли
     - [Активист](rs-school-activist.md)
     - [Ментор](rs-school-mentor.md)
@@ -41,6 +29,7 @@
       - [Streaming](streaming.md)
 - [RS APP](rs-app.md)
     - [Нотификации](notifications.md)
+    - [Распределение по командам](teams.md)
 - [Как внести свой вклад](how-to-contribute.md)
   - [Как исправить ошибку в документации](fix-typo.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
