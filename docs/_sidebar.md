@@ -20,8 +20,8 @@
     - [Первое домашнее задание](first-home-task.md)
   - Качество кода
     - [Общие принципы](code-quality-guidelines/generic-principles.md)
-    - [Правила работы с GIT](code-quality-guidelines/commits.md)
-    - [HTML & CSS #1](code-quality-guidelines/html-and-css.md)
+    - [Правила работы с GIT](code-quality-guidelines/git-rules.md)
+    - [HTML & CSS #1](code-quality-guidelines/html-and-css-basic.md)
     - [HTML & CSS #2](code-quality-guidelines/html-and-css-extended.md)
   - Трудоустройство
     - [EPAM и трудоустройство](employment.md)
@@ -41,7 +41,7 @@
       - [Streaming](streaming.md)
 - [RS APP](rs-app.md)
     - [Нотификации](notifications.md)
-- [Как внести свой вклад](how-to-contribute.md)
-  - [Как исправить ошибку в документации](fix-typo.md)
+- [Как внести свой вклад?](how-to-contribute.md)
+  - [Как исправить ошибку в документации?](fix-typo.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
 - [Поддержать сообщество](fundraiser.md)
