@@ -3,26 +3,35 @@
   - [JavaScript/Front-end Course](js-fe-course.md)
   - [NodeJS Course](nodejs-course.md)
   - [ML Intro Course](ml-intro-course.md)
+  - [Разработка для iOS](https://rs.school/ios/)
+  - [Разработка для Android](https://rs.school/android/)
 - Процесс обучения
     - [Общение. Каналы связи](rs-school-chats.md)
     - [Нормы поведения](code-of-conduct.md)
-    - [Приватный репозиторий](private-repository.md)
-    - [Требования к коммитам](git-convention.md)
     - [Cross check](cross-check-flow.md) 
-    - [Проверка задания ментором](pull-request-review-process.md) 
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
-- [EPAM и трудоустройство](employment.md)
-- Роли
-    - [Активист](rs-school-activist.md)
-    - [Ментор](rs-school-mentor.md)
-
-    - [Тренер](rs-school-trainer.md)
-      - [Подготовка заданий](create-task.md)
-      - [Streaming](streaming.md)
-- [RS APP](rs-app.md)
+    - [EPAM и трудоустройство](employment.md)
+- Платформа RS APP
+    - [Описание](rs-app.md)
+    - [Сдача заданий в RS APP](rs-app-tasks.md)
     - [Нотификации](notifications.md)
     - [Распределение по командам](teams.md)
-- [Как исправить ошибку в документации?](fix-typo.md)
+    - [Типичные проблемы](rs-app-issues.md)
+- Приватный репозиторий
+    - [Приватный репозиторий](private-repository.md)
+    - [Требования к коммитам](git-convention.md)
+- Как помочь школе?
+    - [Стать активистом](rs-school-activist.md)
+    - [Как исправить ошибку в документации?](fix-typo.md)
+    - [Поддержать сообщество](fundraiser.md)
+- Менторинг
+    - [Mentors Wanted!](rs-school-mentor.md)
+    - [Процесс менторинга](mentoring.md)
+    - [Проверка задания ментором](pull-request-review-process.md) 
+- Для тренеров
+    - [Общая информация](rs-school-trainer.md)
+    - [Подготовка заданий](create-task.md)
+    - [Streaming](streaming.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
 - [Поддержать сообщество](fundraiser.md)
