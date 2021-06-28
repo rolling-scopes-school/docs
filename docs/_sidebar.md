@@ -9,20 +9,24 @@
     - [Приватный репозиторий](private-repository.md)
     - [Требования к коммитам](git-convention.md)
     - [Cross check](cross-check-flow.md) 
-    - [Проверка задания ментором](pull-request-review-process.md) 
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
-- [EPAM и трудоустройство](employment.md)
-- Роли
-    - [Активист](rs-school-activist.md)
-    - [Ментор](rs-school-mentor.md)
-
-    - [Тренер](rs-school-trainer.md)
-      - [Подготовка заданий](create-task.md)
-      - [Streaming](streaming.md)
-- [RS APP](rs-app.md)
+    - [EPAM и трудоустройство](employment.md)
+- Платформа RS APP
+    - [Описание](rs-app.md)
     - [Нотификации](notifications.md)
     - [Распределение по командам](teams.md)
-- [Как исправить ошибку в документации?](fix-typo.md)
+- Как помочь школе?
+    - [Стать активистом](rs-school-activist.md)
+    - [Как исправить ошибку в документации?](fix-typo.md)
+    - [Поддержать сообщество](fundraiser.md)
+- Менторинг
+    - [Mentors Wanted!](rs-school-mentor.md)
+    - [Процесс менторинга]()
+    - [Проверка задания ментором](pull-request-review-process.md) 
+- Для тренеров
+    - [Общая информация](rs-school-trainer.md)
+    - [Подготовка заданий](create-task.md)
+    - [Streaming](streaming.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
 - [Поддержать сообщество](fundraiser.md)
