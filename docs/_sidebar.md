@@ -9,13 +9,14 @@
     - [Приватный репозиторий](private-repository.md)
     - [Требования к коммитам](git-convention.md)
     - [Cross check](cross-check-flow.md) 
+    - [Проверка задания ментором](pull-request-review-process.md) 
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
 - [EPAM и трудоустройство](employment.md)
 - Роли
     - [Активист](rs-school-activist.md)
     - [Ментор](rs-school-mentor.md)
-      - [Проверка задания ментором](pull-request-review-process.md) 
+
     - [Тренер](rs-school-trainer.md)
       - [Подготовка заданий](create-task.md)
       - [Streaming](streaming.md)
