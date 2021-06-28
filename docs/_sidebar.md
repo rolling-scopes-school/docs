@@ -8,13 +8,13 @@
 - Процесс обучения
     - [Общение. Каналы связи](rs-school-chats.md)
     - [Нормы поведения](code-of-conduct.md)
-    - [Cross check](cross-check-flow.md) 
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
     - [EPAM и трудоустройство](employment.md)
 - Платформа RS APP
     - [Описание](rs-app.md)
     - [Сдача заданий в RS APP](rs-app-tasks.md)
+    - [Cross check](cross-check-flow.md) 
     - [Нотификации](notifications.md)
     - [Распределение по командам](teams.md)
     - [Типичные проблемы](rs-app-issues.md)
