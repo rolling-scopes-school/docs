@@ -11,7 +11,6 @@
     - [Cross check](cross-check-flow.md) 
     - [Отчисление](dismission.md)
     - [Сертификат](rs-school-certificate.md)
-    - [Первое домашнее задание](first-home-task.md) 
 - [EPAM и трудоустройство](employment.md)
 - Роли
     - [Активист](rs-school-activist.md)
