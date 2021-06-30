@@ -27,7 +27,7 @@
 ### Регистрация на подготовительный этап
 Подготовительный этап поможет тем, кто мало знаком или совсем не знаком с программированием и/или веб-разработкой и хотел бы впоследствии успешно обучаться в RS School.
 
-Программу обучения подготовительного этапа можно посмотреть [тут](https://github.com/rolling-scopes-school/tasks/tree/roadmap/stage0)  
+Программу обучения подготовительного этапа можно посмотреть [тут](https://github.com/rolling-scopes-school/tasks/tree/master/stage0)  
 Регистрацию на ближайший запуск можно найти тут - https://rs.school/js-stage0/
 
 ### Регистрация на первый этап обучения (stage#1)
@@ -39,7 +39,7 @@
 - Уметь решать задачи уровня 8-7 kyu на сайте https://www.codewars.com/
 - (Желательно) Английский язык уровня Pre-intermediate.
 
-Программу обучения можно посмотреть [тут](https://github.com/rolling-scopes-school/tasks/blob/roadmap/roadmap.md)  
+Программу обучения можно посмотреть [тут](https://github.com/rolling-scopes-school/tasks/blob/master/roadmap.md)  
 Регистрацию на ближайший запуск можно найти тут - https://rs.school/js/
 
 ## FAQ
@@ -50,7 +50,7 @@
 Город проживания значения не имеет. Все этапы обучения можно пройти онлайн.
 
 ### Что делать до старта обучения? 
-1. Выполнить задания и тесты [подготовительного этапа](https://github.com/rolling-scopes-school/tasks/tree/roadmap/stage0)
+1. Выполнить задания и тесты [подготовительного этапа](https://github.com/rolling-scopes-school/tasks/tree/master/stage0)
 2. Пойти на курсы английского языка до получения уровня Pre-Intermediate (Минимум A2).
 
 
