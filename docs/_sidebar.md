@@ -19,6 +19,7 @@
   - [Нотификации](notifications.md)
   - [Распределение по командам](teams.md)
   - [Типичные проблемы](rs-app-issues.md)
+  - [Добавление тестов в RS APP](rs-app-add-tests.md)
 - Приватный репозиторий
   - [Приватный репозиторий](private-repository.md)
   - [Требования к коммитам](git-convention.md)
