@@ -37,7 +37,9 @@
 
 Сабмитить задание можно сколько угодно раз, каждый следующий сабмит перезаписывает предыдущий.
 
-Ваш никнейм на сайте codewars должен быть таким же, как и GitHub никнейм, под которым вы зарегистрировались в rs app. Если указанный никнейм на codewars занят, добавьте к своему GitHub никнейму окончание -rss. Изменить никнейм на codewars можно по ссылке https://www.codewars.com/users/edit
+Ваш username на сайте codewars должен быть таким же, как и GitHub никнейм, под которым вы зарегистрировались в rs app. Если указанный username на codewars занят, добавьте к своему GitHub никнейму окончание -rss. Изменить username на codewars можно по ссылке https://www.codewars.com/users/edit
+
+![edit username](images/rs-app-tasks-1.jpg)
 
 ## Cross-check
 Описание в отдельном [файле](cross-check-flow.md)
