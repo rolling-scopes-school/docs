@@ -15,7 +15,7 @@
   - [Описание](rs-app.md)
   - [Расписание](rs-app-schedule.md)
   - [Сдача заданий в RS APP](rs-app-tasks.md)
-  - [Cross check](cross-check-flow.md)
+  - [Cross-check](cross-check-flow.md)
   - [Нотификации](notifications.md)
   - [Распределение по командам](teams.md)
   - [Типичные проблемы](rs-app-issues.md)
