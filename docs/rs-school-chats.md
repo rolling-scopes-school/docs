@@ -100,7 +100,7 @@
 - [Uzbekistan General](https://t.me/RSSchoolUzbekistan)
 
 ### Kyrgyzstan
-- [Bishkek](https://t.me/RSSchoolBishkek)
+- [Kyrgyzstan General](https://t.me/RSSchool_Kyrgyzstan)
 
 ### Kazakhstan 
 - [Kazakhstan General](https://t.me/RSSchoolKazakhstan)
