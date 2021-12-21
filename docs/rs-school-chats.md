@@ -3,7 +3,7 @@
 * Официальные языки: RU, EN, BE.
 * Ваш ник в Discord должен содержать название вашего GitHub аккаунта. Например, вот так - Paval Miatlitski (@pavalEscoba). Инструкция по добавлению аккаунта GitHub в Discord:
     
-![github](../images/github_acc.png)  
+![github](images/github_acc.png)  
     
 * В канале обсуждается только указанная в его названии тематика, например, **#live-coding** предназначен __исключительно__ для обсуждений live-стримов. Нетематические посты будут удаляться. Назначение каналов указано ниже.
 * Используйте поиск и pinned messages.
@@ -100,7 +100,7 @@
 - [Uzbekistan General](https://t.me/RSSchoolUzbekistan)
 
 ### Kyrgyzstan
-- [Bishkek](https://t.me/RSSchoolBishkek)
+- [Kyrgyzstan General](https://t.me/RSSchool_Kyrgyzstan)
 
 ### Kazakhstan 
 - [Kazakhstan General](https://t.me/RSSchoolKazakhstan)

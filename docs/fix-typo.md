@@ -32,7 +32,8 @@
 ## 3. Привязываем локальную копию к оригинальному репозиторию
 Для этого заходим в папку склонированного репозитория и выполняем две команды
 
-```git remote add upstream https://github.com/rolling-scopes-school/docs```  
+```git remote add upstream https://github.com/rolling-scopes-school/docs```
+
 ```git fetch upstream```
 ![image](images/fix-typo3.png)
 
@@ -52,7 +53,9 @@
 Для этого выполните команды:
 
 ```git add .```
+
 ```git commit -m "feat: add fix-typo"```
+
 ```git push origin fix-typo```
 
 ### 6. Возвращаем изменения: Pull request
