@@ -111,6 +111,12 @@
 ### Ukraine 
 - [Ukraine General](https://t.me/RSSchoolUkraine)
 
+### Poland
+- [RS School Poland на русском](https://t.me/RSSchoolPoland)
+
+### Lithuania
+- [RS School Lithuania на русском](https://t.me/RSSchoolLithuania)
+
 ## FAQ
 ### Что нужно сделать перед тем как задать вопрос в чате?
 - Попробовать загуглить вопрос
