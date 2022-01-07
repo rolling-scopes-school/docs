@@ -10,7 +10,7 @@
 
 ## Как работать с приватным репозиторием?
 * Склонировать его себе:  
-  `git clone git@github.com:rolling-scopes-school/<your-school-repository>.git`
+  `git clone https://github.com/rolling-scopes-school/<your-school-repository>.git`
 * Укажите в конфиге ваши данные (email впишите привязанный [к аккаунту GitHub](https://github.com/settings/emails)):  
    `git config user.name "Name Surname"`  
    `git config user.email "your@email"`
