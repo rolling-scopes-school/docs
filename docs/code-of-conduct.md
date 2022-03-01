@@ -47,9 +47,15 @@
 * использование грубых выражений вне канала “random”
 * конспирологические теории, безосновательно распространяемые в каналах школы
 
+Дополнительно:
+* Запрещается в любой форме оправдывать военную агрессию в сторону мирного государства
+* Запрещается обвинять людей в их безучастности в политическом конфликте/кризисе
+* Запрещается призывать других людей к активным противоправным действиям
+
+
 Любой студент, нарушивший Правила, будет исключен из школы Rolling Scopes.
 
-Последнее обновление — 14 августа 2019 г.
+Последнее обновление — 1 марта 2022 г.
 
 Правила разработаны на основании и под влиянием [code of conduct (flatironschool.com)](https://www.flatironschool.com/code-of-conduct/) и [code of conduct (rsconf.by)](https://rsconf.by/code-of-conduct.html)
 
@@ -91,9 +97,14 @@ The toxic behavour includes:
 * rude language outside of random channel
 * unreasonable conspiracy theory spreaded on school channels
 
+Additionally:
+* It is forbidden in any form to justify military aggression towards a peaceful state
+* It is forbidden to blame people for their indifference to a political conflict/crisis
+* It is forbidden to call other people to active illegal actions
+
 Any student who violates the Code of Conduct will be dismissed from Rolling Scopes School.
 
-Last updated August 14, 2019
+Last updated March 1, 2022
 
 Based and inspired by [code of conduct (flatironschool.com)](https://www.flatironschool.com/code-of-conduct/) and [code of conduct (rsconf.by)](https://rsconf.by/code-of-conduct.html)
 
