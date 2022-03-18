@@ -9,6 +9,7 @@
     - [Dismission](en/dismission.md)
     - [Course project](en/final-task.md)
     - [Certificate](en/rs-school-certificate.md)
+    - [Code of conduct](en/code-of-conduct.md)
 - Roles
     - [Activist](en/rs-school-activist.md)
     - [Mentor](en/rs-school-mentor.md)
