@@ -6,7 +6,7 @@
 
 После авторизации приложение предложит Вам заполнить регистрационную форму:
 
-![register form](https://github.com/yuliaHope/rs-images/blob/main/Screenshot%202021-02-22%20at%2011.52.06.png)
+![register form](images/Screenshot%202021-02-22%20at%2011.52.06.png)
 
 **Примечание**
 
@@ -16,7 +16,7 @@
 
 На странице Teams Вы увидете две доступные кнопки: `Join team` or `Create team`.
 
-![teams page](https://github.com/yuliaHope/rs-images/blob/main/Screenshot%202021-02-22%20at%2012.06.39.png)
+![teams page](images/Screenshot%202021-02-22%20at%2012.06.39.png)
 
 #### Create team
 
@@ -39,8 +39,8 @@
 
 После присоединения к команде Вы увидете:
 
-![team](https://github.com/yuliaHope/rs-images/blob/main/Screenshot%202021-02-22%20at%2012.39.26.png)
+![team](images/Screenshot%202021-02-22%20at%2012.39.26.png)
 
 Чтобы покинуть команду достаточно нажать `Leave team`. Или чтобы кто-то из сокомандников вас исключил:
 
-![expel team member](https://github.com/yuliaHope/rs-images/blob/main/Screenshot%202021-02-22%20at%2012.39.43.png)
+![expel team member](images/Screenshot%202021-02-22%20at%2012.39.43.png)
