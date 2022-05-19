@@ -4,7 +4,7 @@
 - Компьютер с веб камерой
 - Интернет на скорости 3G или выше
 - [Discord чат](https://discordapp.com/)
-  * права на размешение постов в канал #announcements
+  * права на размещение постов в канал #announcements
 - [Open Broadcast Studio (OBS)](https://obsproject.com/)
 - Права на трансляцию в [YouTube канал сообщества](https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug)
   * выдача прав может занять до 48 часов (запросить права транслировать + 24 часа ждать)
