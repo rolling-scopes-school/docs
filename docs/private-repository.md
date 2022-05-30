@@ -35,6 +35,8 @@
     - так [выглядит](https://docs.rs.school/images/deploy-to-gh-pages.png) ветка `gh-pages` с папками проектов
     - пример ссылки: `https://rolling-scopes-school.github.io/irinainina-JS2020Q3/repair-design-project/`
 
+#### Видео - https://www.youtube.com/watch?v=0lvKcqP3aP0
+
 ## Я удалил ветку gh-pages, что делать?
 1. Cоздайте заново ветку `gh-pages` от `main` и запушьте ее в свой школьный приватный репозиторий
 2. В Dashboard RS APP нажмите кнопку `Fix repository` 
