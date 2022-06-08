@@ -29,6 +29,7 @@
   - [Поддержать сообщество](fundraiser.md)
 - Менторинг
   - [Mentors Wanted!](rs-school-mentor.md)
+  - [Алгоритм распределения студентов](students-distribution.md)
   - [Процесс менторинга](mentoring.md)
   - [Проверка задания ментором](pull-request-review-process.md)
 - Для тренеров
