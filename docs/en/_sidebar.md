@@ -16,6 +16,8 @@
     - [Trainer](en/rs-school-trainer.md)
       - [Task creation](en/task-creation.md)
       - [Streaming](en/streaming.md)
+- Mentoring
+  - [Pull Request Review Process](en/pull-request-review-process.md)
 - [RS APP](en/rsapp.md)
 - [How to contribute](en/how-to-contribute.md)
 - [About The Rolling Scopes](en/rolling-scopes-overview.md)
