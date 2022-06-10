@@ -28,9 +28,9 @@
   - [Как исправить ошибку в документации?](fix-typo.md)
   - [Поддержать сообщество](fundraiser.md)
 - Менторинг
-  - [Mentors Wanted!](rs-school-mentor.md)
-  - [Алгоритм распределения студентов](students-distribution.md)
+  - [Как стать ментором?](rs-school-mentor.md)
   - [Процесс менторинга](mentoring.md)
+  - [Алгоритм распределения студентов](students-distribution.md)
   - [Проверка задания ментором](pull-request-review-process.md)
 - Для тренеров
   - [Общая информация](rs-school-trainer.md)
