@@ -75,10 +75,10 @@
 ### FAQ
 #### Question: Что такое RS APP?
 RS APP или RS School App — это open-source платформа, используемая в процессе обучения в RS School и разрабатываемая силами активистов сообщества.
-    - http://app.rs.school/
-    - Репозиторий - https://github.com/rolling-scopes/rsschool-app
-    - Баг-репорты создавать тут - https://github.com/rolling-scopes/rsschool-app/issues
-    - Хотите принять участие в разработке? Пишите в telegram @varabei
+  - http://app.rs.school/  
+  - Репозиторий - https://github.com/rolling-scopes/rsschool-app  
+  - Баг-репорты создавать тут - https://github.com/rolling-scopes/rsschool-app/issues  
+  - Хотите принять участие в разработке? Пишите в telegram @varabei
 
 #### Question: Нужны ли еще ментора?
 Answer: Да, ментора нужны постоянно. 🔥 Регистрация тут - https://app.rs.school/registry/mentor
