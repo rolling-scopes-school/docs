@@ -31,6 +31,16 @@
 3. У менторов есть доступ ко всем репозиториям студентов этого курса.
 4. По умолчанию ментора подписаны на все изменения в студенческих репозитория. Отписаться можно в настройках github (Profile>Settings>Notifications>Automatically watch repositories) или используя скрипт - https://github.com/Shastel/runsubscribe
 
+#### 1.4. Знакомство с учебной программой и расписанием
+Курс состоит из 4х этапов: подготовительного и трех основных. Ментора помогают студентам во время прохождения второго и третьего этапа. На каждый этап менторинга необходимо регистрироваться отдельно.  
+Программа обучения:  
+  - [Подготовительный этап. Студенты обучаются без помощи менторов.](https://github.com/rolling-scopes-school/tasks/tree/master/stage0)
+  - [Первый этап обучения. Студенты обучаются без помощи менторов.](https://github.com/rolling-scopes-school/tasks/tree/master/stage1)
+  - [Второй этап обучения. Менторинг.](https://github.com/rolling-scopes-school/tasks/tree/master/stage2)
+  - Третий этап обучения. Менторинг. Студенты выбирают фреймворк:  
+     - [React](https://github.com/rolling-scopes-school/tasks/tree/master/react)
+     - [Angular](https://github.com/rolling-scopes-school/tasks/tree/master/angular)
+
 ## 2. Получение студентов
 ### 2.1. Алгоритм распределения студентов по менторам
 #### Шаг #1 Ментора подтверждают регистрацию на курс
