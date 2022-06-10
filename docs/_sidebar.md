@@ -29,6 +29,7 @@
   - [Поддержать сообщество](fundraiser.md)
 - Менторинг
   - [Как стать ментором?](rs-school-mentor.md)
+  - [Регистрация и получение студентов](mentoring-kick-off.md)
   - [Процесс менторинга](mentoring.md)
   - [Проверка задания ментором](pull-request-review-process.md)
 - Для тренеров
