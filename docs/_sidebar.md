@@ -30,7 +30,6 @@
 - Менторинг
   - [Как стать ментором?](rs-school-mentor.md)
   - [Процесс менторинга](mentoring.md)
-  - [Алгоритм распределения студентов](students-distribution.md)
   - [Проверка задания ментором](pull-request-review-process.md)
 - Для тренеров
   - [Общая информация](rs-school-trainer.md)
