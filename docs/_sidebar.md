@@ -28,7 +28,9 @@
   - [Как исправить ошибку в документации?](fix-typo.md)
   - [Поддержать сообщество](fundraiser.md)
 - Менторинг
-  - [Mentors Wanted!](rs-school-mentor.md)
+  - [Как стать ментором?](rs-school-mentor.md)
+  - [Регистрация и получение студентов](mentoring-kick-off.md)
+  - [Первое интервью](mentoring-first-interview.md)
   - [Процесс менторинга](mentoring.md)
   - [Проверка задания ментором](pull-request-review-process.md)
 - Для тренеров
