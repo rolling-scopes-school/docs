@@ -47,5 +47,11 @@
 - [Чтение оффлайн лекций в вашем городе (offline streams)](rs-school-trainer.md).
 - Ваши идеи.
 
+### Документация
+- [Процесс регистрации на курсе и получения студентов](https://docs.rs.school/#/mentoring-kick-off)
+- [Первое собеседование со студентами](https://docs.rs.school/#/mentoring-first-interview)
+- [Процесс менторинга](https://docs.rs.school/#/mentoring)
+- [Как проверять задания](https://docs.rs.school/#/pull-request-review-process)
+
 ### Pay it forward
 Школа работает по принципу "Pay it forward". Согласно этому принципу, мы ожидаем что студенты, отучившиеся в школе бесплатно, возвращаются в качестве менторов, чтобы передать свои знания следующему поколению студентов.
