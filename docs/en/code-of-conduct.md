@@ -2,7 +2,7 @@
 
 The Rolling Scopes School believes our community should be open for everyone.
 
-We are expecting cooperation from all participants to help ensuring a friendly, safe, and welcoming environment for everybody, regardless of:
+We are expecting cooperation from all participants to help to ensure a friendly, safe, and welcoming environment for everybody, regardless of:
 
 * gender
 * sexual orientation
@@ -34,10 +34,10 @@ Harassment includes:
 * sustained disruption of talks, topic channel conversations or events
 * unwelcome sexual attention
 
-The toxic behavour includes:
+The toxic behaviour includes:
 * unreasonable repetitive critic of the school, its program, mentors and students
-* rude language outside of random channel
-* unreasonable conspiracy theory spreaded on school channels
+* rude language (including obscene language) in school official communication channels (including Discord, Telegram channels, GitHub repos etc.). Exception: #random channel on Discord.
+* unreasonable conspiracy theory spread on school channels
 
 Additionally:
 * It is forbidden in any form to justify military aggression towards a peaceful state
