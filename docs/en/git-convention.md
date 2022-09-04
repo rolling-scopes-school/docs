@@ -1,5 +1,6 @@
 ## Commit Requirements
-- The names of the commits should be according to the guideline - https://www.conventionalcommits.org/en/v1.0.0-beta.2/ 
+- The names of the commits should be according to the guideline - https://www.conventionalcommits.org/en/v1.0.0-beta.2/
+- The commit type MUST BE in lowercase only (`init`, `feat`, `fix`, `refactor`, `docs` etc.)
 - Present tense ("add feature" not "added feature") should be used.
 - Imperative mood ("move cursor to ..." not "moves cursor to ..." should be used).
 
