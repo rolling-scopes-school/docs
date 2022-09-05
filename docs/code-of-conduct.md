@@ -20,6 +20,7 @@
 * предпочитаемой операционной системы
 * используемого языка программирования
 * предпочитаемого текстового редактора / IDE
+* предпочитаемая цветовая схема
 
 Мы ожидаем, что наши преподаватели, менторы, студенты, гости, друзья и любые иные лица, каким-либо образом взаимодействующие со школой, приложат все усилия для создания на площадках школы безопасной, конструктивной и позитивной атмосферы.
 
@@ -71,6 +72,7 @@ We are expecting cooperation from all participants to help ensuring a friendly, 
 * preferred operating system
 * programming language
 * text editor
+* color theme
 
 We expect all faculty, teachers, employees, mentors, students, guests, friends, basically everyone involved with the school, to help us create a safe, constructive and positive environment for everyone.
 
