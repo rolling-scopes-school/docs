@@ -37,7 +37,7 @@
 
 Сабмитить задание можно сколько угодно раз, каждый следующий сабмит перезаписывает предыдущий.
 
-Ваш username на сайте codewars должен быть таким же, как и GitHub никнейм, под которым вы зарегистрировались в rs app. Если указанный username на codewars занят, добавьте к своему GitHub никнейму окончание -rss. Изменить username на codewars можно по ссылке https://www.codewars.com/users/edit
+Ваш username на сайте codewars должен соответствовать username, указанному на странице сабмита. Изменить username на codewars можно по ссылке https://www.codewars.com/users/edit. Вставьте в поле `Username` указанный username и кликните на кнопку `Update` в самом низу страницы.
 
 ![edit username](images/rs-app-tasks-1.jpg)
 
