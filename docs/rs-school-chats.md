@@ -59,7 +59,7 @@
 - Курс «React» https://discord.com/invite/zyRcphs3px
 - Курс «Angular» https://discord.com/invite/xwReXYqvs7
 - Курс «NodeJS» https://discord.com/invite/8BFb8va
-- Курс «NodeJS in AWS» https://discord.com/invite/8BFb8va
+- Курс «NodeJS in AWS» https://discord.com/invite/ATsHAqCsnw
 - Курс «Разработка приложений для Android» https://discord.com/invite/AzKUfTZ
 - Курс «Разработка приложений для iOS» https://discord.com/invite/HCmpatx
 - Курс «Введение в машинное обучение» https://discord.gg/EaqnbAAUps
