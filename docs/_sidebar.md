@@ -17,7 +17,6 @@
   - [Сдача заданий в RS APP](rs-app-tasks.md)
   - [Cross-check](cross-check-flow.md)
   - [Нотификации](notifications.md)
-  - [Распределение по командам](teams.md)
   - [Типичные проблемы](rs-app-issues.md)
   - [Добавление тестов в RS APP](rs-app-add-tests.md)
 - Приватный репозиторий
