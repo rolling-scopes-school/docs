@@ -10,7 +10,6 @@
   - [Нормы поведения](code-of-conduct.md)
   - [Отчисление](dismission.md)
   - [Сертификат](rs-school-certificate.md)
-  - [EPAM и трудоустройство](employment.md)
 - Платформа RS APP
   - [Описание](rs-app.md)
   - [Расписание](rs-app-schedule.md)
