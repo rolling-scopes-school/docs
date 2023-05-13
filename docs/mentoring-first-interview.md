@@ -53,7 +53,7 @@ https://github.com/rolling-scopes-school/tasks/tree/master/stage2/modules/techni
     * обязательные аттрибуты
     * data-attribute
   - Примеры задач
-    * полиндром
+    * палиндром
     * удаление дубликатов из массива
 4) Остальная теория и практика. Ментор заполняет фидбек форму - RS APP > Interviews > Technical Screening
 5) Проверяем уровень английского (на глаз :))
