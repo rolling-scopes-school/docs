@@ -45,6 +45,7 @@
 Токсичное поведение включает в себя:
 * неоднократную необоснованную критику в адрес школы, программы обучения, менторов и студентов
 * использование грубых выражений (включая ненормативную лексику) на официальных каналах коммуникации школы (каналы Discord, Telegram, репозитории Github и т.д.). Исключение: канал “random” в Discord
+* прямые оскорбления других участников учебного процесса в любых доступных каналах связи
 * конспирологические теории, безосновательно распространяемые в каналах школы
 
 Дополнительно:
@@ -55,7 +56,7 @@
 
 Любой студент, нарушивший Правила, будет исключен из школы Rolling Scopes.
 
-Последнее обновление — 1 марта 2022 г.
+Последнее обновление — 13 мая 2023 г.
 
 Правила разработаны на основании и под влиянием [code of conduct (flatironschool.com)](https://www.flatironschool.com/code-of-conduct/) и [code of conduct (rsconf.by)](https://rsconf.by/code-of-conduct.html)
 
@@ -95,6 +96,7 @@ Harassment includes:
 The toxic behavour includes:
 * unreasonable repetitive critic of the school, its program, mentors and students
 * rude language outside of random channel
+* insults of other school members in any available communication channels
 * unreasonable conspiracy theory spreaded on school channels
 
 Additionally:
@@ -104,7 +106,7 @@ Additionally:
 
 Any student who violates the Code of Conduct will be dismissed from Rolling Scopes School.
 
-Last updated March 1, 2022
+Last updated May 13, 2023
 
 Based and inspired by [code of conduct (flatironschool.com)](https://www.flatironschool.com/code-of-conduct/) and [code of conduct (rsconf.by)](https://rsconf.by/code-of-conduct.html)
 
