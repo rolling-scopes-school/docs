@@ -11,14 +11,14 @@
     - [Certificate](en/rs-school-certificate.md)
     - [Code of conduct](en/code-of-conduct.md)
 - Node.js EN Course
-  - [Course Overview](en/node-js-en/course-overview.md)
+  - [Course Overview](./node-js-en/course-overview.md)
   - [How to enroll](https://rs.school/nodejs/)
   - Education process
-    - [Git convention](en/git-convention.md)
-    - [Cross check](en/cross-check-flow.md)
-    - [Dismission](en/node-js-en/dismission.md)
-    - [Certificate](en/node-js-en/certificate.md)
-    - [Code of conduct](en/code-of-conduct.md)  
+    - [Git convention](./git-convention.md)
+    - [Cross check](./cross-check-flow.md)
+    - [Dismission](./node-js-en/dismission.md)
+    - [Certificate](./node-js-en/certificate.md)
+    - [Code of conduct](./code-of-conduct.md)  
 - Roles
     - [Activist](en/rs-school-activist.md)
     - [Mentor](en/rs-school-mentor.md)
