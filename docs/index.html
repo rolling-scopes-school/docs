@@ -13,18 +13,35 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        '/en/(.*)': '/en/$1',
+      },
       repo: "https://github.com/rolling-scopes-school/docs",
       loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
       relativePath: false,
       auto2top: true,
       subMaxLevel: 0,
       name: '',
+      nameLink: {
+        '/en/': '#/en/',
+        '/': '#/',
+      },
       repo: '',
       search: {
         maxAge: 46400000, 
         paths: 'auto',
-        placeholder: 'Искать здесь...',
-        noData: 'Не найдено!',
+        placeholder: {
+          '/en/': 'Search',
+          '/': 'Искать здесь...',
+        },
+        noData: {
+          '/en/': 'No results!',
+          '/': 'Не найдено!',
+        },
+        pathNamespaces: ['/en'],
         depth: 6,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
         // To avoid search index collision
