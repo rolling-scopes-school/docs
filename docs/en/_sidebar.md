@@ -17,7 +17,6 @@
     - [Git convention](en/git-convention.md)
     - [Cross check](en/cross-check-flow.md)
     - [Dismission](en/node-js-en/dismission.md)
-    - [Certificate](en/node-js-en/certificate.md)
     - [Code of conduct](en/code-of-conduct.md)  
 - Roles
     - [Activist](en/rs-school-activist.md)
