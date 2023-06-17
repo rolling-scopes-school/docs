@@ -3,7 +3,7 @@
 
 ### Step # 1 Submitting your work for review
 
-To do this, go to https://app.rs.school/ and click on the “Cross-Check: Submit” link. In the form, specify a link to a working and defunct site, and not a link to the source code / repository in GitHub. The link can be submitted several times - the last one is saved. All who did not submit their work on time receive 0. The date of sending the work is indicated in the schedule.
+To do this, go to https://app.rs.school/ and click on the “Cross-Check: Submit” link. In the form, depending on the requirements of the task, you must specify either a link to a working and deployed site, or a link to a prepared pull request. The link can be submitted several times - the last one is saved. All who did not submit their work on time receive 0. The date of sending the work is indicated in the schedule.
 
 ### Step # 2. Steam generation
 After the deadline for submitting works, pairs will be created to verify the task. Each student will need to check 4 other works.
