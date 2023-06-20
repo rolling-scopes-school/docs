@@ -4,33 +4,33 @@ Let’s consider the procedure of task preparation.
 
 ## Task Content
 You should try to make the task:
-•	interesting, as it is much more effective to learn something you take interest in;
-•	nice-looking, so that you can add it to your portfolio;
-•	educative, it is necessary to determine which important and relevant skills students acquire when they complete it, which relevant and modern technologies they master;
-•	as realistic as possible, which will prepare students for solving professional problems;
-•	quite complex and at the same time comprehensible for most students.
+-	interesting, as it is much more effective to learn something you take interest in;
+-	nice-looking, so that you can add it to your portfolio;
+-	educative, it is necessary to determine which important and relevant skills students acquire when they complete it, which relevant and modern technologies they master;
+-	as realistic as possible, which will prepare students for solving professional problems;
+-	quite complex and at the same time comprehensible for most students.
 One of the most important points is to Determining the optimal degree of complexity of the task. A possible option for the author is to pre-complete the task, in order to understand how much it is accomplishable by students, what problems they will face during its completion, how much time they will need.
 
 ## Task description
 The task description includes:
-•	a very accurate and detailed description of the form and functionality of the expected result. The layout in figma is welcome. All the better if the author provides a working application prototype with minified code;
-•	technical requirements: browsers to check the application, which technologies must be used, which are recommended, which are prohibited;
-•	repository requirements: the repository to perform the task (private or public, school repository or student’s personal repository), how to name the repository, development branch, project folder, commit requirements, pull request requirements, where to upload the demo version of the application ( gh-pages are suitable for public repositories, netlify.com for private repositories).
-•	evaluation criteria, (they will be mentioned below);
-•	links to additional materials that will be useful for students while they complete the task ;
-•	link to a document with questions for the task: an editable Google table created by the author of the task where students can their write questions for the author to answer
+-	a very accurate and detailed description of the form and functionality of the expected result. The layout in figma is welcome. All the better if the author provides a working application prototype with minified code;
+-	technical requirements: browsers to check the application, which technologies must be used, which are recommended, which are prohibited;
+-	repository requirements: the repository to perform the task (private or public, school repository or student’s personal repository), how to name the repository, development branch, project folder, commit requirements, pull request requirements, where to upload the demo version of the application ( gh-pages are suitable for public repositories, netlify.com for private repositories).
+-	evaluation criteria, (they will be mentioned below);
+-	links to additional materials that will be useful for students while they complete the task ;
+-	link to a document with questions for the task: an editable Google table created by the author of the task where students can their write questions for the author to answer
 You can find examples of tasks descriptions in the school repository
 
 ## Task evaluation criteria
  It is one of the essential parts of the task description. If some requirements are indicated in the task description, but the number of points for them is not stated in the evaluation criteria, we can assume that these requirements do not exist.
 Well-designed, clear and understandable evaluation criteria help students complete the task:
-•	break the task down into a list of subtasks that can be sequentially completed one after another;
-•	allow a more accurate and objective checking of the task;
-•	make giving a mark for the task  easier and more reasonable. 
+-	break the task down into a list of subtasks that can be sequentially completed one after another;
+-	allow a more accurate and objective checking of the task;
+-	make giving a mark for the task  easier and more reasonable. 
 Now RS School uses three methods of task checking:
-•	auto-checked tasks;
-•	task checking by the mentor;
-•	task checking by students
+-	auto-checked tasks;
+-	task checking by the mentor;
+-	task checking by students
 The most tolerant of possible inaccuracies in the description of requirements and evaluation criteria are the tasks that are checked by a mentor. The mentor, thanks to his authority and experience, can clarify and adjust the requirements for the task, evaluate the result.
 For a cross-check – tasks checked by students - evaluation criteria should be as clear, detailed and unambiguous as possible.
 To work out evaluation criteria, the task is divided into small subtasks, with a certain number of points assigned for each of the subtasks, typically 10-20. The basic, middle and extra levels are determined in a proportion of approximately 30% - 50% - 20% of the total number of points for the task.
