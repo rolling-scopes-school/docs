@@ -9,7 +9,7 @@ You should try to make the task:
 -	educative, it is necessary to determine which important and relevant skills students acquire when they complete it, which relevant and modern technologies they master;
 -	as realistic as possible, which will prepare students for solving professional problems;
 -	quite complex and at the same time comprehensible for most students.
-One of the most important points is to Determining the optimal degree of complexity of the task. A possible option for the author is to pre-complete the task, in order to understand how much it is accomplishable by students, what problems they will face during its completion, how much time they will need.
+One of the most important points is to determine the optimal degree of complexity of the task. A possible option for the author is to pre-complete the task, in order to understand how much it is accomplishable by students, what problems they will face during its completion, how much time they will need.
 
 ## Task description
 The task description includes:
