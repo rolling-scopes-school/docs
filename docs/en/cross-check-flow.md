@@ -1,52 +1,52 @@
-## Cross check
+## Cross-check
 ### Process
 
-### Step # 1 Submitting your work for review
-To submit your work, please follow the steps below:
+### Step #1 Submitting your work for review
+To submit your work, follow these steps:
 
 1. Visit the website at https://app.rs.school/.
-2. Click on the link that says “Cross-Check: Submit”.
-3. Depending on the task requirements, you need to provide either:
-  a. A link to a fully operational and deployed website, or
-  b. A link to a prepared pull request.
-4. You can submit the link multiple times; remember that the latest submission will be saved.
-5. Please be aware that any work not submitted within the given timeframe will receive a score of zero.
-6. Also, any student who does not participate in the cross-checking process of other students' work will be given a score of zero.
+2. Click on the “Cross-Check: Submit” link.
+3. Depending on the task requirements, provide either:
+   - A link to a fully operational and deployed website, or
+   - A link to a prepared pull request.
+4. The link can be submitted multiple times; the latest submission will be saved.
+5. Be aware that any work not submitted within the given timeframe will receive a score of zero.
+6. Note that students who do not participate in the cross-checking process will also receive a score of zero.
 7. The deadline for submission is stated in the schedule.
 
-### Step # 2. Review pairs generation
-After the deadline for submitting the work, pairs will be generated for reviewing the assignments. Each student needs to review 4 works of other students.
+### Step #2 Review pairs generation
+After the deadline for submitting the work, pairs will be generated for reviewing the assignments. Each student needs to review four other students' works.
 
-### Step # 3 Checking each other’s work
-Those who sent work for review should review each other's works. To do this, go to https://app.rs.school/ and follow the Cross-Check: Review link. Here's how to review:
+### Step #3 Checking each other’s work
+Students who have submitted work should also review others' work. To do this, visit https://app.rs.school/ and follow the Cross-Check: Review link. Here's the review process:
 
-1.	Select the assignment (e.g. Portfolio)
-2.	Choose a student
-3.	After selecting a student, a link to the work should appear under their name. If the link is broken, please contact the student and ask him to provide a correct link.
-4.	Review the work in accordance with the verification criteria specified in the task.
-5.	Put a grade in the form.
-6.	Leave a comment explaining a given grade
-7.	Submit the form.
-8.	Each student reviews 4 works of other students.
+1. Select the assignment (e.g., Portfolio).
+2. Choose a student to review.
+3. A link to the student's work should appear under their name after selection. If the link is broken, contact the student to provide a correct link.
+4. Review the work according to the verification criteria specified in the task.
+5. Assign a grade in the form.
+6. Leave a comment explaining the given grade.
+7. Submit the form.
+8. Each student reviews four other students' works.
 
-To check your review history, you need to go to [app.rs.school](https://app.rs.school/), click the Cross-Check: Review link, select the assignment and the student you have reviewed. 
+You can check your review history by visiting [app.rs.school](https://app.rs.school/), clicking the Cross-Check: Review link, and selecting the assignment and the student you have reviewed. 
 
-### Step # 4 Getting Grades and Comments
--	The overall grade is the average of the grades given by all reviewers for your work.
--	If 4 people reviewed your work, the lowest grade is omitted, and the average of the remaining 3 grades is calculated.
--	If fewer than 4 people reviewed your work, all received grades are considered when calculating the average.
--	If you have reviewed all the 4 works but you don’t have a grade it means that less than 2 people have reviewed your work. You don't need to panic, you just need to be a little patient and wait.
--	If you haven't reviewed all the assigned works of other students before the cross-check deadline, your grade for the assignment will be 0 points.
+### Step #4 Getting Grades and Comments
+- The overall grade is the average of the grades given by all reviewers for your work.
+- If four people reviewed your work, the lowest grade is omitted, and the average of the remaining three grades is calculated.
+- If fewer than four people reviewed your work, all received grades are considered when calculating the average.
+- If you have reviewed all four works but don't have a grade, it means that less than two people have reviewed your work. Don't panic; just be a little patient and wait.
+- If you haven't reviewed all the assigned works of other students before the cross-check deadline, your grade for the assignment will be 0 points.
 
-### Quality of work review in cross-check
+### Quality of Work Review in Cross-Check
 
-The purpose of the cross-check is not only to review the work of other students and assign grades to them but also to gain something valuable for yourself from this reviewing process and provide benefits to those whose work you are reviewing. When conducting a review, try to adhere to the following guidelines:
+The purpose of the cross-check is not only to review the work of other students and assign grades to them but also to gain valuable insights for yourself from this reviewing process and provide benefits to those whose work you are reviewing. When conducting a review, try to adhere to the following guidelines:
 
-- If you come across a really good work work during your review, let the author know and share your thoughts of their work with them.
-- If you believe that the work you are reviewing deserves attention from other students, add a link to it in the form for the best works. You can also add a link to your own work in the form for the best works if you believe that you have done a really good job.
-- If you notice flaws in the project you are reviewing, don't just list them. Give the author some advice on how these flaws could have been avoided, and how to correct the identified errors.
-- If a student who reviewed your work has provided detailed feedback with suggestions for improving your application and the review was done very effectively, benefiting you, you can express your gratitude through the rs app. Please note that you should express gratitude not only for high grades but also for valuable comments and advice.
-- You can share the most useful comments received during cross-checking in the Discord channel #crosscheck (the reviewer's contact information should be hidden).
+- If you come across excellent work during your review, let the author know and share your thoughts on their work.
+- If you believe that the work you are reviewing deserves attention from other students, add a link to it in the form for the best works. You can also add a link to your own work in the form for the best works if you believe that you have done an exceptional job.
+- If you notice flaws in the project you are reviewing, don't just list them. Give the author some advice on how these flaws could have been avoided and how to correct the identified errors.
+- If a student who reviewed your work has provided detailed feedback with suggestions for improving your application and the review was done effectively, benefiting you, express your gratitude through the RS app. Note that gratitude should be expressed not only for high grades but also for valuable comments and advice.
+- Share the most useful comments received during cross-checking in the Discord channel #crosscheck (ensure to hide the reviewer's contact information).
 
 ### Principles of evaluating work in cross-check assessment
 
