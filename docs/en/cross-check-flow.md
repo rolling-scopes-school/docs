@@ -2,8 +2,17 @@
 ### Process
 
 ### Step # 1 Submitting your work for review
+To submit your work, please follow the steps below:
 
-To do this, go to https://app.rs.school/ and click the “Cross-Check: Submit” link. After that, depending on the task requirements, you need to provide either a link to a working and deployed website or a link to the source code/repository on GitHub. You can submit the link multiple times, and only the last submission will be saved. Those who fail to submit their work on time get 0 and will not participate in the cross-check for the current assignment.
+1. Visit the website at https://app.rs.school/.
+2. Click on the link that says “Cross-Check: Submit”.
+3. Depending on the task requirements, you need to provide either:
+  a. A link to a fully operational and deployed website, or
+  b. A link to a prepared pull request.
+4. You can submit the link multiple times; remember that the latest submission will be saved.
+5. Please be aware that any work not submitted within the given timeframe will receive a score of zero.
+6. Also, any student who does not participate in the cross-checking process of other students' work will be given a score of zero.
+7. The deadline for submission is stated in the schedule.
 
 ### Step # 2. Review pairs generation
 After the deadline for submitting the work, pairs will be generated for reviewing the assignments. Each student needs to review 4 works of other students.
