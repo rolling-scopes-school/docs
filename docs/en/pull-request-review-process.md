@@ -1,6 +1,6 @@
 ## Task Checking Process by Mentor
 
-1. A student completes an assignment in a private repository.
+1. A student completes an assignment in a school's private repository (unless otherwise specified in a task description).
 2. The student creates and submits a Pull Request before the deadline.
    - The PR rules are specified [below](https://docs.app.rs.school/#/pull-request-review-process?id=Pull-Request-description-must-contain-the-following)
    - Penalties for deadline violations are listed [below](https://docs.app.rs.school/#/pull-request-review-process?id=Deadlines-for-Students)
