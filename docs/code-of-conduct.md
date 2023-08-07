@@ -99,7 +99,7 @@ Harassment includes:
 
 The toxic behavour includes:
 
-- unreasonable repetitive critic of the school, its program, mentors and students
+- unreasonable repetitive critic of the school, its program, mentors and students and supporting this critic
 - rude language outside of random channel
 - insults of other school members in any available communication channels
 - unreasonable conspiracy theory spreaded on school channels
