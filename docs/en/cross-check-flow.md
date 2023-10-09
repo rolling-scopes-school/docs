@@ -60,7 +60,7 @@ The purpose of the cross-check is not only to review the work of other students 
     - Provide a way to contact you through Discord, Telegram, etc., so that the student has a chance to explain their decision and the opportunity to change your evaluation if you missed or didn't noticed something.
     - You can always submit a new evaluation before the assessment deadline, with a comment explaining why you have changed your decision.
 - If you suspect that the the student cheated, you should:
-    - Inform the course moderator via private message.
+    - Inform the course moderator or RSS AI via private message.
     - Evaluate the work according to all requirements, regardless of suspicion.
  
 
