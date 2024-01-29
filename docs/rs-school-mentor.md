@@ -24,8 +24,7 @@
 - Темы менторинга: HTML, CSS, JavaScript (TypeScript).
 - Формат: онлайн
 - Бонусы: 
-  - Новые знания и опыт (Teaching someone else is the best way to learn @ The Protégé Effect).
-  - Крутая менторская футболка. 
+  - Новые знания и опыт (Teaching someone else is the best way to learn @ The Protégé Effect). 
   - Новые знакомства, новые возможности для общения, плюс в карму :)
 
 #### Джентльменское соглашение
