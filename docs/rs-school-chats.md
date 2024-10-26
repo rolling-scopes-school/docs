@@ -105,56 +105,24 @@
 - Обсуждения мероприятий, относящихся к вашему городу. Например, офлайн лекции
 - Неформального общения студентов из одной локации
 
-### Belarus
+|                 Belarus                  |                       Russia                       |                      Kazakhstan                       |                     Ukraine                     |
+| :--------------------------------------: | :------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------: |
+| [Belarus General](https://t.me/RSSBands) |   [Russia General](https://t.me/RSSchoolRussia)    | [Kazakhstan General](https://t.me/RSSchoolKazakhstan) | [Ukraine General](https://t.me/RSSchoolUkraine) |
+|   [Minsk](https://t.me/RSSchoolMinsk)    |       [Moscow](https://t.me/RSSchoolMoscow)        |         [Almaty](https://t.me/RSSchoolAlmaty)         |                                                 |
+| [Mogilev](https://t.me/RSSchoolMogilev)  |    [St.Petersburg](https://t.me/RSSchoolSaintp)    |      [Karaganda](https://t.me/RSSchoolKaraganda)      |                                                 |
+| [Vitebsk](https://t.me/RSSchoolVitebsk)  |      [Izhevsk](https://t.me/RSSchoolIzhevsk)       |     [Nur-Sultan](https://t.me/RSSchoolNurSultan)      |                                                 |
+|   [Homel](https://t.me/rsschool_homel)   |       [Ryazan](https://t.me/RSSchoolRyazan)        |                                                       |                                                 |
+|   [Brest](https://t.me/RSSchool_Brest)   |       [Samara](https://t.me/RSSchoolSamara)        |                                                       |                                                 |
+|                                          |      [Saratov](https://t.me/RSSchoolSaratov)       |                                                       |                                                 |
+|                                          | [Sergiev Posad](https://t.me/RSSchoolSergievPosad) |                                                       |                                                 |
+|                                          |    [Togliatti](https://t.me/RSSchoolTogliatti)     |                                                       |                                                 |
+|                                          |         [Tver](https://t.me/RSSchoolTver)          |                                                       |                                                 |
+|                                          |     [Nizhny Novgorod](https://t.me/RSSchoolNN)     |                                                       |                                                 |
+|                                          |    [Volgograd](https://t.me/RSSchoolVolgograd)     |                                                       |                                                 |
 
-- [Belarus General](https://t.me/RSSBands)
-- [Minsk](https://t.me/RSSchoolMinsk)
-- [Mogilev](https://t.me/RSSchoolMogilev)
-- [Vitebsk](https://t.me/RSSchoolVitebsk)
-- [Homel](https://t.me/rsschool_homel)
-- [Brest](https://t.me/RSSchool_Brest)
-
-### Russia
-
-- [Russia General](https://t.me/RSSchoolRussia)
-- [Moscow](https://t.me/RSSchoolMoscow)
-- [Izhevsk](https://t.me/RSSchoolIzhevsk)
-- [Ryazan](https://t.me/RSSchoolRyazan)
-- [Samara](https://t.me/RSSchoolSamara)
-- [Saratov](https://t.me/RSSchoolSaratov)
-- [Sergiev Posad](https://t.me/RSSchoolSergievPosad)
-- [Togliatti](https://t.me/RSSchoolTogliatti)
-- [Tver](https://t.me/RSSchoolTver)
-- [St.Petersburg](https://t.me/RSSchoolSaintp)
-- [Nizhny Novgorod](https://t.me/RSSchoolNN)
-- [Volgograd](https://t.me/RSSchoolVolgograd)
-
-### Uzbekistan
-
-- [Uzbekistan General](https://t.me/RSSchoolUzbekistan)
-
-### Kyrgyzstan
-
-- [Kyrgyzstan General](https://t.me/RSSchool_Kyrgyzstan)
-
-### Kazakhstan
-
-- [Kazakhstan General](https://t.me/RSSchoolKazakhstan)
-- [Almaty](https://t.me/RSSchoolAlmaty)
-- [Karaganda](https://t.me/RSSchoolKaraganda)
-- [Nur-Sultan](https://t.me/RSSchoolNurSultan)
-
-### Ukraine
-
-- [Ukraine General](https://t.me/RSSchoolUkraine)
-
-### Poland
-
-- [RS School Poland на русском](https://t.me/RSSchoolPoland)
-
-### Lithuania
-
-- [RS School Lithuania на русском](https://t.me/RSSchoolLithuania)
+|                      Uzbekistan                       |                       Kyrgyzstan                       |                        Poland                        | Lithuania                                                  |
+| :---------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: | ---------------------------------------------------------- |
+| [Uzbekistan General](https://t.me/RSSchoolUzbekistan) | [Kyrgyzstan General](https://t.me/RSSchool_Kyrgyzstan) | [RS School Poland [RU]](https://t.me/RSSchoolPoland) | [RS School Lithuania [RU]](https://t.me/RSSchoolLithuania) |
 
 ## FAQ
 
@@ -183,7 +151,7 @@
 
 Вопросы, не подходящие для специальных каналов вроде #git/#tests/#live-coding/#core-js-tasks, etc. задавайте, пожалуйста, в:
 
-- В Discord канал #questions
+- В Discord канал #questions или #random
 
 ### В каком канале лучше поблагодарить за помощь?
 
