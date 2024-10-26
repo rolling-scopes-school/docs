@@ -1,3 +1,5 @@
+<!-- ADDED TEMPORARILY FOR THE JS/FE-EN RSS TEST -->
+
 **RSS AI** (RS School Anti-violation Inquisitor) - a role in Discord that can be assigned to an [activist](https://docs.rs.school/#/rs-school-activist) by the administration.
 
 RSS AI is an extended activist’s role, therefore RSS AIs deal with the same tasks as activists. Besides, they:

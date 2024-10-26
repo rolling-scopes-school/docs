@@ -40,7 +40,7 @@
 - Для тренеров и админов
   - [Общая информация](rs-school-trainer.md)
   - [Подготовка заданий](create-task.md)
-  - [Добавление тестов в RS APP](rs-app-add-tests.md)
+  - [Добавление тестов в RS App](rs-app-add-tests.md)
   - [Расписание](rs-app-schedule-admins.md)
   - [Streaming](streaming.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
