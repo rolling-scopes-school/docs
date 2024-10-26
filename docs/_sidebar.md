@@ -23,7 +23,6 @@
   - [Cross-check](cross-check-flow.md)
   - [Нотификации](notifications.md)
   - [Типичные проблемы](rs-app-issues.md)
-  - [Добавление тестов в RS APP](rs-app-add-tests.md)
 - Приватный репозиторий
   - [Приватный репозиторий](private-repository.md)
   - [Требования к коммитам](git-convention.md)
@@ -38,9 +37,11 @@
   - [Первое интервью](mentoring-first-interview.md)
   - [Процесс менторинга](mentoring.md)
   - [Проверка задания ментором](pull-request-review-process.md)
-- Для тренеров
+- Для тренеров и админов
   - [Общая информация](rs-school-trainer.md)
   - [Подготовка заданий](create-task.md)
+  - [Добавление тестов в RS APP](rs-app-add-tests.md)
+  - [Расписание](rs-app-schedule-admins.md)
   - [Streaming](streaming.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
 - [Поддержать сообщество](fundraiser.md)
