@@ -30,7 +30,9 @@
 
 ### 2. Клонируем собственную копию репозитория себе на компьютер
 
-`git clone https://github.com/irinainina/docs`
+```sh
+git clone https://github.com/irinainina/docs
+```
 
 ## 3. Привязываем локальную копию к оригинальному репозиторию
 
