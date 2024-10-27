@@ -1,7 +1,7 @@
 ## RS School JavaScript/Front-end course
 
 It is a FREE Front-end/ JavaScript course conducted by the Rolling Scopes Community since 2013.
-Every half a year we start a new course for nearly 2000 students. There are more than 250 mentors helping students to increase their productivity while learning.
+Every year we start a new course for nearly 2000 students. There are more than 250 mentors helping students to increase their productivity while learning.
 
 ## Course aims
 
