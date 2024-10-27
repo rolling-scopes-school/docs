@@ -1,10 +1,16 @@
 - [RS School. Общая информация](README.md)
 - Курсы
-  - [JavaScript/Front-end Course](js-fe-course.md)
-  - [NodeJS Course](nodejs-course.md)
-  - [ML Intro Course](ml-intro-course.md)
-  - [Разработка для iOS](https://rs.school/ios/)
-  - [Разработка для Android](https://rs.school/android/)
+  - [JavaScript Preschool (Stage 0)](https://rs.school/courses/javascript-preschool-ru)
+  - [JavaScript/Front-end Course (Stage 1-2)](js-fe-course.md)
+    - [JavaScript/Front-end Course RU](https://rs.school/courses/javascript-ru)
+    - [JavaScript/Front-end Course EN](https://rs.school/courses/javascript)
+  - Framework (Stage 3):
+    - [React Course](https://rs.school/courses/reactjs)
+    - [Angular Course](https://rs.school/courses/angular)
+  - [NodeJS Course](https://rs.school/courses/nodejs)
+  - [AWS Fundamentals Course](https://rs.school/courses/aws-fundamentals)
+  - [AWS Cloud Developer Course](https://rs.school/courses/aws-cloud-developer)
+  - [AWS DevOps Course](https://rs.school/courses/aws-devops)
 - Процесс обучения
   - [Общение. Каналы связи](rs-school-chats.md)
   - [Нормы поведения](code-of-conduct.md)
@@ -17,7 +23,6 @@
   - [Cross-check](cross-check-flow.md)
   - [Нотификации](notifications.md)
   - [Типичные проблемы](rs-app-issues.md)
-  - [Добавление тестов в RS APP](rs-app-add-tests.md)
 - Приватный репозиторий
   - [Приватный репозиторий](private-repository.md)
   - [Требования к коммитам](git-convention.md)
@@ -32,9 +37,11 @@
   - [Первое интервью](mentoring-first-interview.md)
   - [Процесс менторинга](mentoring.md)
   - [Проверка задания ментором](pull-request-review-process.md)
-- Для тренеров
+- Для тренеров и админов
   - [Общая информация](rs-school-trainer.md)
   - [Подготовка заданий](create-task.md)
+  - [Добавление тестов в RS App](rs-app-add-tests.md)
+  - [Расписание](rs-app-schedule-admins.md)
   - [Streaming](streaming.md)
 - [О сообществе The Rolling Scopes](rolling-scopes-overview.md)
 - [Поддержать сообщество](fundraiser.md)

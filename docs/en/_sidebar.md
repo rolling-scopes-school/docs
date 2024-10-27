@@ -20,6 +20,7 @@
     - [Code of conduct](en/code-of-conduct.md)
 - Roles
   - [Activist](en/rs-school-activist.md)
+  - [RSS AI](en/rs-school-ai.md)
   - [Mentor](en/rs-school-mentor.md)
   - [Trainer](en/rs-school-trainer.md)
     - [Task creation](en/task-creation.md)
