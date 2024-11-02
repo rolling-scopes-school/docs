@@ -12,7 +12,7 @@
     - [Code of conduct](en/code-of-conduct.md)
 - Node.js EN Course
   - [Course Overview](en/node-js-en/course-overview.md)
-  - [How to enroll](https://rs.school/nodejs/)
+  - [How to enroll](https://rs.school/courses/nodejs)
   - Education process
     - [Git convention](en/git-convention.md)
     - [Cross check](en/cross-check-flow.md)
