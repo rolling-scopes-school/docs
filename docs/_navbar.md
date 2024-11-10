@@ -1,3 +1,3 @@
-- Translations
+- Switch course (content will vary)
   - [:ru: Русский](/)
   - [:uk: English](/en/)
