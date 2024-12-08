@@ -35,6 +35,7 @@ fix: implement correct loading data from youtube
 fix: change layout for video items to fix bugs
 fix: relayout header for firefox
 fix: adjust social links for mobile
+fix: array parsing issue when multiple spaces were contained in string
 ```
 
 - `refactor:` - новой функциональности не добавлял/поведения не менял. Файлы в другие места положил, удалил, добавил. Изменил форматирование кода (white-space, formatting, missing semi-colons, etc). Улучшил алгоритм, без изменения функциональности. Примеры:
@@ -51,6 +52,14 @@ refactor: apply prettier
 ```
 docs: update readme with additional information
 docs: update description of run() method
+```
+
+- `style:` - используется при изменениях стиля и оформления кода. Примеры:
+
+```
+style: remove trailing white spaces
+style: add missing semi-colons
+style: format code with prettier
 ```
 
 ## FAQ
