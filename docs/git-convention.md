@@ -60,6 +60,14 @@ style: add missing semi-colons
 style: format code with prettier
 ```
 
+- `chore:` - используется, когда не меняются исходные файлы и файлы тестов. Примеры:
+
+```
+chore: Other changes that don't modify src or test files.
+chore: add .editorconfig file for uniform code formatting  
+chore: rename environment variable file to .env.example
+```
+
 ## FAQ
 
 ### Можно ли ревертнуть отправленный (запушенный) в репозиторий коммит без снижения оценки?
