@@ -23,7 +23,7 @@ Pull Request is a place to discuss contributor's code. It should not be a monolo
 ### Pull Request description must contain the following:
 
 1. Task URL.
-2. Screenshot showing the result of Task's completion. The screenshot is added to a Pull Request as an image attachment. To achieve that you can just dra-and-drop the screenshot to the Description text area.
+2. Screenshot showing the result of Task's completion. The screenshot is added to a Pull Request as an image attachment. To achieve that you can just drag-and-drop the screenshot to the Description text area.
 3. Deployment URL of your application. For frontend - Website URL, for backend - API Endpoint URL. To create deployment you can use the following:
    - gh-pages (if you have access to a private RS School repo)
    - web hosting, like [netlify.com](https://app.netlify.com/drop) (if you don't have access to a private RS School repo or can't deploy to `gh-pages` because of permissions)
