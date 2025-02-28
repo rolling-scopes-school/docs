@@ -1,0 +1,142 @@
+[
+  {
+    "title": "RS School Overview",
+    "link": "README"
+  },
+  {
+    "title": "JavaScript/Front-end Course",
+    "items": [
+      {
+        "title": "Course Overview",
+        "link": "js-fe-course"
+      },
+      {
+        "title": "How to enroll",
+        "link": "https://rs.school/courses/javascript"
+      },
+      {
+        "title": "Education process",
+        "items": [
+          {
+            "title": "Git convention",
+            "link": "git-convention"
+          },
+          {
+            "title": "First Interview",
+            "link": "first-interview"
+          },
+          {
+            "title": "Cross check",
+            "link": "cross-check-flow"
+          },
+          {
+            "title": "Dismission",
+            "link": "dismission"
+          },
+          {
+            "title": "Course project",
+            "link": "final-task"
+          },
+          {
+            "title": "Certificate",
+            "link": "rs-school-certificate"
+          },
+          {
+            "title": "Code of conduct",
+            "link": "code-of-conduct"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Node.js EN Course",
+    "items": [
+      {
+        "title": "Course Overview",
+        "link": "node-js-en/course-overview"
+      },
+      {
+        "title": "How to enroll",
+        "link": "https://rs.school/courses/nodejs"
+      },
+      {
+        "title": "Education process",
+        "items": [
+          {
+            "title": "Git convention",
+            "link": "git-convention"
+          },
+          {
+            "title": "Cross check",
+            "link": "cross-check-flow"
+          },
+          {
+            "title": "Dismission",
+            "link": "node-js-en/dismission"
+          },
+          {
+            "title": "Code of conduct",
+            "link": "code-of-conduct"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Roles",
+    "items": [
+      {
+        "title": "Activist",
+        "link": "rs-school-activist"
+      },
+      {
+        "title": "RSS AI",
+        "link": "rs-school-ai"
+      },
+      {
+        "title": "Mentor",
+        "link": "rs-school-mentor"
+      },
+      {
+        "title": "Trainer",
+        "link": "rs-school-trainer",
+        "items": [
+          {
+            "title": "Task creation",
+            "link": "task-creation"
+          },
+          {
+            "title": "Streaming",
+            "link": "streaming"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mentoring",
+    "items": [
+      {
+        "title": "Pull Request Review Process",
+        "link": "pull-request-review-process"
+      }
+    ]
+  },
+  {
+    "title": "RS APP",
+    "link": "rsapp"
+  },
+  {
+    "title": "How to contribute",
+    "link": "how-to-contribute"
+  },
+  {
+    "title": "About The Rolling Scopes",
+    "link": "rolling-scopes-overview"
+  },
+  {
+    "title": "Support community",
+    "link": "fundraiser"
+  }
+]

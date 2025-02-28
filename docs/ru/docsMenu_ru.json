@@ -1,0 +1,148 @@
+[
+  {
+    "title": "RS School. Общая информация",
+    "link": "README"
+  },
+  {
+    "title": "Процесс обучения",
+    "items": [
+      {
+        "title": "Общение. Каналы связи",
+        "link": "rs-school-chats"
+      },
+      {
+        "title": "Нормы поведения",
+        "link": "code-of-conduct"
+      },
+      {
+        "title": "Отчисление",
+        "link": "dismission"
+      },
+      {
+        "title": "Сертификат",
+        "link": "rs-school-certificate"
+      }
+    ]
+  },
+  {
+    "title": "Платформа RS APP",
+    "items": [
+      {
+        "title": "Описание",
+        "link": "rs-app"
+      },
+      {
+        "title": "Расписание",
+        "link": "rs-app-schedule"
+      },
+      {
+        "title": "Сдача заданий в RS APP",
+        "link": "rs-app-tasks"
+      },
+      {
+        "title": "Cross-check",
+        "link": "cross-check-flow"
+      },
+      {
+        "title": "Нотификации",
+        "link": "notifications"
+      },
+      {
+        "title": "Типичные проблемы",
+        "link": "rs-app-issues"
+      }
+    ]
+  },
+  {
+    "title": "Приватный репозиторий",
+    "items": [
+      {
+        "title": "Приватный репозиторий",
+        "link": "private-repository"
+      },
+      {
+        "title": "Требования к коммитам",
+        "link": "git-convention"
+      }
+    ]
+  },
+  {
+    "title": "Как помочь школе?",
+    "items": [
+      {
+        "title": "Стать активистом",
+        "link": "rs-school-activist"
+      },
+      {
+        "title": "Как исправить ошибку в документации?",
+        "link": "fix-typo"
+      },
+      {
+        "title": "Кто такие RSS AI?",
+        "link": "rs-school-ai"
+      },
+      {
+        "title": "Поддержать сообщество",
+        "link": "fundraiser"
+      }
+    ]
+  },
+  {
+    "title": "Менторинг",
+    "items": [
+      {
+        "title": "Как стать ментором?",
+        "link": "rs-school-mentor"
+      },
+      {
+        "title": "Регистрация и получение студентов",
+        "link": "mentoring-kick-off"
+      },
+      {
+        "title": "Первое интервью",
+        "link": "mentoring-first-interview"
+      },
+      {
+        "title": "Процесс менторинга",
+        "link": "mentoring"
+      },
+      {
+        "title": "Проверка задания ментором",
+        "link": "pull-request-review-process"
+      }
+    ]
+  },
+  {
+    "title": "Для тренеров и админов",
+    "items": [
+      {
+        "title": "Общая информация",
+        "link": "rs-school-trainer"
+      },
+      {
+        "title": "Подготовка заданий",
+        "link": "create-task"
+      },
+      {
+        "title": "Добавление тестов в RS App",
+        "link": "rs-app-add-tests"
+      },
+      {
+        "title": "Расписание",
+        "link": "rs-app-schedule-admins"
+      },
+      {
+        "title": "Streaming",
+        "link": "streaming"
+      }
+    ]
+  },
+  {
+    "title": "О сообществе The Rolling Scopes",
+    "link": "rolling-scopes-overview"
+  },
+  {
+    "title": "Поддержать сообщество",
+    "link": "fundraiser"
+  }
+]
