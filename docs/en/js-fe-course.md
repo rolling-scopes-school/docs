@@ -15,13 +15,7 @@ Every year we start a new course for nearly 2000 students. There are more than 2
 
 ## Course duration
 
-5 months. You will need 20-40 hours a week for successful course completion.
-
-## Course statistics for 2019
-
-- 770 students completed the course
-- 329 mentors took part in the learning process
-- 130 students were hired to EPAM Minsk
+The course duration is about 8 months. You will need 20-40 hours a week for successful course completion.
 
 ## What should you do before starting this course?
 

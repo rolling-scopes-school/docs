@@ -13,14 +13,6 @@ Any RS School mentor or activist can try on the role of a coach. To begin with, 
 All theoretical lectures / materials should go along with assignments or evident application in practice.
 Students usually start with the task, not a theory. And if they cannot solve the problem, they study the theory. Isolated abstract knowledge is almost not needed (except for fundamental). If students can solve a task without theory, they do not need it.
 
-### Task presentation requirements:
-
-- Deadline of tasks in the format - 11:59 p.m. 03/03/2016. Deadlines are only on Tuesdays, Thursdays, Saturdays and Sundays, that is, on days when there are no lectures.
-- Tasks must be added to the course schedule.
-- Tasks should be well-defined (details on browser support, what and how to resize, scroll, etc.).
-- Information on how to hand over the task (where and how to upload it, etc.).
-- If you specify any details of the task, please do not forget to add these details to the description, not just drop them into the general chat.
-
 ### Requirements for theoretical lectures
 
 - No more than 2 hours of theory for each lesson. Theoretical knowledge should be covered by practice - task, test or other activity. Anything that is not practiced is quickly forgotten.

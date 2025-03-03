@@ -10,7 +10,7 @@ Techical Screening or Student Mentor Recruitment Process
  
 #### Number of students and the order of their invitation:
  
-The number of students invited for an interview depends on the number of mentors who enroll in the course. For example, in the previous set (winter, 2019) 158 people enrolled in mentors. We invited TOP810 students for an interview, of which 510 continued their studies in the second stage.
+The number of students invited for an interview depends on the number of mentors who enroll in the course. For example, in the previous set 158 people enrolled in mentors. We invited TOP810 students for an interview, of which 510 continued their studies in the second stage.
 
 #### Students receive an invitation in the following order:
 
@@ -40,12 +40,15 @@ Interviews take place during the first two weeks of RS School stage # 2. A list 
        -	Box model
        -	em vs rem, relative and absolute values
        
-#### Checking English level during an interview with a mentor:
+#### Checking English level during a mentor interview:
 
--	The student can show the test result in English as a basis for setting their level
--	Student can show certificate of some courses
+-	Students can provide a test result as a reference for their level.
+-	A certificate from relevant courses can also be presented.
 -	The mentor may ask additional questions.
--	For training in stage # 2, knowledge of English is not critical. If you are applying for an EPAM job, your English level at the end of stage # 2 should be A2
+
+#### English requirements for stage # 2:
+
+English proficiency is not a strict requirement for training in stage # 2. While fluency is not necessary, most course materials and tests are in English, so a basic understanding will be helpful. If you plan to apply for a job at EPAM, you should aim for at least B1 level by the end of stage # 2.
 
 #### What should a student do in case of an unsuccessful interview:
 
