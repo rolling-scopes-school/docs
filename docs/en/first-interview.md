@@ -8,10 +8,6 @@ Techical Screening or Student Mentor Recruitment Process
 - Checking the level of training of students.
 - Students gaining experience in interviews.
  
-#### Number of students and the order of their invitation:
- 
-The number of students invited for an interview depends on the number of mentors who enroll in the course. For example, in the previous set 158 people enrolled in mentors. We invited TOP810 students for an interview, of which 510 continued their studies in the second stage.
-
 #### Students receive an invitation in the following order:
 
 -	According to the recommendation of the mentor, if the mentor himself is ready to mentor these students

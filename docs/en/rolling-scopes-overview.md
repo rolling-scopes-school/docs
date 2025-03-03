@@ -15,11 +15,11 @@ Summer community summits are XXXL meetings :) They last for 2-3 days, in several
 
 ## JS Dev Day
 
-Javascript Developer Day is an exciting quiz where participants from more than 20 cities joined simultaneously. Anyone could take part by gathering a team and finding a venue—whether a cozy office room or reserved tables in a pub. Our community provided all the necessary materials for free and assisted with the preparation. More information can be found here - https://www.facebook.com/jsdevday/
+Javascript Developer Day is an exciting quiz where participants from more than 20 cities join simultaneously. Anyone can take part by gathering a team and finding a venue—whether a cozy office room or reserved tables in a pub. Our community provides all the necessary materials for free and assists with the preparation. More information can be found here - https://www.facebook.com/jsdevday/
 
 ## RS School
 
-These are free courses conducted by our community since 2013. Everyone can study at RS School, regardless of age, employment and location. The training involves developers from different companies and countries. The course is conducted entirely online, making quality education accessible worldwide. A new class of students starts every six months and is joined by about 2,000 people. 250+ mentors help our students to learn in comfort. Mentors of the school - our "iron" people - teach students in their free time and for free! RS School is open to learners from any country. More information about the school you can find here: https://rs.school/
+These are free courses conducted by our community since 2013. Anyone can study at RS School, regardless of age, employment, or location. Developers from various companies and countries contribute to the training. The course is fully online, making quality education accessible worldwide. Each year, a new cohort of more than 2,000 students joins the program. Guiding them are our mentors—our "iron" people—who volunteer their time to teach and support students for free. With over 250 dedicated mentors, RS School creates a strong, collaborative learning environment. RS School welcomes learners from any country. Learn more about the school here: https://rs.school/
 
 ## YouTube
 
