@@ -9,9 +9,9 @@ If you:
 * lack communication
 * or studied at The Rollings Scopes School yourself, and it's time to “Pay It Forward”. Then this message is for you! The Rolling Scopes is looking for mentors from all over the world for a new cohort of students from Belarus, Russia, Ukraine, Kazakhstan and Uzbekistan.
   
-The goal of the educational initiative is to teach everyone who wants to learn JavaScript and dive into the Front-end world. In 2017-2018 alone, more than 700 people successfully completed our six-month training program.  
+The goal of the educational initiative is to teach everyone who wants to learn JavaScript and dive into the Front-end world.  
 School website: [https://rs.school/](https://rs.school/)  
-Mentoring period: March 24, 2020 - July 6, 2020.  
+Mentoring period: 18-19 weeks.  
 Mentoring Topics: html / css / javascript.  
 From your side you need to be able to devote 4-8 hours a week or more (if you wish).  
 You can mentor from 2 to 6 students.  
