@@ -4,10 +4,10 @@ The Rolling Scopes is an independent international community of developers (main
 
 ## The Rolling Scopes meetups
 
-Our meetings are not only a communication, exchange of experience and knowledge, but also a platform where anyone can try himself as a speaker, regardless of experience and topic. We help beginning speakers with topic selection, presentation preparation, and rehearsals. Since 2013, we have organized 100+ meetups in different cities and countries. Do you want to speak at a meeting? Just email us at rolling.scopes@gmail.com
+Our meetings are not only a communication, exchange of experience and knowledge, but also a platform where anyone can try himself as a speaker, regardless of experience and topic. We help beginning speakers with topic selection, presentation preparation, and rehearsals. Since 2013, we have organized 100+ meetups in different cities and countries. Do you want to speak at a meeting? Just email us at rolling.scopes@gmail.com  
 You can find more details here:
-• https://www.facebook.com/groups/TheRollingScopes/
-• https://vk.com/therollingscopes
+- https://www.facebook.com/groups/TheRollingScopes/
+- https://vk.com/therollingscopes
 
 ## RS Summer Summit
 
@@ -32,9 +32,9 @@ For fast communication, announcements of the events, various community news, we 
 ## Social networks
 
 You can always find us on Facebook, Vkontakte, Instagram. We post photos from our events and share announcements about upcoming events there:
-• https://www.facebook.com/groups/TheRollingScopes/
-• https://vk.com/therollingscopes
-• https://www.instagram.com/rollingscopes/
+- https://www.facebook.com/groups/TheRollingScopes/
+- https://vk.com/therollingscopes
+- https://www.instagram.com/rollingscopes/
 
 ## Support community
 

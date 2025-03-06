@@ -2,7 +2,7 @@
 The Rolling Scopes is an independent international community of developers (mainly JavaScript / Front-end / iOS / Android), organized in 2013. Currently, many developers around the world know that we participate in our events and activities.
 
 ## What is RS School?
-These are free Front-end, JavaScript, iOS, and Android programming courses run by The Rolling Scopes community. Everyone can study at RS School, regardless of age, professional employment and place of residence. The training involves developers from various companies and countries. In our courses we combine online and offline learning. Mentors of the school - our "iron" people - teach students in their free time and for free! Now courses are available for residents of Belarus, Russia, Ukraine, Kazakhstan and Uzbekistan. More information about the school on the site: https://rs.school/
+These are free Front-end, JavaScript, iOS, and Android programming courses run by The Rolling Scopes community. Anyone can study at RS School, regardless of age, employment, or location. Developers from various companies and countries contribute to the training. The course is fully online, making quality education accessible worldwide.  Each year, a new cohort of more than 2,000 students joins the program. Guiding them are our mentors—our "iron" people—who volunteer their time to teach and support students for free. With over 250 dedicated mentors, RS School creates a strong, collaborative learning environment. RS School welcomes learners from any country. Learn more about the school here: https://rs.school/
 
 ## Free-of-charge learning
 At RS School the principle of "Pay it forward" works. We share our knowledge with students for free now, hoping that in the future they will return to us as mentors and pass on their knowledge to the next generation of students in the same way.
@@ -10,7 +10,7 @@ At RS School the principle of "Pay it forward" works. We share our knowledge wit
 ## Benefits of RS School
 • Free course, no obligations and contracts. You only need time and desire  
 • A huge vibrant and active community  
-• A multifaceted curriculum. Always up to date program. Complex and interesting tasks. High intensity material and practice. You will need about 20-40 hours a week.
+• A multifaceted curriculum. Always up to date program. Complex and interesting tasks. High intensity material and practice. You will need about 20-40 hours a week.  
 • All materials are publicly available on YouTube and GitHub.  
 • Trainers from different companies and countries. The vast majority of programmers, not teachers  
 • Your mentor starting from the second stage of training  
@@ -18,7 +18,7 @@ At RS School the principle of "Pay it forward" works. We share our knowledge wit
 • Offline meetings, meetings, interviews  
 • Employment Opportunity  
 • Possibility of various training interviews  
-• A lot of opportunities for communication. Learning together is more interesting and   more effective.
+• A lot of opportunities for communication. Learning together is more interesting and more effective.  
 • The spirit of competition, competition and rivalry  
 • No age limit  
 • Friendly atmosphere, there are always people who want to help  

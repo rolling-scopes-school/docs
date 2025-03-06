@@ -7,4 +7,4 @@ Usually the passing score equals to 60% of the best result in the course. For ex
 ### Minimum requirements for obtaining a certificate
 
 * `CoreJS Interview` score - 4+
-* Total passing score – 60% or the top score
+* Total passing score – 60% of the top score
