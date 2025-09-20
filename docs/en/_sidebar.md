@@ -18,6 +18,26 @@
     - [Cross check](en/cross-check-flow.md)
     - [Dismission](en/node-js-en/dismission.md)
     - [Code of conduct](en/code-of-conduct.md)
+- Short-track Course
+  - [Course Overview](en/short-track/course-overview.md)
+  - [How to enroll](https://rs.school/courses/short-track)
+  - Education process
+    - [Tasks](en/short-track/rs-app-tasks.md)
+    - [Cross check](en/cross-check-flow.md)
+    - [Git convention](en/git-convention.md)
+    - [Pull Request Review Process](en/pull-request-review-process.md)
+    - [Certificate](en/short-track/certificate.md)
+    - Moderation
+      - [Dismission](en/short-track/dismission.md)
+      - [Code of conduct](en/code-of-conduct.md)
+    - RS APP
+      - [APP Overview](en/short-track/rs-app.md)
+      - [Schedule](en/short-track/rs-app-schedule.md)
+      - [Notifications](en/short-track/notifications.md)
+    - Roles
+      - [Moderators](en/short-track/moderators.md)
+      - [Activists](en/rs-school-activist.md)
+    - [Support community](en/short-track/fundraiser.md)
 - Roles
   - [Activist](en/rs-school-activist.md)
   - [RSS AI](en/rs-school-ai.md)
