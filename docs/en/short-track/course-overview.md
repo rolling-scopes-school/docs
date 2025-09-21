@@ -7,7 +7,7 @@ The Qualifying Stage is designed for students who are motivated to build a caree
 ### 1. Qualifying Stage Path
 
 - Start: **September 22, 2025**.
-- Duration: **8 weeks** (5 weeks of assignments, \~1 week for interview preparation, then interviews).
+- Duration: **8 weeks** (7 weeks of assignments, ~1 week for interview preparation, then interviews).
 - Content includes:
 
   1. **Markdown**
