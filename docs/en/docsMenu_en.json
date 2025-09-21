@@ -84,6 +84,91 @@
     ]
   },
   {
+    "title": "Short-track Course",
+    "items": [
+      {
+        "title": "Course Overview",
+        "link": "short-track/course-overview"
+      },
+      {
+        "title": "How to enroll",
+        "link": "https://rs.school/courses/short-track"
+      },
+      {
+        "title": "Education process",
+        "items": [
+          {
+            "title": "Tasks",
+            "link": "short-track/rs-app-tasks"
+          },
+          {
+            "title": "Cross check",
+            "link": "cross-check-flow"
+          },
+          {
+            "title": "Git convention",
+            "link": "git-convention"
+          },
+          {
+            "title": "Pull Request Review Process",
+            "link": "pull-request-review-process"
+          },
+          {
+            "title": "Certificate",
+            "link": "short-track/certificate"
+          },
+          {
+            "title": "Moderation",
+            "items": [
+              {
+                "title": "Dismission",
+                "link": "short-track/dismission"
+              },
+              {
+                "title": "Code of conduct",
+                "link": "code-of-conduct"
+              }
+            ]
+          },
+          {
+            "title": "RS APP",
+            "items": [
+              {
+                "title": "APP Overview",
+                "link": "short-track/rs-app"
+              },
+              {
+                "title": "Schedule",
+                "link": "short-track/rs-app-schedule"
+              },
+              {
+                "title": "Notifications",
+                "link": "short-track/notifications"
+              }
+            ]
+          },
+          {
+            "title": "Roles",
+            "items": [
+              {
+                "title": "Moderators",
+                "link": "short-track/moderators"
+              },
+              {
+                "title": "Activists",
+                "link": "rs-school-activist"
+              }
+            ]
+          },
+          {
+            "title": "Support community",
+            "link": "short-track/fundraiser"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Roles",
     "items": [
       {
