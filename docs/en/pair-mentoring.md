@@ -1,78 +1,78 @@
 # Pair Mentoring
 
-Pair mentoring (co-mentoring) is a format where two mentors work together to mentor a group of students.
+Pair mentoring (co-mentoring / group mentoring) is a format where **two or more mentors** join together and work with a shared group of students.
 
-## What is Pair Mentoring?
+At the same time:
 
-In pair mentoring, two mentors work together with one group of students. Students remain assigned to a specific mentor (primary mentor) in the system, but both mentors can review assignments and conduct meetings with all students in the combined group.
-
-> ⚠️ **Important:**  
-> 
-> From the RS APP perspective, **each mentor keeps their own students**, and formally cannot grade students of another mentor.  
-> 
-> Pair/group mentoring is an overlay **about communication and collaboration**, not about sharing grades.
+- in RS App **each student is still assigned to a specific "primary" mentor**;
+- **Random student distribution** happens as usual — each mentor gets their own students in RS App. If needed, you can **exchange students** via
+  `RS App → Interviews → Technical Screening → Transfer`  
+  (or through the course coordinator).
+- other mentors in the group can participate in interviews, calls, PR reviews, and general student support, **but the final score in RS APP is set by the primary mentor**.
+- Pair / group mentoring is an overlay **about communication, collaboration, and experience exchange**
+- It's not required that one of the mentors be a "senior mentor". It's normal if two mentors with comparable experience levels work together — the main thing is that you're comfortable working together.
 
 ## Why is this format needed?
 
-Pair / group mentoring is needed to:
+Pair / group mentoring helps:
 
-- **Support new mentors.** Reduce the fear of "I don't know anything" and provide an opportunity to observe a more experienced mentor in action. Reduce uncertainty about conducting Technical screening correctly.
+- **Support new mentors.**  
+  Reduce the fear of "I don't know anything" and provide an opportunity to observe a more experienced mentor in action. Reduce uncertainty about conducting Technical screening / Interviews correctly.
 
-- **Exchange experience.** Show different styles of conducting interviews, calls, and working with feedback. Demonstrate the code review process: what volume and level of feedback to give students.
+- **Exchange experience.**  
+  Show different styles of conducting interviews, calls, live-coding, and working with feedback. See how colleagues do code reviews and what volume of comments they give students.
 
-- **Make mentoring a more enjoyable process.** Mentoring together is more fun, and there's someone to consult with about specific problems.
+- **Make mentoring more enjoyable.**  
+  Mentoring together is more fun: there's someone to consult with, joke with, and share responsibility.
 
-- **Improve the quality of student education.** Students receive more attention, different perspectives, and a live example of mentor teamwork.
+- **Improve the quality of student education.**  
+  Students receive more attention and see different perspectives.
 
-- **Reduce the workload on mentors. Reduce the risk of mentors leaving in the middle of the learning process.** In case of pair mentoring, mentors can conduct meetings with students in turns or substitute for each other when reviewing assignments.
+- **Reduce workload and risk of mentor burnout.**  
+  In pair format, mentors can conduct meetings in turns, back each other up on reviews and meetings, and in case of emergencies — temporarily replace each other.
 
-## How it works on JS/FE Stage#2
+## How to find a partner?
+- in the general mentor chat
+- or in the RS JS/FE Pair Mentoring chat (link is in the general chat)
 
-On the current course, we support this basic scenario:
+## How to organize the process?
+### 1. Combine all students into one shared channel in Discord/Telegram;
 
-1. **Random student distribution** happens as usual.
+### 2. Agree on work format
 
-2. **A mentor can agree with another mentor** to:
-   - conduct Technical screening / Core JS interviews together;
-   - combine students into one shared channel in Discord/Telegram;
-   - conduct joint lectures, live coding, and task reviews.
+**Assignment review**
 
-3. On any activities with multiple mentors, **we honestly tell students** that:
-   - the second mentor may also be learning;
-   - the format is needed for experience exchange and improving education quality;
-   - the student can say they prefer one-on-one.
+- Determine how you'll distribute PR reviews:
+  - by students (each is responsible for "their own");
+  - by assignments/modules;
+  - in turns.
+- Any mentor in the group can leave comments in PR.  
+  **The score in RS App is set by the student's primary mentor**, based on reviews (including from another mentor).
 
-## How to Organize Pair Mentoring?
+**Meetings and calls**
 
-### 1. Find a Partner
-- Discuss the possibility of pair mentoring with other mentors in the mentor chat
-- Find a mentor with similar experience or one that complements yours
-- Make sure you have aligned approaches to mentoring and expectations
+- Decide which activities you do together:
+  - a shared weekly call with all students;
+  - separate calls with subgroups;
+  - technical meetups / task reviews / live-coding.
+- Meetings can be conducted:
+  - jointly;
+  - in turns ("this week A calls, next week B").
 
-### 2. Agree on Work Format
-- **Student distribution**: Decide who will be the primary mentor for each student. Students remain assigned to the primary mentor in RS APP, but both mentors have access to all students' repositories in the combined group. If needed, students can be transferred via RS APP > Interviews > Technical Screening > Transfer
-- **Assignment review**: Determine how you'll distribute PR reviews (in turns, by modules, by students). Mentors can review assignments from students in the combined group as convenient. It's recommended to agree on review distribution in advance to avoid duplication. Each PR should be reviewed by at least one mentor
-- **Meetings**: Decide whether you'll conduct meetings together or separately. Meetings can be conducted jointly or in turns. You can organize group meetings for the entire group or individual sessions. It's important to synchronize between mentors about meeting content
-- **Communication**: Define communication channels and synchronization frequency. Regularly exchange information about student progress, discuss difficult cases and make joint decisions. Use a shared Telegram/Discord channel for coordination
+### 3. Inform students
 
-### 3. Inform Students
-- Inform students about the pair mentoring format
-- Introduce both mentors
-- Explain how the work will be organized
-
-## Recommendations
-
-1. **Clear role distribution**: Define who is responsible for what to avoid confusion
-2. **Regular communication**: Maintain constant contact with your partner
-3. **Unified standards**: Agree on unified evaluation criteria and feedback approaches
-4. **Flexibility**: Be ready to adapt to situations and help each other
-5. **Transparency**: Keep students informed about the work format and any changes
+- At the first shared call:
+  - introduce both (or several) mentors;
+  - explain that you're working in pair format;
+  - tell who is the primary mentor for whom and how to contact whom.
+- Briefly discuss:
+  - how PR reviews will be organized;
+  - what shared meetings are planned;
 
 ## Important Notes
 
-- Both mentors are responsible for the quality of mentoring
-- If problems or conflicts arise, contact the course administrators
-- Pair mentoring is a voluntary initiative, not mandatory for all mentors
+- Pair mentoring is a **voluntary** practice. It's recommended but not mandatory.
+- In case of serious problems or conflicts between mentors or students, don't hesitate to contact the course administrators.
 
 ## Example: Marharyta Malets' Experience
 
@@ -83,25 +83,48 @@ On the current course, we support this basic scenario:
 
 Hello!  
 
-I can share my experience with pair mentoring.  
+I'll share my experience with pair mentoring.
 
-Specifically, in the current cohort, two of my mentees from the previous cohort became mentors.
+In the current cohort, two of my mentees from the previous cohort became mentors.  
+Today we have a setup call with them, during which:
 
-Today we have a setup call with them. During this call, we'll create a channel for the current course, discuss all the questions they already have, and agree on a mentoring plan.
+- we'll create a shared channel for the current course;
+- discuss questions they already have;
+- agree on a mentoring plan.
 
-Traditionally, on the main course, I conduct 1 call per week with my students, where we discuss current questions and feedback on reviews (20–30 minutes), as well as go through several questions from the upcoming Core JS1–2 interview with live coding, where students take turns solving practical tasks on the topics covered (60+ minutes – but usually no more than 90). We conduct these calls collectively together with the newly minted mentors for my and "grand-mentees".
+Traditionally, on the main course, I conduct one call per week with my students:
 
-Until the final assignment, we keep all mentees together (or, at the request of the young mentor, we can immediately create an additional isolated channel for their mentees in addition to the general one).
+- first we discuss current questions and feedback on reviews (20–30 minutes);
+- then we go through several questions from the upcoming Core JS 1–2 interview
+  with live coding (60–90 minutes), where students take turns solving practical
+  tasks.
 
-For the final assignment, an isolated channel is created for each team, and by that time, the newly minted mentors are already ready to independently lead teams.
+We conduct these calls **collectively** together with new mentors — for my and
+"grand-mentees".
 
-My benefits – I have several experts in my channel ready to answer students' questions.
+Until the final assignment, we keep all students together  
+(at the request of the young mentor, we can immediately create an additional
+separate channel for their students).
 
-Benefits for young mentors – there's someone to lean on, I'm nearby in any unclear situation.
+For the final assignment, an isolated channel is created for each team, and by
+this time, new mentors are already ready to independently lead teams.
 
-Benefits for students – communication in a close circle of like-minded people, team formation long before the final assignment, mentor support from several mentors at once, success stories of employment of graduates from previous cohorts first-hand (there's a general channel of my mentees, though it was created not so long ago, just a few past cohorts, but the guys sometimes drop by on open calls for JS review).
+**Benefits for me:**  
+several experts in the channel ready to answer students' questions.
 
-However, directly in app.rs.school, my scenario works as individual mentoring. I.e., each of us has our own students and formally we cannot review each other's students' work and grade it.
+**Benefits for young mentors:**  
+there's someone to lean on, I'm nearby in any unclear situation.
+
+**Benefits for students:**  
+
+- communication in a close circle of like-minded people;
+- team formation long before the final assignment;
+- mentor support from several mentors at once;
+- employment stories of graduates from previous cohorts "first-hand".
+
+At the same time, in `app.rs.school`, my scenario is set up as regular individual
+mentoring: each of us has our own students, and formally we cannot set
+scores for assignments of each other's students — but we can help with reviews and calls.
 
 </details>
 
@@ -111,4 +134,3 @@ However, directly in app.rs.school, my scenario works as individual mentoring. I
 - [Registration and Getting Students](mentoring-kick-off.md)
 - [Mentoring Process](mentoring.md)
 - [Mentor Assignment Review](pull-request-review-process.md)
-
