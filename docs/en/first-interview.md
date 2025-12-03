@@ -18,6 +18,7 @@ Techical Screening or Student Mentor Recruitment Process
 Interviews take place during the first two weeks of RS School stage # 2. A list of student-mentor pairs will be available at http://app.rs.school.
 	Students themselves contact the mentor and agree on the date of the interview. Mentor contacts will be available at http://app.rs.school.
 	Interviews can be conducted online.
+	Format: We strongly recommend conducting interviews with the camera turned on. This helps establish contact and reduces the risk of cheating.
 	
 #### Interview Topics:
 
