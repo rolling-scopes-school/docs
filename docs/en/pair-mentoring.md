@@ -9,7 +9,7 @@ At the same time:
   `RS App → Interviews → Technical Screening → Transfer`  
   (or through the course coordinator).
 - other mentors in the group can participate in interviews, calls, PR reviews, and general student support, **but the final score in RS APP is set by the primary mentor**.
-- Pair / group mentoring is an overlay **about communication, collaboration, and experience exchange**
+- Pair / group mentoring is an overlay about communication, collaboration, and experience exchange. The format can be very different, the main thing is that it makes it easier and more enjoyable for all participants.
 - It's not required that one of the mentors be a "senior mentor". It's normal if two mentors with comparable experience levels work together — the main thing is that you're comfortable working together.
 
 ## Why is this format needed?
