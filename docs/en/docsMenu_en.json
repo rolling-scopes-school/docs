@@ -203,6 +203,14 @@
     "title": "Mentoring",
     "items": [
       {
+        "title": "Mentor",
+        "link": "rs-school-mentor"
+      },
+      {
+        "title": "Pair Mentoring",
+        "link": "pair-mentoring"
+      },
+      {
         "title": "Pull Request Review Process",
         "link": "pull-request-review-process"
       }

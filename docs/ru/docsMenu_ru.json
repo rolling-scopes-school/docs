@@ -95,6 +95,10 @@
         "link": "rs-school-mentor"
       },
       {
+        "title": "Парный менторинг",
+        "link": "pair-mentoring"
+      },
+      {
         "title": "Регистрация и получение студентов",
         "link": "mentoring-kick-off"
       },
