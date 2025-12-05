@@ -185,17 +185,7 @@
       },
       {
         "title": "Trainer",
-        "link": "rs-school-trainer",
-        "items": [
-          {
-            "title": "Task creation",
-            "link": "task-creation"
-          },
-          {
-            "title": "Streaming",
-            "link": "streaming"
-          }
-        ]
+        "link": "rs-school-trainer"
       }
     ]
   },
@@ -225,6 +215,31 @@
       {
         "title": "Mentor Assignment Review",
         "link": "pull-request-review-process"
+      }
+    ]
+  },
+  {
+    "title": "For Trainers and Admins",
+    "items": [
+      {
+        "title": "General Information",
+        "link": "rs-school-trainer"
+      },
+      {
+        "title": "Task Creation",
+        "link": "create-task"
+      },
+      {
+        "title": "Adding Tests to RS App",
+        "link": "rs-app-add-tests"
+      },
+      {
+        "title": "Schedule",
+        "link": "rs-app-schedule-admins"
+      },
+      {
+        "title": "Streaming",
+        "link": "streaming"
       }
     ]
   },
