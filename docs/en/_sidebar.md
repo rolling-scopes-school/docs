@@ -47,7 +47,7 @@
     - [Streaming](en/streaming.md)
 - Mentoring
   - [Pull Request Review Process](en/pull-request-review-process.md)
-- [RS APP](en/rsapp.md)
+- [RS APP](en/rs-app.md)
 - [How to contribute](en/how-to-contribute.md)
 - [About The Rolling Scopes](en/rolling-scopes-overview.md)
 - [Support community](en/fundraiser.md)

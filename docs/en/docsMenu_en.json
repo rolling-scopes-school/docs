@@ -229,8 +229,25 @@
     ]
   },
   {
-    "title": "RS APP",
-    "link": "rsapp"
+    "title": "RS APP Platform",
+    "items": [
+      {
+        "title": "Overview",
+        "link": "rs-app"
+      },
+      {
+        "title": "Submitting Assignments in RS APP",
+        "link": "rs-app-tasks"
+      },
+      {
+        "title": "Cross check",
+        "link": "cross-check-flow"
+      },
+      {
+        "title": "Typical Problems",
+        "link": "rs-app-issues"
+      }
+    ]
   },
   {
     "title": "How to contribute",
