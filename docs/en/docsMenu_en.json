@@ -236,6 +236,10 @@
         "link": "rs-app"
       },
       {
+        "title": "Schedule",
+        "link": "rs-app-schedule"
+      },
+      {
         "title": "Submitting Assignments in RS APP",
         "link": "rs-app-tasks"
       },
@@ -244,8 +248,46 @@
         "link": "cross-check-flow"
       },
       {
+        "title": "Notifications",
+        "link": "notifications"
+      },
+      {
         "title": "Typical Problems",
         "link": "rs-app-issues"
+      }
+    ]
+  },
+  {
+    "title": "Private Repository",
+    "items": [
+      {
+        "title": "Private Repository",
+        "link": "private-repository"
+      },
+      {
+        "title": "Git Convention",
+        "link": "git-convention"
+      }
+    ]
+  },
+  {
+    "title": "How to help the school?",
+    "items": [
+      {
+        "title": "Become an Activist",
+        "link": "rs-school-activist"
+      },
+      {
+        "title": "How to Fix a Typo in Documentation?",
+        "link": "fix-typo"
+      },
+      {
+        "title": "Who are RSS AI?",
+        "link": "rs-school-ai"
+      },
+      {
+        "title": "Support Community",
+        "link": "fundraiser"
       }
     ]
   },
