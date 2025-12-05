@@ -4,6 +4,27 @@
     "link": "README"
   },
   {
+    "title": "Education Process",
+    "items": [
+      {
+        "title": "Communication. Communication Channels",
+        "link": "rs-school-chats"
+      },
+      {
+        "title": "Code of Conduct",
+        "link": "code-of-conduct"
+      },
+      {
+        "title": "Dismission",
+        "link": "dismission"
+      },
+      {
+        "title": "Certificate",
+        "link": "rs-school-certificate"
+      }
+    ]
+  },
+  {
     "title": "JavaScript/Front-end Course",
     "items": [
       {
