@@ -203,7 +203,7 @@
     "title": "Mentoring",
     "items": [
       {
-        "title": "Mentor",
+        "title": "How to Become a Mentor?",
         "link": "rs-school-mentor"
       },
       {
@@ -211,7 +211,19 @@
         "link": "pair-mentoring"
       },
       {
-        "title": "Pull Request Review Process",
+        "title": "Registration and Getting Students",
+        "link": "mentoring-kick-off"
+      },
+      {
+        "title": "First Interview",
+        "link": "mentoring-first-interview"
+      },
+      {
+        "title": "Mentoring Process",
+        "link": "mentoring"
+      },
+      {
+        "title": "Mentor Assignment Review",
         "link": "pull-request-review-process"
       }
     ]
