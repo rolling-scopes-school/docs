@@ -92,27 +92,27 @@
     "items": [
       {
         "title": "Как стать ментором?",
-        "link": "rs-school-mentor"
+        "link": "mentoring/rs-school-mentor"
       },
       {
         "title": "Парный менторинг",
-        "link": "pair-mentoring"
+        "link": "mentoring/pair-mentoring"
       },
       {
         "title": "Регистрация и получение студентов",
-        "link": "mentoring-kick-off"
+        "link": "mentoring/mentoring-kick-off"
       },
       {
         "title": "Первое интервью",
-        "link": "mentoring-first-interview"
+        "link": "mentoring/mentoring-first-interview"
       },
       {
         "title": "Процесс менторинга",
-        "link": "mentoring"
+        "link": "mentoring/mentoring"
       },
       {
         "title": "Проверка задания ментором",
-        "link": "pull-request-review-process"
+        "link": "mentoring/pull-request-review-process"
       }
     ]
   },

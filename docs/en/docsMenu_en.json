@@ -215,27 +215,27 @@
     "items": [
       {
         "title": "How to Become a Mentor?",
-        "link": "rs-school-mentor"
+        "link": "mentoring/rs-school-mentor"
       },
       {
         "title": "Pair Mentoring",
-        "link": "pair-mentoring"
+        "link": "mentoring/pair-mentoring"
       },
       {
         "title": "Registration and Getting Students",
-        "link": "mentoring-kick-off"
+        "link": "mentoring/mentoring-kick-off"
       },
       {
         "title": "First Interview",
-        "link": "mentoring-first-interview"
+        "link": "mentoring/mentoring-first-interview"
       },
       {
         "title": "Mentoring Process",
-        "link": "mentoring"
+        "link": "mentoring/mentoring"
       },
       {
         "title": "Mentor Assignment Review",
-        "link": "pull-request-review-process"
+        "link": "mentoring/pull-request-review-process"
       }
     ]
   },
