@@ -103,56 +103,22 @@ Pull Request - это место для обсуждения кода. Он не
 - Все промисы обрабатываются (.catch или try-catch)
 - Параллельные запросы через Promise.all
 
-Детальный процесс проверки качества кода описан в [общем чеклисте]().
-
-**Рекомендации по технологиям:**
-- [HTML Best Practices]() - семантика, доступность, alt атрибуты
-- [CSS Best Practices]() - БЭМ, вложенность, CSS переменные, единицы измерения
-- [TypeScript Best Practices]() - типизация, no any, generics, enums
-- [React Best Practices]() - hooks, производительность, компоненты
-- [UI/UX Guidelines]() - интерактивность, accessibility
-
-**Полный справочник**: [Clean Code Fundamental (все части)]()
+Детально весь процесс проведения код ревью описан в [checklist](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/checklists/checklist.md).
 
 ## Инструменты автоматизации проверки
 
-Для ускорения и упрощения процесса проверки PR можно использовать инструменты автоматизации из [репозитория mentor-resources]().
+Чтобы сократить время на рутинные проверки и больше сосредоточиться на стратегических вопросах — архитектурных решениях и подходах к задачам — можно использовать инструменты автоматизации. Подробнее об этом можно прочитать в чеклисте [здесь](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/checklists/checklist.md#%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8).  
 
 ### Bash-скрипт автоматической проверки
 
-**Файл**: `templates/scripts/auto-check.sh`
+**Файл**: [templates/scripts/auto-check.sh](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/scripts/auto-check.sh)
 
-**Что проверяет автоматически:**
-- TypeScript конфигурация (strict mode, noImplicitAny)
-- ESLint настройки и количество ошибок
-- Наличие `any` в коде (с указанием файлов)
-- Статистика TypeScript features (interfaces, generics, enums, classes)
-- Качество кода (console.log, закомментированный код, TODO)
-- Анализ git коммитов (% Conventional Commits)
-- Проверка сборки проекта
-
-**Подробнее**: [Документация по скрипту]()
+**Подробнее**: [Документация по скрипту](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/scripts/auto-check.md)
 
 ### AI агент для комплексного code review
 
-**Файл**: `templates/agents/reviewer.md`
+Используйте AI агентов (Claude, ChatGPT и т.п.) для глубокого анализа кода с использованием промпта. Подробно о том, как его использовать для код ревью прочитать в чеклисте [здесь](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/checklists/checklist.md#ai-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82).
 
-Используйте AI агентов (Claude, ChatGPT и т.п.) для глубокого анализа кода с использованием специального промпта.
-
-**Что проверяет:**
-- Clean Code принципы (именование, размер функций, DRY, KISS, SOLID)
-- TypeScript best practices (типизация, no any, продвинутые features)
-- React patterns (hooks правильность, компоненты, state management)
-- Архитектура проекта и структура кода
-- HTML/CSS/UI-UX качество
-
-**Преимущества:**
-- Детальный анализ с указанием `file:line`
-- Выявление критических ошибок и рекомендации
-- Оценка архитектурных решений
-- Структурированный отчет
-
-**Как использовать**: Скопируйте содержимое [reviewer.md]() и используйте как промпт для AI модели в склонированном репозитории студента.
 
 ### Рекомендуемый workflow с автоматизацией
 
@@ -160,16 +126,18 @@ Pull Request - это место для обсуждения кода. Он не
 
 1. **Автоматическая проверка** (5 мин):
    - Запустить bash-скрипт → получить метрики
-   - Использовать AI агент → получить code review
+   - или
+   - Использовать AI агент → получить полный отчет по code review
 
 2. **Ручная проверка** (10-15 мин):
-   - Проверить архитектуру и бизнес-логику
-   - Оценить дизайн и UI/UX
-   - Протестировать функциональность
+    - Pull Request оформлен согласно требованиям, Deploy URL работает
+    - Проверить архитектуру и бизнес-логику
+    - Оценить дизайн и UI/UX
+    - Протестировать функциональность
 
 3. **Финальный комментарий** (5 мин):
-   - Скомбинировать результаты всех проверок
-   - Использовать [шаблон комментария]()
+   - Собрать результаты всех проверок
+   - Использовать [шаблон комментария](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/checklists/checklist.md#%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D1%8F-%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D1%80%D0%B0)
 
 **Экономия времени**: базовые проверки займут 1-2 минуты вместо 10-15, ментор сможет сосредоточиться на важных аспектах.
 
@@ -187,7 +155,7 @@ Pull Request - это место для обсуждения кода. Он не
 
 ## Рекомендуемые ссылки
 - [Правила оформления Pull Request](https://rs.school/docs/en/pull-request-review-process#pull-request-requirements-pr)
-- [Репозиторий Mentor Resources]() - чеклисты, гайды по чистому коду, инструменты автоматизации
-- [Clean Code Practices - все материалы]()
-- [Общий чеклист для проверки PR]()
-- [ESLint конфигурация для RS School]()
+- [Репозиторий Mentor Resources](https://github.com/HelgaZhizhka/mentor-resources) - чеклисты, гайды по чистому коду, инструменты автоматизации
+- [Clean Code Practices - все материалы](https://github.com/HelgaZhizhka/mentor-resources/blob/master/clean-code/index.md)
+- [Общий чеклист для проверки PR](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/checklists/checklist.md)
+- [ESLint конфигурация для RS School](https://github.com/HelgaZhizhka/mentor-resources/blob/master/templates/checklists/eslint.md)
