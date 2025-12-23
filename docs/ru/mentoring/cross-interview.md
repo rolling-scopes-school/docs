@@ -198,3 +198,249 @@
   - честно обозначать, где знание слабое, чтобы потом можно было усилить.
 
 ---
+
+## 7. Пример тем которые имеет смысл разобрать в ходе кросс‑интервью
+Список достаточно большой, его лучше растянуть на 3-4 встречи 
+
+- Exploring the Temporal Dead Zone. 
+- Concepts of Hoisting. 
+- The role of polyfills. 
+- Global scope vs. functional scope. 
+- Working with nested scopes. 
+- Differences in parameters passing by value and by reference. 
+- Understanding context and lexical environments. 
+- Differences between scope and context. 
+- The mechanism of lexical environment traversal. 
+- Connection between function and its lexical environment.   
+- `this` in functions   
+- Reference Type & losing `this`  
+- Understand difference between function and method   
+- Understand how `this` works, realize `this` possible issues  
+- Manage `this`   - Be able to replace `this` value   
+- Be able to use `call` and `apply` Function built-in methods   
+- Know how to bind `this` scope to function   
+- Binding, binding one function twice
+- Comparing `arguments` and `rest parameters`. 
+- Working with static Object methods. 
+- Property flags and descriptors. 
+- Creating iterable objects and using `Symbol.iterator` (optional). 
+- Sorting and custom sorting arrays. 
+- Types of DOM Events. 
+- Event Phases and their differences. 
+- Custom events (optional). 
+- Event propagation cycle. 
+- Event delegation and its pros/cons. 
+- Usage of `setTimeout` / `setInterval`. 
+- Timezones and Internationalization in JavaScript (Intl).
+ 
+## 7.1. Примеры вопросов
+Ниже приведен пример готовых блоков вопросов для одной из сессий.
+Ожидается что наборы вопросов вы можете создать сами использую ChatGPT или любой другой GenAI
+
+**List 1**
+ 
+1. **Exploring the Temporal Dead Zone:**  
+What will be the output of the following code and why?
+```javascript
+console.log(a);
+let a = 5;
+```
+ 
+2. **Concepts of Hoisting:**  
+What will be logged to the console and why?
+```javascript
+foo();
+function foo() {
+  console.log('Hello');
+}
+```
+ 
+3. **The role of polyfills:**  
+What is the purpose of a polyfill, and how would you use one for `Array.prototype.includes` in an old browser?
+ 
+4. **Global scope vs. functional scope:**  
+What will be the output and why?
+```javascript
+var x = 10;
+function test() {
+  var x = 20;
+  console.log(x);
+}
+test();
+console.log(x);
+```
+ 
+5. **Working with nested scopes:**  
+What will be logged to the console?
+```javascript
+function outer() {
+  let a = 1;
+  function inner() {
+    let b = 2;
+    console.log(a + b);
+  }
+  inner();
+}
+outer();
+```
+ 
+6. **Differences in parameters passing by value and by reference:**  
+What will be the output and why?
+```javascript
+function change(obj) {
+  obj.value = 10;
+}
+let a = { value: 5 };
+change(a);
+console.log(a.value);
+```
+ 
+7. **Understanding context and lexical environments:**  
+What is the value of `x` when `bar()` is called?
+```javascript
+let x = 1;
+function foo() {
+  let x = 2;
+  function bar() {
+    console.log(x);
+  }
+  bar();
+}
+foo();
+```
+ 
+8. **Differences between scope and context:**  
+Explain the difference between scope and context in JavaScript with a short code example.
+ 
+9. **The mechanism of lexical environment traversal:**  
+What will be printed and why?
+```javascript
+let a = 1;
+function first() {
+  let b = 2;
+  function second() {
+    console.log(a + b);
+  }
+  second();
+}
+first();
+```
+ 
+10. **Connection between function and its lexical environment:**  
+What will be the output and why?
+```javascript
+function makeAdder(x) {
+  return function(y) {
+    return x + y;
+  };
+}
+const add5 = makeAdder(5);
+console.log(add5(2));
+```
+ 
+**List 2**
+ 
+1. **Exploring the Temporal Dead Zone:**  
+Why does the following code throw an error?
+```javascript
+console.log(b);
+let b = 3;
+```
+ 
+2. **Concepts of Hoisting:**  
+What will be the output and why?
+```javascript
+console.log(bar);
+var bar = 7;
+```
+ 
+3. **The role of polyfills:**  
+How would you check if a polyfill is needed for `Promise` in a browser?
+ 
+4. **Global scope vs. functional scope:**  
+What will be printed and why?
+```javascript
+let y = 5;
+function demo() {
+  y = 15;
+  console.log(y);
+}
+demo();
+console.log(y);
+```
+ 
+5. **Working with nested scopes:**  
+What will be the output?
+```javascript
+let x = 10;
+function a() {
+  let x = 20;
+  function b() {
+    console.log(x);
+  }
+  b();
+}
+a();
+```
+ 
+6. **Differences in parameters passing by value and by reference:**  
+What will be logged and why?
+```javascript
+function modify(num) {
+  num = 100;
+}
+let b = 50;
+modify(b);
+console.log(b);
+```
+ 
+7. **Understanding context and lexical environments:**  
+What will be the output and why?
+```javascript
+let y = 3;
+function outer() {
+  let y = 4;
+  function inner() {
+    console.log(y);
+  }
+  return inner;
+}
+const fn = outer();
+fn();
+```
+ 
+8. **Differences between scope and context:**  
+Given the following code, what is the scope and what is the context of `foo`?
+```javascript
+function foo() {
+  console.log(this);
+}
+```
+ 
+9. **The mechanism of lexical environment traversal:**  
+What will be printed and why?
+```javascript
+let z = 5;
+function alpha() {
+  function beta() {
+    console.log(z);
+  }
+  beta();
+}
+alpha();
+```
+ 
+10. **Connection between function and its lexical environment:**  
+What will be the output and why?
+```javascript
+function counter() {
+  let count = 0;
+  return function() {
+    count++;
+    return count;
+  };
+}
+const c = counter();
+console.log(c());
+console.log(c());
+```
