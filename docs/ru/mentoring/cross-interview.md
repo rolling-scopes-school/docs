@@ -41,7 +41,7 @@
 
 - **Выявлять слабые темы.**  
   По тому, как идёт обсуждение, ментор видит «мёртвые зоны»:
-  - где студенты путают базу (this/scope/context и т.п.);
+  - где студенты путают базу (this / scope / context и т.п.);
   - где теорию знают «по словам», но не могут применить;
   - какие темы стоит повторить или вынести в отдельную лекцию.
 
@@ -75,7 +75,7 @@
   - 8–15 теоретических + при желании 2–4 маленькие практические задачки;
   - делят вопросы на блоки (например, Block A / Block B);
 - настраивают технический формат:
-  - видеозвонок с breakout rooms (Zoom/Meet/Discord Stage+rooms и т.п.);
+  - видеозвонок с breakout rooms (Zoom / Meet / Discord Stage + rooms и т.п.);
   - таймер / расписание раундов.
 
 **Студенты:**
@@ -144,7 +144,7 @@
 
 Вариант, который можно использовать как отдельный эксперимент или дополнение:
 
-- вопросы оформляются в Google Form (или другой форме);
+- вопросы оформляются в Google Forms (или другой форме);
 - помимо теории, добавляются **маленькие практические задачки**:
   - короткие сниппеты кода;
   - «что выведет / как сработает»;
@@ -166,7 +166,7 @@
 
 До сессии:
 
-- определить цели конкретного кросс‑интервью (что хотим проверить/закрепить);
+- определить цели конкретного кросс‑интервью (что хотим проверить / закрепить);
 - подготовить список вопросов и формат (комнаты, время, инструменты);
 - заранее предупредить студентов, чтобы они могли повторить тему.
 
@@ -199,43 +199,43 @@
 
 ---
 
-## 7. Пример тем которые имеет смысл разобрать в ходе кросс‑интервью
+## 7. Примеры тем, которые имеет смысл разобрать в ходе кросс‑интервью
 Список достаточно большой, его лучше растянуть на 3-4 встречи 
 
-- Exploring the Temporal Dead Zone. 
-- Concepts of Hoisting. 
-- The role of polyfills. 
-- Global scope vs. functional scope. 
-- Working with nested scopes. 
-- Differences in parameters passing by value and by reference. 
-- Understanding context and lexical environments. 
-- Differences between scope and context. 
-- The mechanism of lexical environment traversal. 
-- Connection between function and its lexical environment.   
+- Exploring the Temporal Dead Zone 
+- Concepts of Hoisting 
+- The role of polyfills 
+- Global scope vs functional scope 
+- Working with nested scopes 
+- Differences in parameters passing by value and by reference 
+- Understanding context and lexical environments 
+- Differences between scope and context 
+- The mechanism of lexical environment traversal 
+- Connection between function and its lexical environment   
 - `this` in functions   
-- Reference Type & losing `this`  
-- Understand difference between function and method   
-- Understand how `this` works, realize `this` possible issues  
-- Manage `this`   - Be able to replace `this` value   
+- Reference Type and losing `this`  
+- Understanding difference between function and method   
+- Understanding how `this` works, realize `this` possible issues  
+- Manage `this` - be able to replace `this` value   
 - Be able to use `call` and `apply` Function built-in methods   
-- Know how to bind `this` scope to function   
-- Binding, binding one function twice
-- Comparing `arguments` and `rest parameters`. 
-- Working with static Object methods. 
-- Property flags and descriptors. 
-- Creating iterable objects and using `Symbol.iterator` (optional). 
-- Sorting and custom sorting arrays. 
-- Types of DOM Events. 
-- Event Phases and their differences. 
-- Custom events (optional). 
-- Event propagation cycle. 
-- Event delegation and its pros/cons. 
-- Usage of `setTimeout` / `setInterval`. 
-- Timezones and Internationalization in JavaScript (Intl).
+- Know how to bind `this` to function   
+- Binding one function twice
+- Comparing `arguments` and `rest parameters` 
+- Working with static Object methods 
+- Property flags and descriptors 
+- Creating iterable objects and using `Symbol.iterator` (optional) 
+- Sorting and custom sorting arrays 
+- Types of DOM Events 
+- Event Phases and their differences 
+- Custom events (optional) 
+- Event propagation cycle 
+- Event delegation and its pros / cons 
+- Usage of `setTimeout` / `setInterval` 
+- Timezones and Internationalization in JavaScript (Intl)
  
 ## 7.1. Примеры вопросов
 Ниже приведен пример готовых блоков вопросов для одной из сессий.
-Ожидается что наборы вопросов вы можете создать сами использую ChatGPT или любой другой GenAI
+Ожидается, что наборы вопросов вы можете создать сами, используя ChatGPT или любой другой GenAI
 
 **List 1**
  
@@ -258,7 +258,7 @@ function foo() {
 3. **The role of polyfills:**  
 What is the purpose of a polyfill, and how would you use one for `Array.prototype.includes` in an old browser?
  
-4. **Global scope vs. functional scope:**  
+4. **Global scope vs functional scope:**  
 What will be the output and why?
 ```javascript
 var x = 10;
@@ -357,7 +357,7 @@ var bar = 7;
 3. **The role of polyfills:**  
 How would you check if a polyfill is needed for `Promise` in a browser?
  
-4. **Global scope vs. functional scope:**  
+4. **Global scope vs functional scope:**  
 What will be printed and why?
 ```javascript
 let y = 5;
