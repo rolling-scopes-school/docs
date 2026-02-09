@@ -25,7 +25,7 @@
     - [Tasks](en/short-track/rs-app-tasks.md)
     - [Cross check](en/cross-check-flow.md)
     - [Git convention](en/git-convention.md)
-    - [Pull Request Review Process](en/pull-request-review-process.md)
+    - [Pull Request Review Process](en/mentoring/pull-request-review-process.md)
     - [Certificate](en/short-track/certificate.md)
     - Moderation
       - [Dismission](en/short-track/dismission.md)
@@ -46,7 +46,7 @@
     - [Task creation](en/task-creation.md)
     - [Streaming](en/streaming.md)
 - Mentoring
-  - [Pull Request Review Process](en/pull-request-review-process.md)
+  - [Pull Request Review Process](en/mentoring/pull-request-review-process.md)
 - [RS APP](en/rs-app.md)
 - [How to contribute](en/how-to-contribute.md)
 - [About The Rolling Scopes](en/rolling-scopes-overview.md)
