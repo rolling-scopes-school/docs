@@ -124,15 +124,15 @@
           },
           {
             "title": "Cross check",
-            "link": "cross-check-flow"
+            "link": "short-track/cross-check-flow"
           },
           {
             "title": "Git convention",
             "link": "git-convention"
           },
           {
-            "title": "Pull Request Review Process",
-            "link": "pull-request-review-process"
+            "title": "Pull Request Requirements",
+            "link": "short-track/pull-request-requirements"
           },
           {
             "title": "Certificate",
