@@ -23,9 +23,9 @@
   - [How to enroll](https://rs.school/courses/short-track)
   - Education process
     - [Tasks](en/short-track/rs-app-tasks.md)
-    - [Cross check](en/cross-check-flow.md)
+    - [Cross check](en/short-track/cross-check-flow.md)
     - [Git convention](en/git-convention.md)
-    - [Pull Request Review Process](en/pull-request-review-process.md)
+    - [Pull Request Requirements](en/short-track/pull-request-requirements.md)
     - [Certificate](en/short-track/certificate.md)
     - Moderation
       - [Dismission](en/short-track/dismission.md)
